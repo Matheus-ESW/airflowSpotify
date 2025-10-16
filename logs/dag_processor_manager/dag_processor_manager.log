@@ -1,0 +1,632 @@
+[2025-10-15 17:21:33,391] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-10-15 17:21:33,391] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-10-15 17:21:33,391] {manager.py:482} INFO - Checking for new files in /root/Projects/airflowSpotify/dags every 300 seconds
+[2025-10-15 17:21:33,391] {manager.py:690} INFO - Searching for files in /root/Projects/airflowSpotify/dags
+[2025-10-15 17:21:33,417] {manager.py:693} INFO - There are 34 files in /root/Projects/airflowSpotify/dags
+[2025-10-15 17:21:33,573] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py                                           0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py                                                   0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py                                               0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py                                           0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py                                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py                                                   0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py                                           0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py                                                0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py                                      0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py                                                      0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py                                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py                                                          0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.11s           2025-10-15T20:21:33
+================================================================================
+[2025-10-15 17:22:03,907] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py                                           0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.11s           2025-10-15T20:21:59
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.11s           2025-10-15T20:21:55
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.11s           2025-10-15T20:21:35
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.18s           2025-10-15T20:21:34
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.11s           2025-10-15T20:21:33
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.23s           2025-10-15T20:22:03
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.21s           2025-10-15T20:22:03
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.21s           2025-10-15T20:22:02
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.22s           2025-10-15T20:22:00
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.21s           2025-10-15T20:21:58
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.21s           2025-10-15T20:21:56
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.24s           2025-10-15T20:21:54
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.21s           2025-10-15T20:21:53
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.21s           2025-10-15T20:21:52
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.22s           2025-10-15T20:21:51
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.21s           2025-10-15T20:21:50
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.22s           2025-10-15T20:21:49
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.21s           2025-10-15T20:21:47
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.21s           2025-10-15T20:21:46
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.21s           2025-10-15T20:21:45
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.21s           2025-10-15T20:21:43
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.21s           2025-10-15T20:21:43
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.31s           2025-10-15T20:21:42
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.21s           2025-10-15T20:21:39
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.31s           2025-10-15T20:21:38
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.34s           2025-10-15T20:21:37
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.21s           2025-10-15T20:21:59
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.32s           2025-10-15T20:21:41
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.22s           2025-10-15T20:21:48
+================================================================================
+[2025-10-15 17:22:19,168] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-15 17:32:21,791] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-10-15 17:32:21,792] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-10-15 17:32:21,792] {manager.py:482} INFO - Checking for new files in /root/Projects/airflowSpotify/dags every 300 seconds
+[2025-10-15 17:32:21,792] {manager.py:690} INFO - Searching for files in /root/Projects/airflowSpotify/dags
+[2025-10-15 17:32:21,814] {manager.py:693} INFO - There are 34 files in /root/Projects/airflowSpotify/dags
+[2025-10-15 17:32:21,972] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py                                           0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py                                                   0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py                                               0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py                                           0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py                                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py                                                   0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py                                           0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py                                                0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py                                      0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py                                                      0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py                                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py                                                          0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.11s           2025-10-15T20:32:21
+================================================================================
+[2025-10-15 17:32:35,697] {manager.py:924} ERROR - Processor for /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py exited with return code 1.
+[2025-10-15 17:32:52,108] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               0           0
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.12s           2025-10-15T20:32:45
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.11s           2025-10-15T20:32:42
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py                                           0          -1  0.21s           2025-10-15T20:32:35
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.24s           2025-10-15T20:32:24
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.13s           2025-10-15T20:32:23
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.11s           2025-10-15T20:32:21
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.11s           2025-10-15T20:32:52
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.11s           2025-10-15T20:32:51
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.21s           2025-10-15T20:32:51
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.11s           2025-10-15T20:32:49
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.11s           2025-10-15T20:32:48
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.21s           2025-10-15T20:32:47
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.11s           2025-10-15T20:32:44
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.11s           2025-10-15T20:32:43
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.11s           2025-10-15T20:32:41
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.21s           2025-10-15T20:32:40
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.11s           2025-10-15T20:32:39
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.11s           2025-10-15T20:32:38
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.11s           2025-10-15T20:32:37
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.22s           2025-10-15T20:32:36
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.12s           2025-10-15T20:32:34
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.21s           2025-10-15T20:32:33
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.11s           2025-10-15T20:32:32
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.12s           2025-10-15T20:32:31
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.11s           2025-10-15T20:32:30
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.21s           2025-10-15T20:32:29
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.11s           2025-10-15T20:32:26
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.12s           2025-10-15T20:32:26
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.11s           2025-10-15T20:32:25
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.11s           2025-10-15T20:32:46
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.32s           2025-10-15T20:32:28
+================================================================================
+[2025-10-15 17:33:07,344] {manager.py:924} ERROR - Processor for /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py exited with return code 1.
+[2025-10-15 17:33:22,141] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.12s           2025-10-15T20:33:19
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.12s           2025-10-15T20:33:16
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py                                      0          -1  0.21s           2025-10-15T20:33:07
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.11s           2025-10-15T20:32:57
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.11s           2025-10-15T20:32:57
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.11s           2025-10-15T20:32:56
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.11s           2025-10-15T20:32:55
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.21s           2025-10-15T20:32:53
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.11s           2025-10-15T20:32:52
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.11s           2025-10-15T20:32:52
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.11s           2025-10-15T20:32:51
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.21s           2025-10-15T20:32:51
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.11s           2025-10-15T20:32:49
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.11s           2025-10-15T20:32:48
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.21s           2025-10-15T20:33:22
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.12s           2025-10-15T20:33:18
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.22s           2025-10-15T20:33:18
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.11s           2025-10-15T20:33:15
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.11s           2025-10-15T20:33:14
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.11s           2025-10-15T20:33:13
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.11s           2025-10-15T20:33:12
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.11s           2025-10-15T20:33:11
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.23s           2025-10-15T20:33:10
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.12s           2025-10-15T20:33:08
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.11s           2025-10-15T20:33:06
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.11s           2025-10-15T20:33:05
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.11s           2025-10-15T20:33:04
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.21s           2025-10-15T20:33:03
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.11s           2025-10-15T20:33:01
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.21s           2025-10-15T20:33:00
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.11s           2025-10-15T20:32:59
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.11s           2025-10-15T20:33:20
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.21s           2025-10-15T20:33:02
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.11s           2025-10-15T20:33:09
+================================================================================
+[2025-10-15 17:33:52,877] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.12s           2025-10-15T20:33:52
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.12s           2025-10-15T20:33:49
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.11s           2025-10-15T20:33:32
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.12s           2025-10-15T20:33:31
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.11s           2025-10-15T20:33:30
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.11s           2025-10-15T20:33:33
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.12s           2025-10-15T20:33:28
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.11s           2025-10-15T20:33:28
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.21s           2025-10-15T20:33:27
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.11s           2025-10-15T20:33:26
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.11s           2025-10-15T20:33:24
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.22s           2025-10-15T20:33:23
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.11s           2025-10-15T20:33:22
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.21s           2025-10-15T20:33:22
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.23s           2025-10-15T20:33:51
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.13s           2025-10-15T20:33:50
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.11s           2025-10-15T20:33:48
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.22s           2025-10-15T20:33:47
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.11s           2025-10-15T20:33:46
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.11s           2025-10-15T20:33:45
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.11s           2025-10-15T20:33:44
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.11s           2025-10-15T20:33:44
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.11s           2025-10-15T20:33:42
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.21s           2025-10-15T20:33:41
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.11s           2025-10-15T20:33:40
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.11s           2025-10-15T20:33:39
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.11s           2025-10-15T20:33:38
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.21s           2025-10-15T20:33:37
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.22s           2025-10-15T20:33:35
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.11s           2025-10-15T20:33:34
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.22s           2025-10-15T20:33:32
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.11s           2025-10-15T20:33:20
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.23s           2025-10-15T20:33:36
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.11s           2025-10-15T20:33:42
+================================================================================
+[2025-10-15 17:34:23,066] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.12s           2025-10-15T20:33:52
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.12s           2025-10-15T20:33:49
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.11s           2025-10-15T20:34:05
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.15s           2025-10-15T20:34:04
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.11s           2025-10-15T20:34:03
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.11s           2025-10-15T20:34:10
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.12s           2025-10-15T20:34:02
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.11s           2025-10-15T20:34:01
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.12s           2025-10-15T20:33:59
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.11s           2025-10-15T20:33:59
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.11s           2025-10-15T20:33:58
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.12s           2025-10-15T20:33:57
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.13s           2025-10-15T20:33:55
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.22s           2025-10-15T20:33:54
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.23s           2025-10-15T20:33:51
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.13s           2025-10-15T20:33:50
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.11s           2025-10-15T20:33:48
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.22s           2025-10-15T20:34:23
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.11s           2025-10-15T20:34:21
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.11s           2025-10-15T20:34:20
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.12s           2025-10-15T20:34:20
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.11s           2025-10-15T20:34:19
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.11s           2025-10-15T20:34:16
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.21s           2025-10-15T20:34:15
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.22s           2025-10-15T20:34:14
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.11s           2025-10-15T20:34:13
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.12s           2025-10-15T20:34:12
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.23s           2025-10-15T20:34:11
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.12s           2025-10-15T20:34:08
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.14s           2025-10-15T20:34:07
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.11s           2025-10-15T20:34:06
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.11s           2025-10-15T20:33:54
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.11s           2025-10-15T20:34:09
+/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.21s           2025-10-15T20:34:17
+================================================================================
+[2025-10-15 17:34:51,462] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-15 18:58:31,014] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-10-15 18:58:31,014] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-10-15 18:58:31,015] {manager.py:482} INFO - Checking for new files in /root/Projects/airflowSpotify/dags every 300 seconds
+[2025-10-15 18:58:31,015] {manager.py:690} INFO - Searching for files in /root/Projects/airflowSpotify/dags
+[2025-10-15 18:58:31,045] {manager.py:693} INFO - There are 34 files in /root/Projects/airflowSpotify/dags
+[2025-10-15 18:58:31,196] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.11s           2025-10-15T21:58:31
+================================================================================
+[2025-10-15 18:59:01,454] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.11s           2025-10-15T21:58:56
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.11s           2025-10-15T21:58:53
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.14s           2025-10-15T21:58:33
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.11s           2025-10-15T21:58:32
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.11s           2025-10-15T21:58:31
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.21s           2025-10-15T21:59:01
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.21s           2025-10-15T21:59:01
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.21s           2025-10-15T21:58:59
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.21s           2025-10-15T21:58:58
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.21s           2025-10-15T21:58:55
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.21s           2025-10-15T21:58:54
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.21s           2025-10-15T21:58:52
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.21s           2025-10-15T21:58:51
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.21s           2025-10-15T21:58:50
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.21s           2025-10-15T21:58:49
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.21s           2025-10-15T21:58:48
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.31s           2025-10-15T21:58:46
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.21s           2025-10-15T21:58:45
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.22s           2025-10-15T21:58:43
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.21s           2025-10-15T21:58:42
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.21s           2025-10-15T21:58:41
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.21s           2025-10-15T21:58:41
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.21s           2025-10-15T21:58:39
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.21s           2025-10-15T21:58:37
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.21s           2025-10-15T21:58:36
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           1  0.42s           2025-10-15T21:58:34
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.21s           2025-10-15T21:58:57
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.21s           2025-10-15T21:58:38
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.21s           2025-10-15T21:58:46
+================================================================================
+[2025-10-15 18:59:29,247] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-15 18:59:45,805] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-10-15 18:59:45,806] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-10-15 18:59:45,806] {manager.py:482} INFO - Checking for new files in /root/Projects/airflowSpotify/dags every 300 seconds
+[2025-10-15 18:59:45,806] {manager.py:690} INFO - Searching for files in /root/Projects/airflowSpotify/dags
+[2025-10-15 18:59:45,828] {manager.py:693} INFO - There are 34 files in /root/Projects/airflowSpotify/dags
+[2025-10-15 18:59:45,982] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.11s           2025-10-15T21:59:45
+================================================================================
+[2025-10-15 19:00:16,169] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             0           0
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.11s           2025-10-15T22:00:10
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.14s           2025-10-15T22:00:06
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.11s           2025-10-15T21:59:48
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.11s           2025-10-15T21:59:47
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.11s           2025-10-15T21:59:45
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.11s           2025-10-15T22:00:16
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.22s           2025-10-15T22:00:15
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.11s           2025-10-15T22:00:14
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.21s           2025-10-15T22:00:13
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.21s           2025-10-15T22:00:11
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.21s           2025-10-15T22:00:08
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.11s           2025-10-15T22:00:07
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.22s           2025-10-15T22:00:06
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.21s           2025-10-15T22:00:04
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.21s           2025-10-15T22:00:03
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.11s           2025-10-15T22:00:02
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.21s           2025-10-15T22:00:01
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.21s           2025-10-15T22:00:01
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.11s           2025-10-15T21:59:58
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.21s           2025-10-15T21:59:57
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.11s           2025-10-15T21:59:56
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.11s           2025-10-15T21:59:55
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.21s           2025-10-15T21:59:54
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.21s           2025-10-15T21:59:53
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.11s           2025-10-15T21:59:50
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.11s           2025-10-15T21:59:50
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.21s           2025-10-15T21:59:49
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.21s           2025-10-15T22:00:11
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.21s           2025-10-15T21:59:52
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.33s           2025-10-15T21:59:59
+================================================================================
+[2025-10-15 19:00:46,447] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.11s           2025-10-15T22:00:46
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.11s           2025-10-15T22:00:42
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.11s           2025-10-15T22:00:23
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.12s           2025-10-15T22:00:22
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.11s           2025-10-15T22:00:21
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.22s           2025-10-15T22:00:20
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.22s           2025-10-15T22:00:19
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.21s           2025-10-15T22:00:18
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.11s           2025-10-15T22:00:16
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.11s           2025-10-15T22:00:16
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.22s           2025-10-15T22:00:15
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.11s           2025-10-15T22:00:14
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.21s           2025-10-15T22:00:13
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.21s           2025-10-15T22:00:11
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.22s           2025-10-15T22:00:45
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.11s           2025-10-15T22:00:44
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.24s           2025-10-15T22:00:41
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.24s           2025-10-15T22:00:40
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.22s           2025-10-15T22:00:39
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.22s           2025-10-15T22:00:37
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.12s           2025-10-15T22:00:36
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.11s           2025-10-15T22:00:36
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.11s           2025-10-15T22:00:33
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.21s           2025-10-15T22:00:32
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.11s           2025-10-15T22:00:31
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.11s           2025-10-15T22:00:30
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.11s           2025-10-15T22:00:29
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.21s           2025-10-15T22:00:28
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.21s           2025-10-15T22:00:26
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.11s           2025-10-15T22:00:25
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.22s           2025-10-15T22:00:24
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.21s           2025-10-15T22:00:11
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.21s           2025-10-15T22:00:27
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.21s           2025-10-15T22:00:34
+================================================================================
+[2025-10-15 19:01:16,514] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.11s           2025-10-15T22:00:46
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.11s           2025-10-15T22:00:42
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.11s           2025-10-15T22:00:58
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.11s           2025-10-15T22:00:57
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.11s           2025-10-15T22:00:56
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.11s           2025-10-15T22:01:02
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.32s           2025-10-15T22:00:55
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.11s           2025-10-15T22:00:54
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.11s           2025-10-15T22:00:53
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.11s           2025-10-15T22:00:52
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.11s           2025-10-15T22:00:51
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.11s           2025-10-15T22:00:50
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.11s           2025-10-15T22:00:49
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.21s           2025-10-15T22:00:47
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.22s           2025-10-15T22:00:45
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.11s           2025-10-15T22:00:44
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.24s           2025-10-15T22:00:41
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.21s           2025-10-15T22:01:16
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.21s           2025-10-15T22:01:15
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.21s           2025-10-15T22:01:14
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.11s           2025-10-15T22:01:13
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.21s           2025-10-15T22:01:12
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.11s           2025-10-15T22:01:09
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.22s           2025-10-15T22:01:08
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.22s           2025-10-15T22:01:08
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.11s           2025-10-15T22:01:06
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.11s           2025-10-15T22:01:05
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.21s           2025-10-15T22:01:04
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.11s           2025-10-15T22:01:01
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.11s           2025-10-15T22:01:00
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.21s           2025-10-15T22:00:59
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.11s           2025-10-15T22:00:46
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.21s           2025-10-15T22:01:03
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.11s           2025-10-15T22:01:11
+================================================================================
+[2025-10-15 19:01:47,036] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0  0.11s           2025-10-15T22:01:20
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0  0.11s           2025-10-15T22:01:17
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  0.11s           2025-10-15T22:01:31
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  0.11s           2025-10-15T22:01:30
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  0.11s           2025-10-15T22:01:29
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py                                             1           0  0.11s           2025-10-15T22:01:38
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  1           0  0.11s           2025-10-15T22:01:34
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               1           0  0.11s           2025-10-15T22:01:29
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py                                             1           0  0.11s           2025-10-15T22:01:28
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py                                           1           0  0.21s           2025-10-15T22:01:27
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 1           0  0.21s           2025-10-15T22:01:25
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              1           0  0.22s           2025-10-15T22:01:24
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py                                                   1           0  0.11s           2025-10-15T22:01:23
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py                                             1           0  0.11s           2025-10-15T22:01:22
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py                                               1           0  0.21s           2025-10-15T22:01:19
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  1           0  0.11s           2025-10-15T22:01:18
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         1           0  0.11s           2025-10-15T22:01:16
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           1           0  0.21s           2025-10-15T22:01:16
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py                                           1           0  0.21s           2025-10-15T22:01:15
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    1           0  0.21s           2025-10-15T22:01:14
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py                                                  1           0  0.11s           2025-10-15T22:01:47
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py                                                   1           0  0.11s           2025-10-15T22:01:46
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py                                                1           0  0.11s           2025-10-15T22:01:44
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py                                      1           0  0.21s           2025-10-15T22:01:43
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   1           0  0.11s           2025-10-15T22:01:42
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  0.22s           2025-10-15T22:01:41
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  0.11s           2025-10-15T22:01:39
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  0.21s           2025-10-15T22:01:39
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py                                                          1           0  0.11s           2025-10-15T22:01:35
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  0.11s           2025-10-15T22:01:34
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  0.11s           2025-10-15T22:01:33
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  2           0  0.11s           2025-10-15T22:01:21
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  0.11s           2025-10-15T22:01:37
+/root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.21s           2025-10-15T22:01:45
+================================================================================
+[2025-10-15 19:02:03,732] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-15 19:03:39,112] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-10-15 19:03:39,112] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-10-15 19:03:39,112] {manager.py:482} INFO - Checking for new files in /root/Projects/airflowSpotify/dags every 300 seconds
+[2025-10-15 19:03:39,112] {manager.py:690} INFO - Searching for files in /root/Projects/airflowSpotify/dags
+[2025-10-15 19:03:39,112] {manager.py:693} INFO - There are 0 files in /root/Projects/airflowSpotify/dags
+[2025-10-15 19:06:06,872] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-16 15:19:47,503] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-10-16 15:19:47,504] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-10-16 15:19:47,504] {manager.py:482} INFO - Checking for new files in /root/Projects/airflowSpotify/dags every 300 seconds
+[2025-10-16 15:19:47,504] {manager.py:690} INFO - Searching for files in /root/Projects/airflowSpotify/dags
+[2025-10-16 15:19:47,504] {manager.py:693} INFO - There are 0 files in /root/Projects/airflowSpotify/dags
+[2025-10-16 15:20:14,021] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-16 15:32:12,322] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-10-16 15:32:12,322] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-10-16 15:32:12,322] {manager.py:482} INFO - Checking for new files in /root/Projects/airflowSpotify/dags every 300 seconds
+[2025-10-16 15:32:12,322] {manager.py:690} INFO - Searching for files in /root/Projects/airflowSpotify/dags
+[2025-10-16 15:32:12,322] {manager.py:693} INFO - There are 0 files in /root/Projects/airflowSpotify/dags
+[2025-10-16 15:37:13,094] {manager.py:690} INFO - Searching for files in /root/Projects/airflowSpotify/dags
+[2025-10-16 15:37:13,095] {manager.py:693} INFO - There are 0 files in /root/Projects/airflowSpotify/dags
+[2025-10-16 15:37:40,577] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-16 15:48:58,944] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-10-16 15:48:58,944] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-10-16 15:48:58,945] {manager.py:482} INFO - Checking for new files in /root/Projects/airflowSpotify/dags every 300 seconds
+[2025-10-16 15:48:58,945] {manager.py:690} INFO - Searching for files in /root/Projects/airflowSpotify/dags
+[2025-10-16 15:48:58,945] {manager.py:693} INFO - There are 0 files in /root/Projects/airflowSpotify/dags
+[2025-10-16 15:50:01,026] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-16 16:10:13,976] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-10-16 16:10:13,976] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-10-16 16:10:13,977] {manager.py:482} INFO - Checking for new files in /root/Projects/airflowSpotify/dags every 300 seconds
+[2025-10-16 16:10:13,977] {manager.py:690} INFO - Searching for files in /root/Projects/airflowSpotify/dags
+[2025-10-16 16:10:13,977] {manager.py:693} INFO - There are 0 files in /root/Projects/airflowSpotify/dags
+[2025-10-16 16:11:17,012] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15

@@ -1,0 +1,78 @@
+[2025-10-15 17:21:57,928] {processor.py:153} INFO - Started process (PID=22762) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 17:21:57,929] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-10-15 17:21:57,930] {logging_mixin.py:115} INFO - [2025-10-15 17:21:57,930] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 17:21:57,939] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 17:21:58,016] {logging_mixin.py:115} INFO - [2025-10-15 17:21:58,016] {manager.py:508} INFO - Created Permission View: can delete on DAG:latest_only
+[2025-10-15 17:21:58,029] {logging_mixin.py:115} INFO - [2025-10-15 17:21:58,029] {manager.py:508} INFO - Created Permission View: can read on DAG:latest_only
+[2025-10-15 17:21:58,041] {logging_mixin.py:115} INFO - [2025-10-15 17:21:58,041] {manager.py:508} INFO - Created Permission View: can edit on DAG:latest_only
+[2025-10-15 17:21:58,042] {logging_mixin.py:115} INFO - [2025-10-15 17:21:58,041] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:21:58,053] {logging_mixin.py:115} INFO - [2025-10-15 17:21:58,053] {dag.py:2398} INFO - Creating ORM DAG for latest_only
+[2025-10-15 17:21:58,062] {logging_mixin.py:115} INFO - [2025-10-15 17:21:58,062] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2025-10-15T16:21:58.061757+00:00, run_after=2025-10-15T20:21:58.061757+00:00
+[2025-10-15 17:21:58,077] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.153 seconds
+[2025-10-15 17:32:44,536] {processor.py:153} INFO - Started process (PID=23827) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 17:32:44,537] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-10-15 17:32:44,537] {logging_mixin.py:115} INFO - [2025-10-15 17:32:44,537] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 17:32:44,546] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 17:32:44,570] {logging_mixin.py:115} INFO - [2025-10-15 17:32:44,570] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:32:44,592] {logging_mixin.py:115} INFO - [2025-10-15 17:32:44,592] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2025-10-15T16:32:44.591833+00:00, run_after=2025-10-15T20:32:44.591833+00:00
+[2025-10-15 17:32:44,604] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2025-10-15 17:33:18,526] {processor.py:153} INFO - Started process (PID=24089) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 17:33:18,527] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-10-15 17:33:18,527] {logging_mixin.py:115} INFO - [2025-10-15 17:33:18,527] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 17:33:18,535] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 17:33:18,554] {logging_mixin.py:115} INFO - [2025-10-15 17:33:18,554] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:33:18,574] {logging_mixin.py:115} INFO - [2025-10-15 17:33:18,574] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2025-10-15T16:33:18.573867+00:00, run_after=2025-10-15T20:33:18.573867+00:00
+[2025-10-15 17:33:18,585] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.067 seconds
+[2025-10-15 17:33:51,757] {processor.py:153} INFO - Started process (PID=24147) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 17:33:51,759] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-10-15 17:33:51,761] {logging_mixin.py:115} INFO - [2025-10-15 17:33:51,761] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 17:33:51,778] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 17:33:51,811] {logging_mixin.py:115} INFO - [2025-10-15 17:33:51,811] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:33:51,836] {logging_mixin.py:115} INFO - [2025-10-15 17:33:51,836] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2025-10-15T16:33:51.835846+00:00, run_after=2025-10-15T20:33:51.835846+00:00
+[2025-10-15 17:33:51,847] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.105 seconds
+[2025-10-15 17:34:25,720] {processor.py:153} INFO - Started process (PID=24205) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 17:34:25,721] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-10-15 17:34:25,721] {logging_mixin.py:115} INFO - [2025-10-15 17:34:25,721] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 17:34:25,729] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 17:34:25,748] {logging_mixin.py:115} INFO - [2025-10-15 17:34:25,748] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:34:25,768] {logging_mixin.py:115} INFO - [2025-10-15 17:34:25,768] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2025-10-15T16:34:25.767900+00:00, run_after=2025-10-15T20:34:25.767900+00:00
+[2025-10-15 17:34:25,778] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.063 seconds
+[2025-10-15 18:58:55,504] {processor.py:153} INFO - Started process (PID=31275) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 18:58:55,504] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-10-15 18:58:55,505] {logging_mixin.py:115} INFO - [2025-10-15 18:58:55,505] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 18:58:55,514] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 18:58:55,583] {logging_mixin.py:115} INFO - [2025-10-15 18:58:55,583] {manager.py:508} INFO - Created Permission View: can edit on DAG:latest_only
+[2025-10-15 18:58:55,592] {logging_mixin.py:115} INFO - [2025-10-15 18:58:55,592] {manager.py:508} INFO - Created Permission View: can read on DAG:latest_only
+[2025-10-15 18:58:55,599] {logging_mixin.py:115} INFO - [2025-10-15 18:58:55,599] {manager.py:508} INFO - Created Permission View: can delete on DAG:latest_only
+[2025-10-15 18:58:55,599] {logging_mixin.py:115} INFO - [2025-10-15 18:58:55,599] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 18:58:55,608] {logging_mixin.py:115} INFO - [2025-10-15 18:58:55,608] {dag.py:2398} INFO - Creating ORM DAG for latest_only
+[2025-10-15 18:58:55,619] {logging_mixin.py:115} INFO - [2025-10-15 18:58:55,619] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2025-10-15T17:58:55.618415+00:00, run_after=2025-10-15T21:58:55.618415+00:00
+[2025-10-15 18:58:55,633] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.137 seconds
+[2025-10-15 19:00:08,785] {processor.py:153} INFO - Started process (PID=31703) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 19:00:08,786] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-10-15 19:00:08,787] {logging_mixin.py:115} INFO - [2025-10-15 19:00:08,787] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 19:00:08,799] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 19:00:08,825] {logging_mixin.py:115} INFO - [2025-10-15 19:00:08,825] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:00:08,853] {logging_mixin.py:115} INFO - [2025-10-15 19:00:08,853] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2025-10-15T18:00:08.853404+00:00, run_after=2025-10-15T22:00:08.853404+00:00
+[2025-10-15 19:00:08,870] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.095 seconds
+[2025-10-15 19:00:45,112] {processor.py:153} INFO - Started process (PID=31817) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 19:00:45,114] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-10-15 19:00:45,115] {logging_mixin.py:115} INFO - [2025-10-15 19:00:45,115] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 19:00:45,131] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 19:00:45,166] {logging_mixin.py:115} INFO - [2025-10-15 19:00:45,166] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:00:45,207] {logging_mixin.py:115} INFO - [2025-10-15 19:00:45,206] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2025-10-15T18:00:45.206476+00:00, run_after=2025-10-15T22:00:45.206476+00:00
+[2025-10-15 19:00:45,234] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.139 seconds
+[2025-10-15 19:01:19,086] {processor.py:153} INFO - Started process (PID=32077) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 19:01:19,087] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-10-15 19:01:19,089] {logging_mixin.py:115} INFO - [2025-10-15 19:01:19,088] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 19:01:19,098] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 19:01:19,136] {logging_mixin.py:115} INFO - [2025-10-15 19:01:19,136] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:01:19,171] {logging_mixin.py:115} INFO - [2025-10-15 19:01:19,171] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2025-10-15T18:01:19.171320+00:00, run_after=2025-10-15T22:01:19.171320+00:00
+[2025-10-15 19:01:19,187] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.106 seconds
+[2025-10-15 19:01:53,723] {processor.py:153} INFO - Started process (PID=32157) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 19:01:53,725] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-10-15 19:01:53,725] {logging_mixin.py:115} INFO - [2025-10-15 19:01:53,725] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 19:01:53,739] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2025-10-15 19:01:53,769] {logging_mixin.py:115} INFO - [2025-10-15 19:01:53,769] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:01:53,797] {logging_mixin.py:115} INFO - [2025-10-15 19:01:53,796] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2025-10-15T18:01:53.796203+00:00, run_after=2025-10-15T22:01:53.796203+00:00
+[2025-10-15 19:01:53,816] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.099 seconds

@@ -1,0 +1,92 @@
+[2025-10-15 17:21:47,464] {processor.py:153} INFO - Started process (PID=22647) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 17:21:47,465] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-15 17:21:47,466] {logging_mixin.py:115} INFO - [2025-10-15 17:21:47,466] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 17:21:47,476] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 17:21:47,545] {logging_mixin.py:115} INFO - [2025-10-15 17:21:47,545] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_task_group
+[2025-10-15 17:21:47,553] {logging_mixin.py:115} INFO - [2025-10-15 17:21:47,553] {manager.py:508} INFO - Created Permission View: can read on DAG:example_task_group
+[2025-10-15 17:21:47,561] {logging_mixin.py:115} INFO - [2025-10-15 17:21:47,561] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_task_group
+[2025-10-15 17:21:47,561] {logging_mixin.py:115} INFO - [2025-10-15 17:21:47,561] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:21:47,569] {logging_mixin.py:115} INFO - [2025-10-15 17:21:47,569] {dag.py:2398} INFO - Creating ORM DAG for example_task_group
+[2025-10-15 17:21:47,577] {logging_mixin.py:115} INFO - [2025-10-15 17:21:47,577] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-14T20:21:47.577263+00:00, run_after=2025-10-15T20:21:47.577263+00:00
+[2025-10-15 17:21:47,589] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.130 seconds
+[2025-10-15 17:32:34,325] {processor.py:153} INFO - Started process (PID=23706) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 17:32:34,326] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-15 17:32:34,327] {logging_mixin.py:115} INFO - [2025-10-15 17:32:34,327] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 17:32:34,337] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 17:32:34,359] {logging_mixin.py:115} INFO - [2025-10-15 17:32:34,358] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:32:34,380] {logging_mixin.py:115} INFO - [2025-10-15 17:32:34,379] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-14T20:32:34.379631+00:00, run_after=2025-10-15T20:32:34.379631+00:00
+[2025-10-15 17:32:34,392] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2025-10-15 17:33:08,216] {processor.py:153} INFO - Started process (PID=23971) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 17:33:08,217] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-15 17:33:08,218] {logging_mixin.py:115} INFO - [2025-10-15 17:33:08,218] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 17:33:08,234] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 17:33:08,255] {logging_mixin.py:115} INFO - [2025-10-15 17:33:08,255] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:33:08,277] {logging_mixin.py:115} INFO - [2025-10-15 17:33:08,277] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-14T20:33:08.276869+00:00, run_after=2025-10-15T20:33:08.276869+00:00
+[2025-10-15 17:33:08,292] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.084 seconds
+[2025-10-15 17:33:42,601] {processor.py:153} INFO - Started process (PID=24131) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 17:33:42,602] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-15 17:33:42,603] {logging_mixin.py:115} INFO - [2025-10-15 17:33:42,602] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 17:33:42,612] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 17:33:42,632] {logging_mixin.py:115} INFO - [2025-10-15 17:33:42,632] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:33:42,651] {logging_mixin.py:115} INFO - [2025-10-15 17:33:42,651] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-14T20:33:42.651183+00:00, run_after=2025-10-15T20:33:42.651183+00:00
+[2025-10-15 17:33:42,662] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.065 seconds
+[2025-10-15 17:34:16,576] {processor.py:153} INFO - Started process (PID=24189) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 17:34:16,577] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-15 17:34:16,577] {logging_mixin.py:115} INFO - [2025-10-15 17:34:16,577] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 17:34:16,587] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 17:34:16,608] {logging_mixin.py:115} INFO - [2025-10-15 17:34:16,608] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:34:16,630] {logging_mixin.py:115} INFO - [2025-10-15 17:34:16,630] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-14T20:34:16.630129+00:00, run_after=2025-10-15T20:34:16.630129+00:00
+[2025-10-15 17:34:16,642] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.071 seconds
+[2025-10-15 17:34:49,948] {processor.py:153} INFO - Started process (PID=24298) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 17:34:49,949] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-15 17:34:49,950] {logging_mixin.py:115} INFO - [2025-10-15 17:34:49,950] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 17:34:49,960] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 17:34:49,981] {logging_mixin.py:115} INFO - [2025-10-15 17:34:49,981] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:34:50,003] {logging_mixin.py:115} INFO - [2025-10-15 17:34:50,003] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-14T20:34:50.002822+00:00, run_after=2025-10-15T20:34:50.002822+00:00
+[2025-10-15 17:34:50,015] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.071 seconds
+[2025-10-15 18:58:44,992] {processor.py:153} INFO - Started process (PID=31216) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 18:58:44,993] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-15 18:58:44,993] {logging_mixin.py:115} INFO - [2025-10-15 18:58:44,993] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 18:58:45,003] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 18:58:45,069] {logging_mixin.py:115} INFO - [2025-10-15 18:58:45,068] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_task_group
+[2025-10-15 18:58:45,077] {logging_mixin.py:115} INFO - [2025-10-15 18:58:45,077] {manager.py:508} INFO - Created Permission View: can read on DAG:example_task_group
+[2025-10-15 18:58:45,083] {logging_mixin.py:115} INFO - [2025-10-15 18:58:45,083] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_task_group
+[2025-10-15 18:58:45,084] {logging_mixin.py:115} INFO - [2025-10-15 18:58:45,084] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 18:58:45,092] {logging_mixin.py:115} INFO - [2025-10-15 18:58:45,092] {dag.py:2398} INFO - Creating ORM DAG for example_task_group
+[2025-10-15 18:58:45,101] {logging_mixin.py:115} INFO - [2025-10-15 18:58:45,101] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-14T21:58:45.100710+00:00, run_after=2025-10-15T21:58:45.100710+00:00
+[2025-10-15 18:58:45,114] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.126 seconds
+[2025-10-15 18:59:19,051] {processor.py:153} INFO - Started process (PID=31314) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 18:59:19,052] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-15 18:59:19,052] {logging_mixin.py:115} INFO - [2025-10-15 18:59:19,052] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 18:59:19,065] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 18:59:19,093] {logging_mixin.py:115} INFO - [2025-10-15 18:59:19,093] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 18:59:19,119] {logging_mixin.py:115} INFO - [2025-10-15 18:59:19,119] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-14T21:59:19.119161+00:00, run_after=2025-10-15T21:59:19.119161+00:00
+[2025-10-15 18:59:19,135] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.093 seconds
+[2025-10-15 18:59:58,333] {processor.py:153} INFO - Started process (PID=31582) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 18:59:58,333] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-15 18:59:58,334] {logging_mixin.py:115} INFO - [2025-10-15 18:59:58,334] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 18:59:58,343] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 18:59:58,366] {logging_mixin.py:115} INFO - [2025-10-15 18:59:58,366] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 18:59:58,388] {logging_mixin.py:115} INFO - [2025-10-15 18:59:58,388] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-14T21:59:58.388170+00:00, run_after=2025-10-15T21:59:58.388170+00:00
+[2025-10-15 18:59:58,403] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.075 seconds
+[2025-10-15 19:00:33,631] {processor.py:153} INFO - Started process (PID=31747) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 19:00:33,633] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-15 19:00:33,633] {logging_mixin.py:115} INFO - [2025-10-15 19:00:33,633] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 19:00:33,644] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 19:00:33,669] {logging_mixin.py:115} INFO - [2025-10-15 19:00:33,669] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:00:33,694] {logging_mixin.py:115} INFO - [2025-10-15 19:00:33,694] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-14T22:00:33.694550+00:00, run_after=2025-10-15T22:00:33.694550+00:00
+[2025-10-15 19:00:33,708] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.084 seconds
+[2025-10-15 19:01:09,813] {processor.py:153} INFO - Started process (PID=32061) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 19:01:09,814] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-15 19:01:09,815] {logging_mixin.py:115} INFO - [2025-10-15 19:01:09,815] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 19:01:09,824] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 19:01:09,846] {logging_mixin.py:115} INFO - [2025-10-15 19:01:09,846] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:01:09,866] {logging_mixin.py:115} INFO - [2025-10-15 19:01:09,866] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-14T22:01:09.866433+00:00, run_after=2025-10-15T22:01:09.866433+00:00
+[2025-10-15 19:01:09,878] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.070 seconds
+[2025-10-15 19:01:44,687] {processor.py:153} INFO - Started process (PID=32119) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 19:01:44,687] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-10-15 19:01:44,688] {logging_mixin.py:115} INFO - [2025-10-15 19:01:44,688] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 19:01:44,697] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2025-10-15 19:01:44,718] {logging_mixin.py:115} INFO - [2025-10-15 19:01:44,718] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:01:44,737] {logging_mixin.py:115} INFO - [2025-10-15 19:01:44,737] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2025-10-14T22:01:44.737265+00:00, run_after=2025-10-15T22:01:44.737265+00:00
+[2025-10-15 19:01:44,749] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.067 seconds

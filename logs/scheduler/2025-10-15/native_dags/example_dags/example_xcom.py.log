@@ -1,0 +1,99 @@
+[2025-10-15 17:21:42,323] {processor.py:153} INFO - Started process (PID=22582) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:21:42,324] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-15 17:21:42,324] {logging_mixin.py:115} INFO - [2025-10-15 17:21:42,324] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:21:42,350] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:21:42,446] {logging_mixin.py:115} INFO - [2025-10-15 17:21:42,446] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_xcom
+[2025-10-15 17:21:42,461] {logging_mixin.py:115} INFO - [2025-10-15 17:21:42,460] {manager.py:508} INFO - Created Permission View: can read on DAG:example_xcom
+[2025-10-15 17:21:42,475] {logging_mixin.py:115} INFO - [2025-10-15 17:21:42,474] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_xcom
+[2025-10-15 17:21:42,475] {logging_mixin.py:115} INFO - [2025-10-15 17:21:42,475] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:21:42,485] {logging_mixin.py:115} INFO - [2025-10-15 17:21:42,485] {dag.py:2398} INFO - Creating ORM DAG for example_xcom
+[2025-10-15 17:21:42,495] {logging_mixin.py:115} INFO - [2025-10-15 17:21:42,495] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-10-15 17:21:42,511] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.193 seconds
+[2025-10-15 17:22:17,541] {processor.py:153} INFO - Started process (PID=23000) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:22:17,542] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-15 17:22:17,543] {logging_mixin.py:115} INFO - [2025-10-15 17:22:17,542] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:22:17,575] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:22:17,626] {logging_mixin.py:115} INFO - [2025-10-15 17:22:17,626] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:22:17,640] {logging_mixin.py:115} INFO - [2025-10-15 17:22:17,640] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-10-15 17:22:17,652] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.117 seconds
+[2025-10-15 17:32:29,292] {processor.py:153} INFO - Started process (PID=23643) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:32:29,292] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-15 17:32:29,293] {logging_mixin.py:115} INFO - [2025-10-15 17:32:29,293] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:32:29,317] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:32:29,367] {logging_mixin.py:115} INFO - [2025-10-15 17:32:29,367] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:32:29,382] {logging_mixin.py:115} INFO - [2025-10-15 17:32:29,382] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-10-15 17:32:29,395] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.107 seconds
+[2025-10-15 17:33:02,945] {processor.py:153} INFO - Started process (PID=23960) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:33:02,946] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-15 17:33:02,946] {logging_mixin.py:115} INFO - [2025-10-15 17:33:02,946] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:33:02,968] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:33:03,016] {logging_mixin.py:115} INFO - [2025-10-15 17:33:03,015] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:33:03,029] {logging_mixin.py:115} INFO - [2025-10-15 17:33:03,029] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-10-15 17:33:03,042] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.101 seconds
+[2025-10-15 17:33:37,535] {processor.py:153} INFO - Started process (PID=24123) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:33:37,535] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-15 17:33:37,536] {logging_mixin.py:115} INFO - [2025-10-15 17:33:37,536] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:33:37,559] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:33:37,607] {logging_mixin.py:115} INFO - [2025-10-15 17:33:37,607] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:33:37,621] {logging_mixin.py:115} INFO - [2025-10-15 17:33:37,621] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-10-15 17:33:37,633] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.103 seconds
+[2025-10-15 17:34:11,335] {processor.py:153} INFO - Started process (PID=24181) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:34:11,336] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-15 17:34:11,337] {logging_mixin.py:115} INFO - [2025-10-15 17:34:11,337] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:34:11,369] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:34:11,387] {logging_mixin.py:115} INFO - [2025-10-15 17:34:11,387] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:34:11,405] {logging_mixin.py:115} INFO - [2025-10-15 17:34:11,405] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-10-15 17:34:11,417] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.092 seconds
+[2025-10-15 17:34:43,523] {processor.py:153} INFO - Started process (PID=24238) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:34:43,525] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-15 17:34:43,526] {logging_mixin.py:115} INFO - [2025-10-15 17:34:43,526] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:34:43,558] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 17:34:43,604] {logging_mixin.py:115} INFO - [2025-10-15 17:34:43,604] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:34:43,617] {logging_mixin.py:115} INFO - [2025-10-15 17:34:43,617] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-10-15 17:34:43,629] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.116 seconds
+[2025-10-15 18:58:39,746] {processor.py:153} INFO - Started process (PID=31187) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 18:58:39,747] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-15 18:58:39,747] {logging_mixin.py:115} INFO - [2025-10-15 18:58:39,747] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 18:58:39,771] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 18:58:39,843] {logging_mixin.py:115} INFO - [2025-10-15 18:58:39,843] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_xcom
+[2025-10-15 18:58:39,852] {logging_mixin.py:115} INFO - [2025-10-15 18:58:39,852] {manager.py:508} INFO - Created Permission View: can read on DAG:example_xcom
+[2025-10-15 18:58:39,861] {logging_mixin.py:115} INFO - [2025-10-15 18:58:39,861] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_xcom
+[2025-10-15 18:58:39,862] {logging_mixin.py:115} INFO - [2025-10-15 18:58:39,861] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 18:58:39,869] {logging_mixin.py:115} INFO - [2025-10-15 18:58:39,869] {dag.py:2398} INFO - Creating ORM DAG for example_xcom
+[2025-10-15 18:58:39,880] {logging_mixin.py:115} INFO - [2025-10-15 18:58:39,880] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-10-15 18:58:39,894] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.153 seconds
+[2025-10-15 18:59:15,039] {processor.py:153} INFO - Started process (PID=31306) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 18:59:15,040] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-15 18:59:15,040] {logging_mixin.py:115} INFO - [2025-10-15 18:59:15,040] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 18:59:15,062] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 18:59:15,107] {logging_mixin.py:115} INFO - [2025-10-15 18:59:15,107] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 18:59:15,121] {logging_mixin.py:115} INFO - [2025-10-15 18:59:15,120] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-10-15 18:59:15,133] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.098 seconds
+[2025-10-15 18:59:53,204] {processor.py:153} INFO - Started process (PID=31523) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 18:59:53,205] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-15 18:59:53,211] {logging_mixin.py:115} INFO - [2025-10-15 18:59:53,206] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 18:59:53,242] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 18:59:53,300] {logging_mixin.py:115} INFO - [2025-10-15 18:59:53,300] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 18:59:53,316] {logging_mixin.py:115} INFO - [2025-10-15 18:59:53,316] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-10-15 18:59:53,329] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.136 seconds
+[2025-10-15 19:00:28,473] {processor.py:153} INFO - Started process (PID=31739) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 19:00:28,474] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-15 19:00:28,475] {logging_mixin.py:115} INFO - [2025-10-15 19:00:28,475] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 19:00:28,502] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 19:00:28,551] {logging_mixin.py:115} INFO - [2025-10-15 19:00:28,551] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:00:28,567] {logging_mixin.py:115} INFO - [2025-10-15 19:00:28,567] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-10-15 19:00:28,581] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.115 seconds
+[2025-10-15 19:01:04,556] {processor.py:153} INFO - Started process (PID=32053) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 19:01:04,556] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-15 19:01:04,557] {logging_mixin.py:115} INFO - [2025-10-15 19:01:04,557] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 19:01:04,579] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 19:01:04,625] {logging_mixin.py:115} INFO - [2025-10-15 19:01:04,625] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:01:04,637] {logging_mixin.py:115} INFO - [2025-10-15 19:01:04,637] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-10-15 19:01:04,649] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.097 seconds
+[2025-10-15 19:01:39,315] {processor.py:153} INFO - Started process (PID=32111) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 19:01:39,315] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-10-15 19:01:39,316] {logging_mixin.py:115} INFO - [2025-10-15 19:01:39,316] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 19:01:39,340] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2025-10-15 19:01:39,391] {logging_mixin.py:115} INFO - [2025-10-15 19:01:39,391] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:01:39,410] {logging_mixin.py:115} INFO - [2025-10-15 19:01:39,409] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2025-10-15 19:01:39,424] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.116 seconds

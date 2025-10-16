@@ -1,0 +1,70 @@
+[2025-10-15 17:21:33,483] {processor.py:153} INFO - Started process (PID=22500) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:21:33,484] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-15 17:21:33,485] {logging_mixin.py:115} INFO - [2025-10-15 17:21:33,485] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:21:33,488] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:21:33,501] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2025-10-15 17:22:10,050] {processor.py:153} INFO - Started process (PID=22907) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:22:10,050] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-15 17:22:10,051] {logging_mixin.py:115} INFO - [2025-10-15 17:22:10,051] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:22:10,053] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:22:10,067] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2025-10-15 17:32:21,882] {processor.py:153} INFO - Started process (PID=23556) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:32:21,882] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-15 17:32:21,883] {logging_mixin.py:115} INFO - [2025-10-15 17:32:21,883] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:32:21,885] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:32:21,899] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2025-10-15 17:32:56,214] {processor.py:153} INFO - Started process (PID=23950) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:32:56,214] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-15 17:32:56,215] {logging_mixin.py:115} INFO - [2025-10-15 17:32:56,215] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:32:56,218] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:32:56,234] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2025-10-15 17:33:29,940] {processor.py:153} INFO - Started process (PID=24109) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:33:29,941] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-15 17:33:29,942] {logging_mixin.py:115} INFO - [2025-10-15 17:33:29,942] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:33:29,944] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:33:29,958] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2025-10-15 17:34:02,945] {processor.py:153} INFO - Started process (PID=24167) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:34:02,945] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-15 17:34:02,946] {logging_mixin.py:115} INFO - [2025-10-15 17:34:02,946] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:34:02,948] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:34:02,962] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2025-10-15 17:34:34,503] {processor.py:153} INFO - Started process (PID=24220) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:34:34,504] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-15 17:34:34,504] {logging_mixin.py:115} INFO - [2025-10-15 17:34:34,504] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:34:34,506] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 17:34:34,520] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2025-10-15 18:58:31,110] {processor.py:153} INFO - Started process (PID=31103) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 18:58:31,110] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-15 18:58:31,111] {logging_mixin.py:115} INFO - [2025-10-15 18:58:31,111] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 18:58:31,113] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 18:58:31,126] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2025-10-15 18:59:07,613] {processor.py:153} INFO - Started process (PID=31293) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 18:59:07,614] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-15 18:59:07,615] {logging_mixin.py:115} INFO - [2025-10-15 18:59:07,615] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 18:59:07,620] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 18:59:07,640] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2025-10-15 18:59:45,889] {processor.py:153} INFO - Started process (PID=31455) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 18:59:45,890] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-15 18:59:45,890] {logging_mixin.py:115} INFO - [2025-10-15 18:59:45,890] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 18:59:45,892] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 18:59:45,905] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2025-10-15 19:00:21,802] {processor.py:153} INFO - Started process (PID=31726) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 19:00:21,803] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-15 19:00:21,804] {logging_mixin.py:115} INFO - [2025-10-15 19:00:21,803] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 19:00:21,806] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 19:00:21,822] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2025-10-15 19:00:56,652] {processor.py:153} INFO - Started process (PID=31958) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 19:00:56,653] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-15 19:00:56,653] {logging_mixin.py:115} INFO - [2025-10-15 19:00:56,653] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 19:00:56,656] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 19:00:56,673] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2025-10-15 19:01:29,600] {processor.py:153} INFO - Started process (PID=32096) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 19:01:29,601] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-15 19:01:29,601] {logging_mixin.py:115} INFO - [2025-10-15 19:01:29,601] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 19:01:29,604] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 19:01:29,621] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2025-10-15 19:02:01,979] {processor.py:153} INFO - Started process (PID=32251) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 19:02:01,979] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-10-15 19:02:01,980] {logging_mixin.py:115} INFO - [2025-10-15 19:02:01,980] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 19:02:01,983] {processor.py:653} WARNING - No viable dags retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-10-15 19:02:01,998] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds

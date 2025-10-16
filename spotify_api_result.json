@@ -1,0 +1,1912 @@
+{
+    "shows": {
+        "href": "https://api.spotify.com/v1/search?offset=0&limit=50&query=data%20hackers&type=show&market=BR",
+        "items": [
+            {
+                "copyrights": [],
+                "description": "Apresentado por Paulo Vasconcellos, Monique Femme e Gabriel Lages, o Data Hackers é o podcast oficial do maior ecossistema de dados e inteligência artificial do Brasil. Toda semana, recebemos líderes e especialistas para explorar as tendências, inovações e desafios que estão moldando o futuro da área de dados, da Inteligência Artificial (AI) e de Tecnologia.  O Data Hackers é o seu radar para entender como a tecnologia está transformando carreiras, negócios e a sociedade. 🔗 Conheça mais em: www.datahackers.com.br",
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93"
+                },
+                "href": "https://api.spotify.com/v1/shows/1oMIHOXsrLFENAeM743g93",
+                "html_description": "Apresentado por Paulo Vasconcellos, Monique Femme e Gabriel Lages, o Data Hackers é o podcast oficial do maior ecossistema de dados e inteligência artificial do Brasil. Toda semana, recebemos líderes e especialistas para explorar as tendências, inovações e desafios que estão moldando o futuro da área de dados, da Inteligência Artificial (AI) e de Tecnologia.<br/>O Data Hackers é o seu radar para entender como a tecnologia está transformando carreiras, negócios e a sociedade.<br/>&#x1f517; Conheça mais em: www.datahackers.com.br",
+                "id": "1oMIHOXsrLFENAeM743g93",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a22f3b9e8481bb9a5a63ca597",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f22f3b9e8481bb9a5a63ca597",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d22f3b9e8481bb9a5a63ca597",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt-BR"
+                ],
+                "media_type": "mixed",
+                "name": "Data Hackers",
+                "publisher": "Data Hackers",
+                "total_episodes": 205,
+                "type": "show",
+                "uri": "spotify:show:1oMIHOXsrLFENAeM743g93"
+            },
+            {
+                "copyrights": [],
+                "description": "O primeiro podcast Brasileiro sobre ciência de dados",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/5k0Ei0MSg5BuiHshr43aSg"
+                },
+                "href": "https://api.spotify.com/v1/shows/5k0Ei0MSg5BuiHshr43aSg",
+                "html_description": "O primeiro podcast Brasileiro sobre ciência de dados",
+                "id": "5k0Ei0MSg5BuiHshr43aSg",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8adb9478e81e50dc541da296e3",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fdb9478e81e50dc541da296e3",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68ddb9478e81e50dc541da296e3",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt-BR"
+                ],
+                "media_type": "audio",
+                "name": "Pizza de Dados",
+                "publisher": "pizzadedados",
+                "total_episodes": 56,
+                "type": "show",
+                "uri": "spotify:show:5k0Ei0MSg5BuiHshr43aSg"
+            },
+            {
+                "copyrights": [],
+                "description": "O podcast indispensável para quem quer se manter em dia com o que está acontecendo no universo da inteligência artificial. O IA Sob Controle traz notícias, dicas de ferramentas e discussões sobre as principais tendências do mundo da IA, além de entrevistas com profissionais e pessoas pesquisadoras que estão definindo o futuro da tecnologia mais promissora e empolgante das últimas décadas.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/5xLCMHJ6eGWzdu8JaIDkuP"
+                },
+                "href": "https://api.spotify.com/v1/shows/5xLCMHJ6eGWzdu8JaIDkuP",
+                "html_description": "O podcast indispensável para quem quer se manter em dia com o que está acontecendo no universo da inteligência artificial. O IA Sob Controle traz notícias, dicas de ferramentas e discussões sobre as principais tendências do mundo da IA, além de entrevistas com profissionais e pessoas pesquisadoras que estão definindo o futuro da tecnologia mais promissora e empolgante das últimas décadas.",
+                "id": "5xLCMHJ6eGWzdu8JaIDkuP",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8adb9ed859813ef9c37cec5caf",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fdb9ed859813ef9c37cec5caf",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68ddb9ed859813ef9c37cec5caf",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt"
+                ],
+                "media_type": "audio",
+                "name": "IA Sob Controle - Inteligência Artificial",
+                "publisher": "Alura - Hipsters Network",
+                "total_episodes": 191,
+                "type": "show",
+                "uri": "spotify:show:5xLCMHJ6eGWzdu8JaIDkuP"
+            },
+            {
+                "copyrights": [],
+                "description": "Discussões acaloradas sobre desenvolvimento de software, startups, programação, IA, UX, gadgets e as últimas tendências em tecnologia.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/2p0Vx75OmfsXktyLBuLuSf"
+                },
+                "href": "https://api.spotify.com/v1/shows/2p0Vx75OmfsXktyLBuLuSf",
+                "html_description": "Discussões acaloradas sobre desenvolvimento de software, startups, programação, IA, UX, gadgets e as últimas tendências em tecnologia.",
+                "id": "2p0Vx75OmfsXktyLBuLuSf",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a3b3d4a3ba041479a6cd35b1c",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f3b3d4a3ba041479a6cd35b1c",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d3b3d4a3ba041479a6cd35b1c",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt-BR"
+                ],
+                "media_type": "audio",
+                "name": "Hipsters Ponto Tech",
+                "publisher": "Alura - Hipsters Network",
+                "total_episodes": 565,
+                "type": "show",
+                "uri": "spotify:show:2p0Vx75OmfsXktyLBuLuSf"
+            },
+            {
+                "copyrights": [],
+                "description": "Bem-vindo ao Data Circle Podcast, onde a teoria encontra a prática! Aqui colocamos a tecnologia a serviço do negócio e mostramos como inteligência artificial, dados e machine learning estão revolucionando o mundo dos negócios. Fique por dentro das notícias e oportunidades dessa área e embarque nessa jornada, em conjunto com os maiores experts e lideranças do tema, sobre como usar a tecnologia em nosso favor!   Episódios novos toda segunda!",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/35FNLoQuXKyme6SsJ9PssZ"
+                },
+                "href": "https://api.spotify.com/v1/shows/35FNLoQuXKyme6SsJ9PssZ",
+                "html_description": "Bem-vindo ao Data Circle Podcast, onde a teoria encontra a prática! Aqui colocamos a tecnologia a serviço do negócio e mostramos como inteligência artificial, dados e machine learning estão revolucionando o mundo dos negócios. Fique por dentro das notícias e oportunidades dessa área e embarque nessa jornada, em conjunto com os maiores experts e lideranças do tema, sobre como usar a tecnologia em nosso favor! <br/>Episódios novos toda segunda!",
+                "id": "35FNLoQuXKyme6SsJ9PssZ",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a38517c420efb0b72c07442be",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f38517c420efb0b72c07442be",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d38517c420efb0b72c07442be",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt-BR"
+                ],
+                "media_type": "mixed",
+                "name": "Data Circle Podcast",
+                "publisher": "Artefact",
+                "total_episodes": 77,
+                "type": "show",
+                "uri": "spotify:show:35FNLoQuXKyme6SsJ9PssZ"
+            },
+            {
+                "copyrights": [],
+                "description": "Portal brasileiro de capacitação online em Big Data, Data Science, Inteligência Artificial e tecnologias relacionadas.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/2yaqJ4H0jc11phvCA60wKn"
+                },
+                "href": "https://api.spotify.com/v1/shows/2yaqJ4H0jc11phvCA60wKn",
+                "html_description": "Portal brasileiro de capacitação online em Big Data, Data Science, Inteligência Artificial e tecnologias relacionadas.",
+                "id": "2yaqJ4H0jc11phvCA60wKn",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a3519b6ffc67d26a18489b27e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f3519b6ffc67d26a18489b27e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d3519b6ffc67d26a18489b27e",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt"
+                ],
+                "media_type": "audio",
+                "name": "Data Science Academy",
+                "publisher": "Data Science Academy",
+                "total_episodes": 52,
+                "type": "show",
+                "uri": "spotify:show:2yaqJ4H0jc11phvCA60wKn"
+            },
+            {
+                "copyrights": [],
+                "description": "Descubra a inteligência artificial que move o mundo. Trazemos as principais notícias, análises e dicas de uso em episódios leves e dinâmicos, com conversas sobre tendências que já estão transformando negócios, saúde, educação e entretenimento. Além disso, conversamos com especialistas e pioneiros que mostram como a IA está sendo aplicada na prática no Brasil e no mundo. Tudo com humor, clareza e uma didática que cabe na sua rotina. Junte-se a nós e torne-se protagonista do futuro.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/2FHimuESqvjBL4x8AKur2b"
+                },
+                "href": "https://api.spotify.com/v1/shows/2FHimuESqvjBL4x8AKur2b",
+                "html_description": "Descubra a inteligência artificial que move o mundo. Trazemos as principais notícias, análises e dicas de uso em episódios leves e dinâmicos, com conversas sobre tendências que já estão transformando negócios, saúde, educação e entretenimento. Além disso, conversamos com especialistas e pioneiros que mostram como a IA está sendo aplicada na prática no Brasil e no mundo. Tudo com humor, clareza e uma didática que cabe na sua rotina. Junte-se a nós e torne-se protagonista do futuro.",
+                "id": "2FHimuESqvjBL4x8AKur2b",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8aa2f538cd720349443a4380ba",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fa2f538cd720349443a4380ba",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68da2f538cd720349443a4380ba",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt-BR"
+                ],
+                "media_type": "mixed",
+                "name": "IA Todo Dia – Inteligência Artificial Descomplicada: notícias e quadros que expandem sua visão",
+                "publisher": "Diego Sommer",
+                "total_episodes": 218,
+                "type": "show",
+                "uri": "spotify:show:2FHimuESqvjBL4x8AKur2b"
+            },
+            {
+                "copyrights": [],
+                "description": "Café Debug é um podcast dedicado ao universo da ciência e tecnologia. Desde sua fundação em 2017, o programa tem se destacado por trazer especialistas do setor para discutir uma ampla variedade de tópicos, incluindo desenvolvimento de software, ferramentas tecnológicas, conceitos avançados de arquitetura de software, trajetórias profissionais na tecnologia e na ciência, e muito mais. Junte-se a nós para explorar as últimas tendências e inovações que moldam nosso mundo. Apresentado por Jéssica Nathany e Wesley Fratini",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/3uqyj3GlhBHp1IJN8KJ1xU"
+                },
+                "href": "https://api.spotify.com/v1/shows/3uqyj3GlhBHp1IJN8KJ1xU",
+                "html_description": "<p>Café Debug é um podcast dedicado ao universo da ciência e tecnologia. Desde sua fundação em 2017, o programa tem se destacado por trazer especialistas do setor para discutir uma ampla variedade de tópicos, incluindo desenvolvimento de software, ferramentas tecnológicas, conceitos avançados de arquitetura de software, trajetórias profissionais na tecnologia e na ciência, e muito mais. Junte-se a nós para explorar as últimas tendências e inovações que moldam nosso mundo. Apresentado por Jéssica Nathany e Wesley Fratini</p>",
+                "id": "3uqyj3GlhBHp1IJN8KJ1xU",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a0da5d3c61660c0e104cd7e08",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f0da5d3c61660c0e104cd7e08",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d0da5d3c61660c0e104cd7e08",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt-BR"
+                ],
+                "media_type": "audio",
+                "name": "Café Debug seu podcast de tecnologia",
+                "publisher": "Café debug",
+                "total_episodes": 187,
+                "type": "show",
+                "uri": "spotify:show:3uqyj3GlhBHp1IJN8KJ1xU"
+            },
+            {
+                "copyrights": [],
+                "description": "O primeiro Podcast de Cibersegurança do Brasil.  Não é novidade que empresas e dados estão vulneráveis à ataques hackers. Mas com tanta informação, como se proteger de verdade?  A Redbelt Security, uma consultoria especializada em Cibersegurança, convida grandes nomes do mercado para compartilharem a sua experiência nos assuntos mais importantes do momento.  Confira em cada episódio as últimas novidades, conhecimentos e conteúdos relevantes que podem ajudar a sua empresa a dar os próximos passos em direção à Segurança!",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/3Poc4tu9lZ3T0Xs5bChC2c"
+                },
+                "href": "https://api.spotify.com/v1/shows/3Poc4tu9lZ3T0Xs5bChC2c",
+                "html_description": "O primeiro Podcast de Cibersegurança do Brasil.<br/>Não é novidade que empresas e dados estão vulneráveis à ataques hackers. Mas com tanta informação, como se proteger de verdade?<br/>A Redbelt Security, uma consultoria especializada em Cibersegurança, convida grandes nomes do mercado para compartilharem a sua experiência nos assuntos mais importantes do momento.<br/>Confira em cada episódio as últimas novidades, conhecimentos e conteúdos relevantes que podem ajudar a sua empresa a dar os próximos passos em direção à Segurança!",
+                "id": "3Poc4tu9lZ3T0Xs5bChC2c",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8aa379ed154026d844c2b46116",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fa379ed154026d844c2b46116",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68da379ed154026d844c2b46116",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt"
+                ],
+                "media_type": "mixed",
+                "name": "RedCast | O podcast de Segurança da Informação",
+                "publisher": "RedBelt Security",
+                "total_episodes": 123,
+                "type": "show",
+                "uri": "spotify:show:3Poc4tu9lZ3T0Xs5bChC2c"
+            },
+            {
+                "copyrights": [],
+                "description": "O Let's Data traz pessoas inteligentes e interessantes para conversar sobre ciência de dados, inteligência articificial e outras aleatoriedades da vida. Criado e apresentado por Bernardo Lago, Felipe Schiavon e Leon Silva, com o objetivo de divulgar conhecimentos da área de dados aliando dois enfoques: técnico e humano. Os episódios são transmitidos ao vivo pelo nosso canal no YouTube e disponibilizado nas principais plataformas de podcat. Junte-se a nós e venha aprender mais sobre ciência de dados e IA!",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/0VsNN95jsJVRS424eCFDlg"
+                },
+                "href": "https://api.spotify.com/v1/shows/0VsNN95jsJVRS424eCFDlg",
+                "html_description": "O Let&#39;s Data traz pessoas inteligentes e interessantes para conversar sobre ciência de dados, inteligência articificial e outras aleatoriedades da vida. Criado e apresentado por Bernardo Lago, Felipe Schiavon e Leon Silva, com o objetivo de divulgar conhecimentos da área de dados aliando dois enfoques: técnico e humano. Os episódios são transmitidos ao vivo pelo nosso canal no YouTube e disponibilizado nas principais plataformas de podcat. Junte-se a nós e venha aprender mais sobre ciência de dados e IA!",
+                "id": "0VsNN95jsJVRS424eCFDlg",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a08bc9a9aae24143c4ba3e772",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f08bc9a9aae24143c4ba3e772",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d08bc9a9aae24143c4ba3e772",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt"
+                ],
+                "media_type": "audio",
+                "name": "Let's Data",
+                "publisher": "Let's Data",
+                "total_episodes": 66,
+                "type": "show",
+                "uri": "spotify:show:0VsNN95jsJVRS424eCFDlg"
+            },
+            {
+                "copyrights": [],
+                "description": "Podcast de cibersegurança produzido pela Tempest com episódios diários, publicados logo pela manhã com aquilo que foi mais relevante nas últimas vinte e quatro horas em termos de novos ataques, vulnerabilidade ou ameaças.  Tudo em menos de dez minutos e traduzido para uma linguagem fácil, produzido para que você possa ajustar o curso do seu dia de modo a tomar as melhores decisões de cibersegurança para sua empresa.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/3b1pfnrXte2nTaYpcQbB2I"
+                },
+                "href": "https://api.spotify.com/v1/shows/3b1pfnrXte2nTaYpcQbB2I",
+                "html_description": "Podcast de cibersegurança produzido pela Tempest com episódios diários, publicados logo pela manhã com aquilo que foi mais relevante nas últimas vinte e quatro horas em termos de novos ataques, vulnerabilidade ou ameaças. <br/>Tudo em menos de dez minutos e traduzido para uma linguagem fácil, produzido para que você possa ajustar o curso do seu dia de modo a tomar as melhores decisões de cibersegurança para sua empresa.",
+                "id": "3b1pfnrXte2nTaYpcQbB2I",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a9dd252afebe1f847cd336571",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f9dd252afebe1f847cd336571",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d9dd252afebe1f847cd336571",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt-BR"
+                ],
+                "media_type": "audio",
+                "name": "Cyber Morning Call",
+                "publisher": "Tempest Security Intelligence",
+                "total_episodes": 888,
+                "type": "show",
+                "uri": "spotify:show:3b1pfnrXte2nTaYpcQbB2I"
+            },
+            {
+                "copyrights": [],
+                "description": "Explore o fascinante mundo da Ciência de Dados com o nosso podcast envolvente e informativo. Descubra as últimas tendências, técnicas avançadas e estudos de caso que estão moldando o cenário da análise de dados. Junte-se a nós enquanto mergulhamos nas complexidades da análise e ciência de dados, aprendizado de máquina, visualização e muito mais. Seja você um entusiasta curioso ou um profissional experiente, nosso canal é o seu guia essencial para desvendar os segredos da Ciência de Dados. Inscreva-se agora e embarque nessa jornada intelectual!",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/3XbIBG6Ch5ZKYWWlLmQRFw"
+                },
+                "href": "https://api.spotify.com/v1/shows/3XbIBG6Ch5ZKYWWlLmQRFw",
+                "html_description": "Explore o fascinante mundo da Ciência de Dados com o nosso podcast envolvente e informativo. Descubra as últimas tendências, técnicas avançadas e estudos de caso que estão moldando o cenário da análise de dados. Junte-se a nós enquanto mergulhamos nas complexidades da análise e ciência de dados, aprendizado de máquina, visualização e muito mais. Seja você um entusiasta curioso ou um profissional experiente, nosso canal é o seu guia essencial para desvendar os segredos da Ciência de Dados. Inscreva-se agora e embarque nessa jornada intelectual!",
+                "id": "3XbIBG6Ch5ZKYWWlLmQRFw",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ac6692b6dabeeaa564782f1c6",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fc6692b6dabeeaa564782f1c6",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68dc6692b6dabeeaa564782f1c6",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt"
+                ],
+                "media_type": "audio",
+                "name": "Ciencia de Dados Brasil",
+                "publisher": "Caio Felicio da Cunha",
+                "total_episodes": 39,
+                "type": "show",
+                "uri": "spotify:show:3XbIBG6Ch5ZKYWWlLmQRFw"
+            },
+            {
+                "copyrights": [],
+                "description": "Criado em 2015, o Analytics Talks é um podcast semanal que aborda temas relacionados a Analytics de um jeito divertido, com o intuito de informar e provocar reflexões sobre o mercado de dados e analytics do Brasil.   O Analytics Talks é um programa da Métricas Boss, uma consultoria de Digital Analytics e um blog que reúne o que há de novidades no mercado de dados e métricas.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/4qP97l3OJO9vH37fWhrbB7"
+                },
+                "href": "https://api.spotify.com/v1/shows/4qP97l3OJO9vH37fWhrbB7",
+                "html_description": "Criado em 2015, o Analytics Talks é um podcast semanal que aborda temas relacionados a Analytics de um jeito divertido, com o intuito de informar e provocar reflexões sobre o mercado de dados e analytics do Brasil. <br/>O Analytics Talks é um programa da Métricas Boss, uma consultoria de Digital Analytics e um blog que reúne o que há de novidades no mercado de dados e métricas.",
+                "id": "4qP97l3OJO9vH37fWhrbB7",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a0af3e9f008dfab8d5b201911",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f0af3e9f008dfab8d5b201911",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d0af3e9f008dfab8d5b201911",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt"
+                ],
+                "media_type": "mixed",
+                "name": "Analytics Talks",
+                "publisher": "Métricas Boss",
+                "total_episodes": 382,
+                "type": "show",
+                "uri": "spotify:show:4qP97l3OJO9vH37fWhrbB7"
+            },
+            {
+                "copyrights": [],
+                "description": "O Hoje no TecMundo é o tradicional programa diário do TecMundo no YouTube, trazendo de segunda a sexta (exceto feriados), sempre no fim da tarde, as notícias de destaque no mundo da tecnologia. Agora, disponível em áudio!",
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/2GfMFAmQseZ1fOtiLQyZ39"
+                },
+                "href": "https://api.spotify.com/v1/shows/2GfMFAmQseZ1fOtiLQyZ39",
+                "html_description": "O Hoje no TecMundo é o tradicional programa diário do TecMundo no YouTube, trazendo de segunda a sexta (exceto feriados), sempre no fim da tarde, as notícias de destaque no mundo da tecnologia. Agora, disponível em áudio!",
+                "id": "2GfMFAmQseZ1fOtiLQyZ39",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ae2ec124c60c8d4e86a3c240f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fe2ec124c60c8d4e86a3c240f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68de2ec124c60c8d4e86a3c240f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt-BR"
+                ],
+                "media_type": "mixed",
+                "name": "Hoje no TecMundo Podcast",
+                "publisher": "Hoje no TecMundo - Podcast",
+                "total_episodes": 1214,
+                "type": "show",
+                "uri": "spotify:show:2GfMFAmQseZ1fOtiLQyZ39"
+            },
+            {
+                "copyrights": [],
+                "description": "Bate papo sobre Inteligência Artificial para pessoas comuns abordando notícias, ferramentas e todas as formas que a Inteligência Artificial vai mudar nossa vida.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/3lyrnNKGPqdVgmsBUPxvmf"
+                },
+                "href": "https://api.spotify.com/v1/shows/3lyrnNKGPqdVgmsBUPxvmf",
+                "html_description": "Bate papo sobre Inteligência Artificial para pessoas comuns abordando notícias, ferramentas e todas as formas que a Inteligência Artificial vai mudar nossa vida.",
+                "id": "3lyrnNKGPqdVgmsBUPxvmf",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a37c4ce83b7347323b1dcca5f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f37c4ce83b7347323b1dcca5f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d37c4ce83b7347323b1dcca5f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt-BR"
+                ],
+                "media_type": "mixed",
+                "name": "Papo de IA - Inteligência Artificial",
+                "publisher": "Danilo Gato Medeiros",
+                "total_episodes": 104,
+                "type": "show",
+                "uri": "spotify:show:3lyrnNKGPqdVgmsBUPxvmf"
+            },
+            {
+                "copyrights": [],
+                "description": "O Compilado é o podcast para te atualizar sobre o mundo da tecnologia e programação com as notícias mais quentes selecionadas pelo casal de programadores Gabriel Fróes e Vanessa Weber.  Eles são os programadores por trás do Código Fonte TV no YouTube (+30 milhões de views). Com mais de 25 anos dedicados a um relacionamento sério com os códigos, o casal descomplica esse mundo tão vasto de forma descontraída e com aquele humor que só os nerds e os CDFs tem! 🤓  🏆 Com apenas 5 meses, Compilado atingiu a 1ª posição na Amazon Music e 2ª no Spotify em Podcasts de Tecnologia!",
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/7kLgm2CDG4aontuQOluFwb"
+                },
+                "href": "https://api.spotify.com/v1/shows/7kLgm2CDG4aontuQOluFwb",
+                "html_description": "O Compilado é o podcast para te atualizar sobre o mundo da tecnologia e programação com as notícias mais quentes selecionadas pelo casal de programadores Gabriel Fróes e Vanessa Weber.<br/>Eles são os programadores por trás do Código Fonte TV no YouTube (&#43;30 milhões de views). Com mais de 25 anos dedicados a um relacionamento sério com os códigos, o casal descomplica esse mundo tão vasto de forma descontraída e com aquele humor que só os nerds e os CDFs tem! &#x1f913;<br/>&#x1f3c6; Com apenas 5 meses, Compilado atingiu a 1ª posição na Amazon Music e 2ª no Spotify em Podcasts de Tecnologia!",
+                "id": "7kLgm2CDG4aontuQOluFwb",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a64f42c5efa56ff4c71738655",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f64f42c5efa56ff4c71738655",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d64f42c5efa56ff4c71738655",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt-BR"
+                ],
+                "media_type": "mixed",
+                "name": "Compilado do Código Fonte TV",
+                "publisher": "Código Fonte",
+                "total_episodes": 223,
+                "type": "show",
+                "uri": "spotify:show:7kLgm2CDG4aontuQOluFwb"
+            },
+            {
+                "copyrights": [],
+                "description": "Tecnologia, negócios e inovação. No Tecnocast conversamos sobre como a tecnologia está mudando a forma como vivemos e nos relacionamos com o mundo ao nosso redor.  O Tecnocast é o podcast de tecnologia do Tecnoblog.",
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/084hQAwpMi4PcidWPsO2fY"
+                },
+                "href": "https://api.spotify.com/v1/shows/084hQAwpMi4PcidWPsO2fY",
+                "html_description": "Tecnologia, negócios e inovação. No Tecnocast conversamos sobre como a tecnologia está mudando a forma como vivemos e nos relacionamos com o mundo ao nosso redor.<br/>O Tecnocast é o podcast de tecnologia do Tecnoblog.",
+                "id": "084hQAwpMi4PcidWPsO2fY",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a888db0ca60125f12d422e8fc",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f888db0ca60125f12d422e8fc",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d888db0ca60125f12d422e8fc",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt-BR"
+                ],
+                "media_type": "audio",
+                "name": "Tecnocast",
+                "publisher": "Tecnoblog",
+                "total_episodes": 395,
+                "type": "show",
+                "uri": "spotify:show:084hQAwpMi4PcidWPsO2fY"
+            },
+            {
+                "copyrights": [],
+                "description": "As novidades e tendências da tecnologia com uma abordagem simples e clara.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/3RbHv1Fd3af8s90AO9xljy"
+                },
+                "href": "https://api.spotify.com/v1/shows/3RbHv1Fd3af8s90AO9xljy",
+                "html_description": "As novidades e tendências da tecnologia com uma abordagem simples e clara.",
+                "id": "3RbHv1Fd3af8s90AO9xljy",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ab0d1726995849021c98e736c",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fb0d1726995849021c98e736c",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68db0d1726995849021c98e736c",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt"
+                ],
+                "media_type": "audio",
+                "name": "CBN Tecnologia - Techtudo",
+                "publisher": "CBN",
+                "total_episodes": 102,
+                "type": "show",
+                "uri": "spotify:show:3RbHv1Fd3af8s90AO9xljy"
+            },
+            {
+                "copyrights": [],
+                "description": "Um podcast sobre inteligência artificial de uma forma simples. Explicando algoritmos e mostrando como ela está presente no nosso dia a dia.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/3yeqOp2pZKdqX5Qa3jY6Jz"
+                },
+                "href": "https://api.spotify.com/v1/shows/3yeqOp2pZKdqX5Qa3jY6Jz",
+                "html_description": "Um podcast sobre inteligência artificial de uma forma simples. Explicando algoritmos e mostrando como ela está presente no nosso dia a dia.",
+                "id": "3yeqOp2pZKdqX5Qa3jY6Jz",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a8d6347a575eb9e2259885ab9",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f8d6347a575eb9e2259885ab9",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d8d6347a575eb9e2259885ab9",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt"
+                ],
+                "media_type": "mixed",
+                "name": "Vida com IA",
+                "publisher": "Filipe Lauar",
+                "total_episodes": 135,
+                "type": "show",
+                "uri": "spotify:show:3yeqOp2pZKdqX5Qa3jY6Jz"
+            },
+            {
+                "copyrights": [],
+                "description": "Bora trocar umas ideias sobre tecnologia?",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/1aj1JxbfYePAHp1eliCKya"
+                },
+                "href": "https://api.spotify.com/v1/shows/1aj1JxbfYePAHp1eliCKya",
+                "html_description": "Bora trocar umas ideias sobre tecnologia?",
+                "id": "1aj1JxbfYePAHp1eliCKya",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a501e91ebbad462d7c6e1ad41",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f501e91ebbad462d7c6e1ad41",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d501e91ebbad462d7c6e1ad41",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt-BR"
+                ],
+                "media_type": "mixed",
+                "name": "Papinho Tech",
+                "publisher": "Gustavo Caetano",
+                "total_episodes": 121,
+                "type": "show",
+                "uri": "spotify:show:1aj1JxbfYePAHp1eliCKya"
+            },
+            {
+                "copyrights": [],
+                "description": "O Podcast Canaltech é um resumo das notícias de tecnologia, para começar o seu dia. De terça a sábado, a partir das 7h nos seus tocadores de podcasts.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/4N529y6avmcwRFCxezff51"
+                },
+                "href": "https://api.spotify.com/v1/shows/4N529y6avmcwRFCxezff51",
+                "html_description": "<p>O Podcast Canaltech é um resumo das notícias de tecnologia, para começar o seu dia. De terça a sábado, a partir das 7h nos seus tocadores de podcasts.</p>",
+                "id": "4N529y6avmcwRFCxezff51",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a79860d22554e3e976607e284",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f79860d22554e3e976607e284",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d79860d22554e3e976607e284",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt-BR"
+                ],
+                "media_type": "audio",
+                "name": "Podcast Canaltech",
+                "publisher": "Canaltech",
+                "total_episodes": 730,
+                "type": "show",
+                "uri": "spotify:show:4N529y6avmcwRFCxezff51"
+            },
+            {
+                "copyrights": [],
+                "description": "Note: The TDS podcast's current run has ended.   Researchers and business leaders at the forefront of the field unpack the most pressing questions around data science and AI.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/63diy2DtpHzQfeNVxAPZgU"
+                },
+                "href": "https://api.spotify.com/v1/shows/63diy2DtpHzQfeNVxAPZgU",
+                "html_description": "Note: The TDS podcast&#39;s current run has ended. <br/>Researchers and business leaders at the forefront of the field unpack the most pressing questions around data science and AI.",
+                "id": "63diy2DtpHzQfeNVxAPZgU",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a18dabc3d34415645052250fe",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f18dabc3d34415645052250fe",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d18dabc3d34415645052250fe",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en-US"
+                ],
+                "media_type": "audio",
+                "name": "Towards Data Science",
+                "publisher": "The TDS team ",
+                "total_episodes": 130,
+                "type": "show",
+                "uri": "spotify:show:63diy2DtpHzQfeNVxAPZgU"
+            },
+            {
+                "copyrights": [],
+                "description": "Os comentários, entrevistas e reportagens sobre a vida digital na CBN.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/36fAENA2LHDy6rZ0l1z5Ce"
+                },
+                "href": "https://api.spotify.com/v1/shows/36fAENA2LHDy6rZ0l1z5Ce",
+                "html_description": "Os comentários, entrevistas e reportagens sobre a vida digital na CBN.",
+                "id": "36fAENA2LHDy6rZ0l1z5Ce",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a26fdfae8088daead0a820e38",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f26fdfae8088daead0a820e38",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d26fdfae8088daead0a820e38",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt"
+                ],
+                "media_type": "audio",
+                "name": "Tecnologia",
+                "publisher": "CBN",
+                "total_episodes": 186,
+                "type": "show",
+                "uri": "spotify:show:36fAENA2LHDy6rZ0l1z5Ce"
+            },
+            {
+                "copyrights": [],
+                "description": "O Product Guru’s é um podcast direto ao ponto sobre produto, tecnologia e decisões difíceis. Entrevistas com product managers e líderes de empresas como Nubank, iFood, e Ambev, além de reflexões que provocam e ajudam a crescer na prática.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/7uRmxP1l3m9kwrsTYxnIMA"
+                },
+                "href": "https://api.spotify.com/v1/shows/7uRmxP1l3m9kwrsTYxnIMA",
+                "html_description": "O Product Guru’s é um podcast direto ao ponto sobre produto, tecnologia e decisões difíceis. Entrevistas com product managers e líderes de empresas como Nubank, iFood, e Ambev, além de reflexões que provocam e ajudam a crescer na prática.",
+                "id": "7uRmxP1l3m9kwrsTYxnIMA",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8af788bf1901239aaceb3af91b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1ff788bf1901239aaceb3af91b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68df788bf1901239aaceb3af91b",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt"
+                ],
+                "media_type": "mixed",
+                "name": "Product Guru's : Produto | Negócios | Carreira",
+                "publisher": "Paulo Chiodi",
+                "total_episodes": 312,
+                "type": "show",
+                "uri": "spotify:show:7uRmxP1l3m9kwrsTYxnIMA"
+            },
+            {
+                "copyrights": [],
+                "description": "Ferramentas digitais e novidades do mundo tecnológico.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/6YdK60YMpc6miHuXIURtrc"
+                },
+                "href": "https://api.spotify.com/v1/shows/6YdK60YMpc6miHuXIURtrc",
+                "html_description": "Ferramentas digitais e novidades do mundo tecnológico.",
+                "id": "6YdK60YMpc6miHuXIURtrc",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a6df19ac04ceb155f1eb9c06f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f6df19ac04ceb155f1eb9c06f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d6df19ac04ceb155f1eb9c06f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt"
+                ],
+                "media_type": "audio",
+                "name": "Pedro Doria - Vida Digital CBN",
+                "publisher": "CBN",
+                "total_episodes": 46,
+                "type": "show",
+                "uri": "spotify:show:6YdK60YMpc6miHuXIURtrc"
+            },
+            {
+                "copyrights": [],
+                "description": "Toda quarta-feira no Dev Sem Fronteiras você escuta histórias de devs que saíram do Brasil para trabalhar em outros países. Descubra como funcionam os processos de imigração, os testes das empresas, como é se adaptar no exterior, custo de vida de diferentes países, como é fazer amizades e, é claro, os perrengues dos brasileiros na gringa.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/3WsvUbTh7M1Rsw6lOGwYtk"
+                },
+                "href": "https://api.spotify.com/v1/shows/3WsvUbTh7M1Rsw6lOGwYtk",
+                "html_description": "Toda quarta-feira no Dev Sem Fronteiras você escuta histórias de devs que saíram do Brasil para trabalhar em outros países. Descubra como funcionam os processos de imigração, os testes das empresas, como é se adaptar no exterior, custo de vida de diferentes países, como é fazer amizades e, é claro, os perrengues dos brasileiros na gringa.",
+                "id": "3WsvUbTh7M1Rsw6lOGwYtk",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8af971716039c1218048ae0130",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1ff971716039c1218048ae0130",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68df971716039c1218048ae0130",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt-BR"
+                ],
+                "media_type": "audio",
+                "name": "Dev Sem Fronteiras",
+                "publisher": "Alura - Hipsters Network",
+                "total_episodes": 213,
+                "type": "show",
+                "uri": "spotify:show:3WsvUbTh7M1Rsw6lOGwYtk"
+            },
+            {
+                "copyrights": [],
+                "description": "Criado por dois especialistas em inteligência artificial com dados espaciais, João Ataíde e Vitor Zanetti, este podcast tem como propósito explorar os principais desafios, dores e soluções do mercado das tecnologias, com um foco especial nas geotecnologias, SIG, machine learning, robótica, deep learning, sensoriamento remoto, drones, LiDAR, big data e tudo mais que estiver inserido nesse universo fascinante. Junte-se a nós enquanto mergulhamos no mundo das inovações tecnológicas e suas aplicações espaciais.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/3jtf4lXKXRBaDtmMvLk3jF"
+                },
+                "href": "https://api.spotify.com/v1/shows/3jtf4lXKXRBaDtmMvLk3jF",
+                "html_description": "Criado por dois especialistas em inteligência artificial com dados espaciais, João Ataíde e Vitor Zanetti, este podcast tem como propósito explorar os principais desafios, dores e soluções do mercado das tecnologias, com um foco especial nas geotecnologias, SIG, machine learning, robótica, deep learning, sensoriamento remoto, drones, LiDAR, big data e tudo mais que estiver inserido nesse universo fascinante. Junte-se a nós enquanto mergulhamos no mundo das inovações tecnológicas e suas aplicações espaciais.",
+                "id": "3jtf4lXKXRBaDtmMvLk3jF",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8af0451aeee4c4a93da4a9bc54",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1ff0451aeee4c4a93da4a9bc54",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68df0451aeee4c4a93da4a9bc54",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt-BR"
+                ],
+                "media_type": "audio",
+                "name": "Spatial Hackers Podcast",
+                "publisher": "Spatial Hackers",
+                "total_episodes": 22,
+                "type": "show",
+                "uri": "spotify:show:3jtf4lXKXRBaDtmMvLk3jF"
+            },
+            {
+                "copyrights": [],
+                "description": "Os gêmeos Ricardo e Roberto Dias, programadores há mais de 15 anos, discutem de forma descontraída as dúvidas mais comuns (ou polêmicas) de programadores iniciantes.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/2kCrTjsGn431qiGpl9quAl"
+                },
+                "href": "https://api.spotify.com/v1/shows/2kCrTjsGn431qiGpl9quAl",
+                "html_description": "Os gêmeos Ricardo e Roberto Dias, programadores há mais de 15 anos, discutem de forma descontraída as dúvidas mais comuns (ou polêmicas) de programadores iniciantes.",
+                "id": "2kCrTjsGn431qiGpl9quAl",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8afe3af07f857372d9079cdd65",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1ffe3af07f857372d9079cdd65",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68dfe3af07f857372d9079cdd65",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt-BR"
+                ],
+                "media_type": "mixed",
+                "name": "Podcast Dev em Dobro",
+                "publisher": "Dev em Dobro - Ricardo e Roberto Dias",
+                "total_episodes": 142,
+                "type": "show",
+                "uri": "spotify:show:2kCrTjsGn431qiGpl9quAl"
+            },
+            {
+                "copyrights": [],
+                "description": "Bom dia Tech! Tudo bem? Sejam bem-vindos ao seu podcast diário, de segunda a sexta, com as principais notícias de tecnologia do momento!",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/5rpatrW6OKU2gj6jCNKkO6"
+                },
+                "href": "https://api.spotify.com/v1/shows/5rpatrW6OKU2gj6jCNKkO6",
+                "html_description": "Bom dia Tech! Tudo bem?<br/>Sejam bem-vindos ao seu podcast diário, de segunda a sexta, com as principais notícias de tecnologia do momento!",
+                "id": "5rpatrW6OKU2gj6jCNKkO6",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8aaf662190c2a00d9945757722",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1faf662190c2a00d9945757722",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68daf662190c2a00d9945757722",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt"
+                ],
+                "media_type": "mixed",
+                "name": "Bom dia Tech",
+                "publisher": "Arthur Givigir",
+                "total_episodes": 576,
+                "type": "show",
+                "uri": "spotify:show:5rpatrW6OKU2gj6jCNKkO6"
+            },
+            {
+                "copyrights": [],
+                "description": "Learn from your favorite indie hackers as they share hard-earned lessons and tall tales from their data model journeys!  Brought to you by Xata — the only serverless data platform for PostgreSQL.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/22oAuPTWSH3pYOXu4GvTG0"
+                },
+                "href": "https://api.spotify.com/v1/shows/22oAuPTWSH3pYOXu4GvTG0",
+                "html_description": "Learn from your favorite indie hackers as they share hard-earned lessons and tall tales from their data model journeys!<br/>Brought to you by Xata — the only serverless data platform for PostgreSQL.",
+                "id": "22oAuPTWSH3pYOXu4GvTG0",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8aff16cbc7ac568a67443f45ca",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fff16cbc7ac568a67443f45ca",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68dff16cbc7ac568a67443f45ca",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en"
+                ],
+                "media_type": "audio",
+                "name": "Data in the Wild",
+                "publisher": "Queen Raae",
+                "total_episodes": 8,
+                "type": "show",
+                "uri": "spotify:show:22oAuPTWSH3pYOXu4GvTG0"
+            },
+            {
+                "copyrights": [],
+                "description": "Alice yearns for something more in life. She has a low-stress job, a steady relationship with her boyfriend, and a nephew she loves looking after, but she can’t shake the feeling that something isn’t quite right. A phone call turns everything upside down, making Alice the perfect target for a cybercrime. From that moment on, her entire existence undergoes a radical transformation and she will never be the same again: deceit, manipulation, identity theft… Alice will have to navigate a high-octane scenario packed with conspiracy theories and AI in her search to understand what type of person she is and unravel the truth behind her seemingly happy world. Unleashed is a fictional audio thriller set in a world where technology has altered the playing field. Discover how every action leaves a trace, every moment generates data, and this invaluable information is a goldmine for hackers. And learn how to protect your digital ID in a world that is increasingly hyperconnected. The Spanish version of Unleashed was named Podcast of the Year for “elevating the genre of audio fiction” and for its “impeccable sound design” at the 2023 Ondas Awards, and Best Branded Podcast at the 2023 Ondas World Podcast Awards.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/1vN4fEtwbmMAx8UZgIAiOb"
+                },
+                "href": "https://api.spotify.com/v1/shows/1vN4fEtwbmMAx8UZgIAiOb",
+                "html_description": "<p>Alice yearns for something more in life. She has a low-stress job, a steady relationship with her boyfriend, and a nephew she loves looking after, but she can’t shake the feeling that something isn’t quite right. A phone call turns everything upside down, making Alice the perfect target for a cybercrime. From that moment on, her entire existence undergoes a radical transformation and she will never be the same again: deceit, manipulation, identity theft… Alice will have to navigate a high-octane scenario packed with conspiracy theories and AI in her search to understand what type of person she is and unravel the truth behind her seemingly happy world.</p><br/><p>Unleashed is a fictional audio thriller set in a world where technology has altered the playing field. Discover how every action leaves a trace, every moment generates data, and this invaluable information is a goldmine for hackers. And learn how to protect your digital ID in a world that is increasingly hyperconnected.</p><br/><p>The Spanish version of Unleashed was named Podcast of the Year for “elevating the genre of audio fiction” and for its “impeccable sound design” at the 2023 Ondas Awards, and Best Branded Podcast at the 2023 Ondas World Podcast Awards.</p>",
+                "id": "1vN4fEtwbmMAx8UZgIAiOb",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ae5684ee796999de35bfb9479",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fe5684ee796999de35bfb9479",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68de5684ee796999de35bfb9479",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en"
+                ],
+                "media_type": "audio",
+                "name": "Unleashed",
+                "publisher": "Podium Podcast",
+                "total_episodes": 9,
+                "type": "show",
+                "uri": "spotify:show:1vN4fEtwbmMAx8UZgIAiOb"
+            },
+            {
+                "copyrights": [],
+                "description": "🎙️ TRUE CRIME 2.0: THE FUTURE OF CRIMINAL INVESTIGATIONWelcome to True Crime 2.0, where technology, data, and real-life stories collide to unravel the most disturbing crimes of our era. We don’t just recount famous cases—we reinvestigate them with the tools of the future: artificial intelligence, 3D crime scene reconstruction, algorithm-based behavioral profiling, and more.Each episode dives deep into unsolved crimes, serial killings, and dark conspiracies, delivering:🔍 Fresh perspectives – How could modern tech have cracked these cases decades ago?🖥️ Exclusive data – We uncover patterns and connections law enforcement missed.💡 Expert insights – From forensic scientists to ethical hackers, we bring voices that challenge the status quo.Who is this podcast for?True crime addicts tired of the same reheated cases.Tech enthusiasts curious about how AI and big data are revolutionizing investigations.Critical thinkers who love debating theories and exploring \"what if?\" scenarios.True Crime 2.0 isn’t just about crimes—it’s about justice in the 21st century.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/5tAbplXmG1fAaSvIRuzfsH"
+                },
+                "href": "https://api.spotify.com/v1/shows/5tAbplXmG1fAaSvIRuzfsH",
+                "html_description": "&#x1f399;️ TRUE CRIME 2.0: THE FUTURE OF CRIMINAL INVESTIGATION<br /><br />Welcome to True Crime 2.0, where technology, data, and real-life stories collide to unravel the most disturbing crimes of our era. We don’t just recount famous cases—we reinvestigate them with the tools of the future: artificial intelligence, 3D crime scene reconstruction, algorithm-based behavioral profiling, and more.<br /><br />Each episode dives deep into unsolved crimes, serial killings, and dark conspiracies, delivering:<br />&#x1f50d; Fresh perspectives – How could modern tech have cracked these cases decades ago?<br />&#x1f5a5;️ Exclusive data – We uncover patterns and connections law enforcement missed.<br />&#x1f4a1; Expert insights – From forensic scientists to ethical hackers, we bring voices that challenge the status quo.<br /><br />Who is this podcast for?<br /><ul><li>True crime addicts tired of the same reheated cases.</li><li>Tech enthusiasts curious about how AI and big data are revolutionizing investigations.</li><li>Critical thinkers who love debating theories and exploring &#34;what if?&#34; scenarios.</li></ul>True Crime 2.0 isn’t just about crimes—it’s about justice in the 21st century.",
+                "id": "5tAbplXmG1fAaSvIRuzfsH",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a80a7917707aeda56af92a60e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f80a7917707aeda56af92a60e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d80a7917707aeda56af92a60e",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en"
+                ],
+                "media_type": "audio",
+                "name": "TRUE CRIME 2.0",
+                "publisher": "TRUE CRIME 2.0",
+                "total_episodes": 193,
+                "type": "show",
+                "uri": "spotify:show:5tAbplXmG1fAaSvIRuzfsH"
+            },
+            {
+                "copyrights": [],
+                "description": "Cyber Security, data breaches, Hackers, Chief Information Security Officers, Talking Cyber Security (formerly 'The Australian CISO') is a podcast for anyone interested in Cyber Security. Hear about data breaches, cyber news, how security personnel 'tick', how to answer questions at an interview, lessons learnt while doing the security role, how security people network, how they succeed etc. Use the email address talkingcybersec@gmail.com to make comments, pose questions or even ask to be on The Australian CISO podcast.The main presenter is Richard Heron. Richard is an experienced CISO and has learnt many tough lessons during the many and varied Security Management roles he has held since 2002. He also holds some security accreditations as well. Richard enjoys AFL, podcasting, e-Biking and charity work.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/38qcndxsBN7TjkuhF2mlZf"
+                },
+                "href": "https://api.spotify.com/v1/shows/38qcndxsBN7TjkuhF2mlZf",
+                "html_description": "<p>Cyber Security, data breaches, Hackers, Chief Information Security Officers, Talking Cyber Security (formerly &#39;The Australian CISO&#39;) is a podcast for anyone interested in Cyber Security. Hear about data breaches, cyber news, how security personnel &#39;tick&#39;, how to answer questions at an interview, lessons learnt while doing the security role, how security people network, how they succeed etc. <br /><br />Use the email address talkingcybersec&#64;gmail.com to make comments, pose questions or even ask to be on The Australian CISO podcast.<br /><br />The main presenter is Richard Heron. <br />Richard is an experienced CISO and has learnt many tough lessons during the many and varied Security Management roles he has held since 2002. He also holds some security accreditations as well. Richard enjoys AFL, podcasting, e-Biking and charity work.</p>",
+                "id": "38qcndxsBN7TjkuhF2mlZf",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a0804c6bb8585336a4d94599b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f0804c6bb8585336a4d94599b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d0804c6bb8585336a4d94599b",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en"
+                ],
+                "media_type": "audio",
+                "name": "Talking Cyber Security",
+                "publisher": "Richard Heron",
+                "total_episodes": 100,
+                "type": "show",
+                "uri": "spotify:show:38qcndxsBN7TjkuhF2mlZf"
+            },
+            {
+                "copyrights": [],
+                "description": "Cyber risk resilience for executives. Hackers are winning and lawmakers are taking action with new cyber risk mandates. In an increasingly internet delivered world, new cyberlaws and regulations with steep sanctions have been levied against leaders unable to prove their reasonable governance of the data privacy and cybersecurity problems. With cyber threats evolving at an alarming pace, cyber risk awareness and governance is needed as compliance alone is no longer enough for all businesses. Gone are the days of dry, technical jargon. At Navigating Cyber Risk, we understand the importance of making cybersecurity governance relevant to the executive suite and the board, as they can be held personally responsible for when hackers succeed. Our podcast combines expert insights with captivating storytelling, ensuring each episode is both educational and entertaining. From intriguing case studies and methods to monetize cyber risks to deep dives into emerging technologies and governance regul...",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/0QApApJWYP55em0r1El8dK"
+                },
+                "href": "https://api.spotify.com/v1/shows/0QApApJWYP55em0r1El8dK",
+                "html_description": "Cyber risk resilience for executives. Hackers are winning and lawmakers are taking action with new cyber risk mandates. In an increasingly internet delivered world, new cyberlaws and regulations with steep sanctions have been levied against leaders unable to prove their reasonable governance of the data privacy and cybersecurity problems. With cyber threats evolving at an alarming pace, cyber risk awareness and governance is needed as compliance alone is no longer enough for all businesses. Gone are the days of dry, technical jargon. At Navigating Cyber Risk, we understand the importance of making cybersecurity governance relevant to the executive suite and the board, as they can be held personally responsible for when hackers succeed. Our podcast combines expert insights with captivating storytelling, ensuring each episode is both educational and entertaining. From intriguing case studies and methods to monetize cyber risks to deep dives into emerging technologies and governance regul...",
+                "id": "0QApApJWYP55em0r1El8dK",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a3d722a8ff9328c87ef9eb4ad",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f3d722a8ff9328c87ef9eb4ad",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d3d722a8ff9328c87ef9eb4ad",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en-US"
+                ],
+                "media_type": "audio",
+                "name": "Navigating Cyber Risk",
+                "publisher": "John Riley and George Usi",
+                "total_episodes": 48,
+                "type": "show",
+                "uri": "spotify:show:0QApApJWYP55em0r1El8dK"
+            },
+            {
+                "copyrights": [],
+                "description": "American companies, whole towns, have been eviscerated by Chinese cyberattacks. But their stories remain untold, even as the stakes get higher and the targets more reckless.  To Catch a Thief is a first-of-its-kind, documentary look at China’s rise to cyber supremacy. This podcast charts the evolution of China’s state-sponsored hackers, from their beginnings as “the most polite, mediocre hackers in cyberspace” to the “apex predator” that now haunts America’s critical infrastructure.   Host Nicole Perlroth, bestselling author and former lead cybersecurity and digital espionage reporter for The New York Times, interviews those who were victimized, and instrumental in tracking, Chinese cyberattacks as the threat morphed from trade secret theft, to blanket surveillance, to pre-positioning in America’s critical infrastructure. For what purpose? To Catch a Thief interrogates the motives behind it all.  This audio documentary is produced by Rubrik, the leading data security company that delivers cyber resilience for businesses around the world.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/1xFnf1ReS81p79TtR7f6vj"
+                },
+                "href": "https://api.spotify.com/v1/shows/1xFnf1ReS81p79TtR7f6vj",
+                "html_description": "<p>American companies, whole towns, have been eviscerated by Chinese cyberattacks. But their stories remain untold, even as the stakes get higher and the targets more reckless.</p><p><br /></p><p>To Catch a Thief is a first-of-its-kind, documentary look at China’s rise to cyber supremacy. This podcast charts the evolution of China’s state-sponsored hackers, from their beginnings as “the most polite, mediocre hackers in cyberspace” to the “apex predator” that now haunts America’s critical infrastructure. </p><p><br /></p><p>Host Nicole Perlroth, bestselling author and former lead cybersecurity and digital espionage reporter for The New York Times, interviews those who were victimized, and instrumental in tracking, Chinese cyberattacks as the threat morphed from trade secret theft, to blanket surveillance, to pre-positioning in America’s critical infrastructure. For what purpose? To Catch a Thief interrogates the motives behind it all.</p><p><br /></p><p>This audio documentary is produced by <a href=\"https://www.rubrik.com/\" rel=\"nofollow\">Rubrik</a>, the leading data security company that delivers cyber resilience for businesses around the world.</p>",
+                "id": "1xFnf1ReS81p79TtR7f6vj",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a0b834582cc049f33b0199f18",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f0b834582cc049f33b0199f18",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d0b834582cc049f33b0199f18",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en"
+                ],
+                "media_type": "mixed",
+                "name": "To Catch a Thief: China’s Rise to Cyber Supremacy",
+                "publisher": "Rubrik | Nicole Perlroth | Pod People",
+                "total_episodes": 11,
+                "type": "show",
+                "uri": "spotify:show:1xFnf1ReS81p79TtR7f6vj"
+            },
+            {
+                "copyrights": [],
+                "description": "This is the podcast for rebels with a cause—where new thinking and technologies - such as AI - disrupts danger, data outsmarts disasters, and innovation rewires the way we protect people and the planet. Hosted by pioneers who think like hackers and act like changemakers, Risk Hacker dives into how technology and rewired risk management solutions are transforming Environmental, Health, and Safety (EHS) from reactive rules into proactive power moves.Because a hacker isn’t just a coder—it’s someone who solves problems by non-standard means. And EHS needs breakthrough approaches.If you're ready to rewrite the rules of risk—you’re in the right place.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/3euaT9Yjp6J437yn1lDUNt"
+                },
+                "href": "https://api.spotify.com/v1/shows/3euaT9Yjp6J437yn1lDUNt",
+                "html_description": "<p>This is the podcast for rebels with a cause—where new thinking and technologies - such as AI - disrupts danger, data outsmarts disasters, and innovation rewires the way we protect people and the planet. Hosted by pioneers who think like hackers and act like changemakers, Risk Hacker dives into how technology and rewired risk management solutions are transforming Environmental, Health, and Safety (EHS) from reactive rules into proactive power moves.</p><p>Because a hacker isn’t just a coder—it’s someone who solves problems by non-standard means. And EHS needs breakthrough approaches.</p><p>If you&#39;re ready to rewrite the rules of risk—you’re in the right place.</p>",
+                "id": "3euaT9Yjp6J437yn1lDUNt",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8aa7beb3c44c46e35a309392a8",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fa7beb3c44c46e35a309392a8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68da7beb3c44c46e35a309392a8",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en-US"
+                ],
+                "media_type": "audio",
+                "name": "Risk Hackers - Seeking EHS Breakthrough",
+                "publisher": "Safety Hub",
+                "total_episodes": 5,
+                "type": "show",
+                "uri": "spotify:show:3euaT9Yjp6J437yn1lDUNt"
+            },
+            {
+                "copyrights": [],
+                "description": "Everyday society depends more on electronics, social media etc, and by doing so they expose their private data to the public eye. Each Saturday, join Hackers Con Calle is a group of Cyber Security professionals dedicated to inform the audience of current trends and a how to protect the digital life.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/7M8pc8E8ElbJ8LMoFi9kFa"
+                },
+                "href": "https://api.spotify.com/v1/shows/7M8pc8E8ElbJ8LMoFi9kFa",
+                "html_description": "Everyday society depends more on electronics, social media etc, and by doing so they expose their private data to the public eye. Each Saturday, join Hackers Con Calle is a group of Cyber Security professionals dedicated to inform the audience of current trends and a how to protect the digital life.",
+                "id": "7M8pc8E8ElbJ8LMoFi9kFa",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a203794844b9b06649111e91c",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f203794844b9b06649111e91c",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d203794844b9b06649111e91c",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en-US"
+                ],
+                "media_type": "audio",
+                "name": "Hackers Con Calle",
+                "publisher": "Hackers World",
+                "total_episodes": 12,
+                "type": "show",
+                "uri": "spotify:show:7M8pc8E8ElbJ8LMoFi9kFa"
+            },
+            {
+                "copyrights": [],
+                "description": "Hablaremos sobre la Tecnología en los negocios = Inteligencia Artificial, Big Data, Growth Hacking y Startups.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/6MejaxN5q75YD2ckrJkP23"
+                },
+                "href": "https://api.spotify.com/v1/shows/6MejaxN5q75YD2ckrJkP23",
+                "html_description": "Hablaremos sobre la Tecnología en los negocios &#61; Inteligencia Artificial, Big Data, Growth Hacking y Startups.",
+                "id": "6MejaxN5q75YD2ckrJkP23",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a1045515aa49a113a40d5d5f5",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f1045515aa49a113a40d5d5f5",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d1045515aa49a113a40d5d5f5",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "es-MX"
+                ],
+                "media_type": "audio",
+                "name": "HACKERS DEL CRECIMIENTO",
+                "publisher": "Dani Faley",
+                "total_episodes": 3,
+                "type": "show",
+                "uri": "spotify:show:6MejaxN5q75YD2ckrJkP23"
+            },
+            {
+                "copyrights": [],
+                "description": "In the shadows of the digital world, where anonymity is power and information is currency, battle lines are drawn not with bullets but with code. This show takes listeners deep into the heart of cyberspace’s most high-stakes confrontations — where rogue programmers exploit vulnerabilities, corporations scramble to secure their data empires, and government agencies wage invisible wars across invisible lines. It’s a realm shaped by encryption, espionage, whistleblowers, and wild ambition. From black hat exploits to state-sponsored surveillance, every episode explores the blurred boundaries between ethics and law, privacy and paranoia, control and chaos. This isn’t just about computers — it’s about the future of power itself. Join as we uncover 11 million untold true stories. Disclosure Statement: The National Media Archive and affiliated programs use Artificial Intelligence throughout areas of research, production, and editing. These tools are actively embraced as part of our approach to development and workflow. All outputs are subject to human review to ensure they meet our editorial standards. For more information about our use of AI, please visit our website at NationalMediaArchive.com",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/1s5RD5PFaPxGW9oLJ3ZFsU"
+                },
+                "href": "https://api.spotify.com/v1/shows/1s5RD5PFaPxGW9oLJ3ZFsU",
+                "html_description": "In the shadows of the digital world, where anonymity is power and information is currency, battle lines are drawn not with bullets but with code. This show takes listeners deep into the heart of cyberspace’s most high-stakes confrontations — where rogue programmers exploit vulnerabilities, corporations scramble to secure their data empires, and government agencies wage invisible wars across invisible lines. It’s a realm shaped by encryption, espionage, whistleblowers, and wild ambition. From black hat exploits to state-sponsored surveillance, every episode explores the blurred boundaries between ethics and law, privacy and paranoia, control and chaos. This isn’t just about computers — it’s about the future of power itself. Join as we uncover 11 million untold true stories. Disclosure Statement: The National Media Archive and affiliated programs use Artificial Intelligence throughout areas of research, production, and editing. These tools are actively embraced as part of our approach to development and workflow. All outputs are subject to human review to ensure they meet our editorial standards. For more information about our use of AI, please visit our website at NationalMediaArchive.com",
+                "id": "1s5RD5PFaPxGW9oLJ3ZFsU",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a8147af8a88a4937448a3eb4d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f8147af8a88a4937448a3eb4d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d8147af8a88a4937448a3eb4d",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en"
+                ],
+                "media_type": "audio",
+                "name": "Hackers: Code and Chaos",
+                "publisher": "Hackers: Code and Chaos",
+                "total_episodes": 8,
+                "type": "show",
+                "uri": "spotify:show:1s5RD5PFaPxGW9oLJ3ZFsU"
+            },
+            {
+                "copyrights": [],
+                "description": "Bienvenue dans Data Pop, le podcast qui hacke l’info cybersécurité pour la rendre croustillante ! Chaque semaine, on décortique les attaques, failles et coups de génie des hackers, sans jargon plombant. Au menu : anecdotes de pentesters, news zero-day, détours pop culture et tips pour rester safe en ligne. Un shot d’adrénaline numérique servi avec humour, énergie et son sampling 8-bit. Branche tes écouteurs, abonne-toi, et transforme chaque alerte rouge en bonne dose de fun instructif ! Des guests surprise, quiz éclair et débrief pour briller au bureau.",
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/2QAoIKwZK9IgBQZ036EvTQ"
+                },
+                "href": "https://api.spotify.com/v1/shows/2QAoIKwZK9IgBQZ036EvTQ",
+                "html_description": "Bienvenue dans Data Pop, le podcast qui hacke l’info cybersécurité pour la rendre croustillante ! Chaque semaine, on décortique les attaques, failles et coups de génie des hackers, sans jargon plombant. Au menu : anecdotes de pentesters, news zero-day, détours pop culture et tips pour rester safe en ligne. Un shot d’adrénaline numérique servi avec humour, énergie et son sampling 8-bit. Branche tes écouteurs, abonne-toi, et transforme chaque alerte rouge en bonne dose de fun instructif ! Des guests surprise, quiz éclair et débrief pour briller au bureau.",
+                "id": "2QAoIKwZK9IgBQZ036EvTQ",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8acfc7cdc356b0f79fe0f69fd2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fcfc7cdc356b0f79fe0f69fd2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68dcfc7cdc356b0f79fe0f69fd2",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "fr"
+                ],
+                "media_type": "mixed",
+                "name": "DATA POP",
+                "publisher": "Clara_lrc5",
+                "total_episodes": 1,
+                "type": "show",
+                "uri": "spotify:show:2QAoIKwZK9IgBQZ036EvTQ"
+            },
+            {
+                "copyrights": [],
+                "description": "Welcome to Ethical Data, Explained, where we delve into the world of data and data collection.  In our podcast, we aim to debunk common myths surrounding web scraping and answer burning questions like: Is web scraping legal? Is it ethical to use proxies for data collection? Why do companies scrape data? etc. We invite tech entrepreneurs, data security experts, lawmakers, and hackers to look at data and public data collection from various points of view to unlock safe and ethical web scraping for businesses.  Join us as we chat with experts about data, web scraping, proxies, ethics, and security.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/0PIVy60KSm5bdIeWBqTT5D"
+                },
+                "href": "https://api.spotify.com/v1/shows/0PIVy60KSm5bdIeWBqTT5D",
+                "html_description": "Welcome to Ethical Data, Explained, where we delve into the world of data and data collection.<br/>In our podcast, we aim to debunk common myths surrounding web scraping and answer burning questions like: Is web scraping legal? Is it ethical to use proxies for data collection? Why do companies scrape data? etc.<br/>We invite tech entrepreneurs, data security experts, lawmakers, and hackers to look at data and public data collection from various points of view to unlock safe and ethical web scraping for businesses.<br/>Join us as we chat with experts about data, web scraping, proxies, ethics, and security.",
+                "id": "0PIVy60KSm5bdIeWBqTT5D",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a3f068b20148748b944ec9a16",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f3f068b20148748b944ec9a16",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d3f068b20148748b944ec9a16",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en"
+                ],
+                "media_type": "audio",
+                "name": "Ethical Data, Explained",
+                "publisher": "SOAX",
+                "total_episodes": 10,
+                "type": "show",
+                "uri": "spotify:show:0PIVy60KSm5bdIeWBqTT5D"
+            },
+            {
+                "copyrights": [],
+                "description": "In today’s digital world, your personal data is more valuable than ever — and more vulnerable too. In this episode, we uncover the essential steps you can take to keep your information safe from hackers, scams, and data leaks. From strong passwords and two-factor authentication to privacy settings and safe browsing habits, learn how to build a solid defense around your digital life. Whether you’re an everyday internet user or a tech enthusiast, this guide will help you stay one step ahead of cyber threats and protect what matters most — your data and your privacy.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/2veFhfzXzawPeo7bGJ7e66"
+                },
+                "href": "https://api.spotify.com/v1/shows/2veFhfzXzawPeo7bGJ7e66",
+                "html_description": "In today’s digital world, your personal data is more valuable than ever — and more vulnerable too. In this episode, we uncover the essential steps you can take to keep your information safe from hackers, scams, and data leaks. From strong passwords and two-factor authentication to privacy settings and safe browsing habits, learn how to build a solid defense around your digital life. Whether you’re an everyday internet user or a tech enthusiast, this guide will help you stay one step ahead of cyber threats and protect what matters most — your data and your privacy.",
+                "id": "2veFhfzXzawPeo7bGJ7e66",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a4d514f0aaa868ca4b882ba91",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f4d514f0aaa868ca4b882ba91",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d4d514f0aaa868ca4b882ba91",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en"
+                ],
+                "media_type": "audio",
+                "name": "Protect Your data | Essential guide to protect your data",
+                "publisher": "Maleesha",
+                "total_episodes": 1,
+                "type": "show",
+                "uri": "spotify:show:2veFhfzXzawPeo7bGJ7e66"
+            },
+            {
+                "copyrights": [],
+                "description": "Data/Internet security you name it I'm interested in. Just here to let some steam off or even see if anyone understands me. Has to be someone who knows what I talk about, haha tired of confusing people now. Any Body on my wave level.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/7kU6yrZ33zDGmuCLXepEPK"
+                },
+                "href": "https://api.spotify.com/v1/shows/7kU6yrZ33zDGmuCLXepEPK",
+                "html_description": "Data/Internet security you name it I&#39;m interested in. Just here to let some steam off or even see if anyone understands me. Has to be someone who knows what I talk about, haha tired of confusing people now. Any Body on my wave level.",
+                "id": "7kU6yrZ33zDGmuCLXepEPK",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a2748a4c3a435c67b547dae1c",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f2748a4c3a435c67b547dae1c",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d2748a4c3a435c67b547dae1c",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en"
+                ],
+                "media_type": "audio",
+                "name": "It's All About Data/Internet These Days. Hackers Who Are Basically F***ING Thigs Up.",
+                "publisher": "Stacey Johnson",
+                "total_episodes": 1,
+                "type": "show",
+                "uri": "spotify:show:7kU6yrZ33zDGmuCLXepEPK"
+            },
+            {
+                "copyrights": [],
+                "description": "This is a podcast series that will hopefully help you learn about the role of hackers, computer programmers, data scientists all all sorts of nerds and magicians who help build our digital societies today. I am your host Paula Bialski, and I am Associate Professor for Digital Sociology at the University of St. Gallen and an affiliate researcher at the Centre for Digital Cultures at Leuphana University in Luneburg Germany.  I am ethnographer of digital cultures, which just means that I like befriending all sorts of technically-savvy nerds, which I’ve done in my research stints in the past.  This podcast was originally created for my Contextual Studies course at St. Gallen University in April 2020. A lot what I will be talking to you throughout this podcast lecture will come from my own two year research project where I hung out among corporate programmers in Berlin who made mapping and navigation software.  This podcast is written and read by Paula Bialski. Production, sound editing, and sound design was done by Heights Beats. Thank you in particular to Chris Kelty and Biella Coleman and our endeavour at hackcur.io for inspiring this podcast, as well as the Leuphana University Luneburg and the University of St. Gallen.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/5NJGLJ0EGqTsNylTSk8xrW"
+                },
+                "href": "https://api.spotify.com/v1/shows/5NJGLJ0EGqTsNylTSk8xrW",
+                "html_description": "This is a podcast series that will hopefully help you learn about the role of hackers, computer programmers, data scientists all all sorts of nerds and magicians who help build our digital societies today. I am your host Paula Bialski, and I am Associate Professor for Digital Sociology at the University of St. Gallen and an affiliate researcher at the Centre for Digital Cultures at Leuphana University in Luneburg Germany.  I am ethnographer of digital cultures, which just means that I like befriending all sorts of technically-savvy nerds, which I’ve done in my research stints in the past.  This podcast was originally created for my Contextual Studies course at St. Gallen University in April 2020. A lot what I will be talking to you throughout this podcast lecture will come from my own two year research project where I hung out among corporate programmers in Berlin who made mapping and navigation software.  This podcast is written and read by Paula Bialski. Production, sound editing, and sound design was done by Heights Beats. Thank you in particular to Chris Kelty and Biella Coleman and our endeavour at hackcur.io for inspiring this podcast, as well as the Leuphana University Luneburg and the University of St. Gallen.",
+                "id": "5NJGLJ0EGqTsNylTSk8xrW",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a3614e80cfa99d143899c6f03",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f3614e80cfa99d143899c6f03",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d3614e80cfa99d143899c6f03",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en-US"
+                ],
+                "media_type": "audio",
+                "name": "Programmers, Hackers and Hacks: the people and practices behind our machines",
+                "publisher": "Paula Bialski",
+                "total_episodes": 9,
+                "type": "show",
+                "uri": "spotify:show:5NJGLJ0EGqTsNylTSk8xrW"
+            },
+            {
+                "copyrights": [],
+                "description": "Exploit brokers is dedicated to tech and hacking news commentary, hacking tutorials, and cyber security topics. Exploit brokers brings the knowledge of hacking to you. We review data breaches, malware infections, Botnet events, and other notable hacking events to learn how to better defend against it by getting in the mind of hackers. #cybersecurity #hackingnews #cybersec #whitehat",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/3YRafqb2OGxfXgoIPfRbe2"
+                },
+                "href": "https://api.spotify.com/v1/shows/3YRafqb2OGxfXgoIPfRbe2",
+                "html_description": "Exploit brokers is dedicated to tech and hacking news commentary, hacking tutorials, and cyber security topics. Exploit brokers brings the knowledge of hacking to you. We review data breaches, malware infections, Botnet events, and other notable hacking events to learn how to better defend against it by getting in the mind of hackers.<br/>#cybersecurity #hackingnews #cybersec #whitehat",
+                "id": "3YRafqb2OGxfXgoIPfRbe2",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8acad7b3958bb62eefe7aca5db",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fcad7b3958bb62eefe7aca5db",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68dcad7b3958bb62eefe7aca5db",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en-US"
+                ],
+                "media_type": "audio",
+                "name": "Exploit Brokers - Tech and Hacking News Commentary",
+                "publisher": "Exploit Brokers",
+                "total_episodes": 50,
+                "type": "show",
+                "uri": "spotify:show:3YRafqb2OGxfXgoIPfRbe2"
+            },
+            {
+                "copyrights": [],
+                "description": "Pardon Maman est un podcast qui fait de la vulgarisation comme on aurait aimé en entendre à la radio, à la télé ou de la part de nos profs il y a des années. Si un sujet t’intrigue on peut le simplifier, mais on peut pas promettre de rester polis. On va creuser des sujets divers et variés pour les présenter de façon factuelle et facile à assimiler, avec aucun veto : des papillons au cinéma français des années 60, en passant par la religion et les hackers. Souvent accompagnés d’invité(e)s, toujours d’un peu de vin !iTunes : https://itunes.apple.com/fr/podcast/pardon-maman/id1234291617Spotify : https://open.spotify.com/show/3qaC9qCtUSFh60idYUlSKfDeezer : http://www.deezer.com/show/54685Youtube : https://www.youtube.com/channel/UCH6doNjB102NpaR7p4MHDewFacebook : https://www.facebook.com/PardonMamanPodcast/Twitter : https://twitter.com/PardonMamanPodInstagram : https://www.instagram.com/pardonmamanpodcast/Le site : http://pardonmaman.frPour avoir des infos sur le podcast :My Podcast Data : https://www.mypodcastdata.com/Crédit générique : Shinjuku Street - Senbei (https://www.facebook.com/mistersenbei/ ) Hébergé par Acast. Visitez acast.com/privacy pour plus d'informations.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/3qaC9qCtUSFh60idYUlSKf"
+                },
+                "href": "https://api.spotify.com/v1/shows/3qaC9qCtUSFh60idYUlSKf",
+                "html_description": "<p>Pardon Maman est un podcast qui fait de la vulgarisation comme on aurait aimé en entendre à la radio, à la télé ou de la part de nos profs il y a des années. Si un sujet t’intrigue on peut le simplifier, mais on peut pas promettre de rester polis. On va creuser des sujets divers et variés pour les présenter de façon factuelle et facile à assimiler, avec aucun veto : des papillons au cinéma français des années 60, en passant par la religion et les hackers. Souvent accompagnés d’invité(e)s, toujours d’un peu de vin !</p><p>iTunes : <a href=\"https://itunes.apple.com/fr/podcast/pardon-maman/id1234291617\" rel=\"nofollow\">https://itunes.apple.com/fr/podcast/pardon-maman/id1234291617</a></p><p>Spotify : <a href=\"https://open.spotify.com/show/3qaC9qCtUSFh60idYUlSKf\" rel=\"nofollow\">https://open.spotify.com/show/3qaC9qCtUSFh60idYUlSKf</a></p><p>Deezer : http://www.deezer.com/show/54685</p><p>Youtube : <a href=\"https://www.youtube.com/channel/UCH6doNjB102NpaR7p4MHDew\" rel=\"nofollow\">https://www.youtube.com/channel/UCH6doNjB102NpaR7p4MHDew</a></p><p>Facebook : <a href=\"https://www.facebook.com/PardonMamanPodcast/\" rel=\"nofollow\">https://www.facebook.com/PardonMamanPodcast/</a></p><p>Twitter : <a href=\"https://twitter.com/PardonMamanPod\" rel=\"nofollow\">https://twitter.com/PardonMamanPod</a></p><p>Instagram : <a href=\"https://www.instagram.com/pardonmamanpodcast/\" rel=\"nofollow\">https://www.instagram.com/pardonmamanpodcast/</a></p><p>Le site : http://pardonmaman.fr</p><p>Pour avoir des infos sur le podcast :</p><p><a href=\"https://www.mypodcastdata.com/\" rel=\"nofollow\">My Podcast Data</a> : <a href=\"https://www.mypodcastdata.com/\" rel=\"nofollow\">https://www.mypodcastdata.com/</a></p><p>Crédit générique : Shinjuku Street - Senbei (https://www.facebook.com/mistersenbei/ )</p><p> Hébergé par Acast. Visitez <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> pour plus d&#39;informations.</p>",
+                "id": "3qaC9qCtUSFh60idYUlSKf",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a12fd17ed937af4800a45e656",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f12fd17ed937af4800a45e656",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d12fd17ed937af4800a45e656",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "fr"
+                ],
+                "media_type": "audio",
+                "name": "Pardon Maman",
+                "publisher": "Pardon Maman",
+                "total_episodes": 127,
+                "type": "show",
+                "uri": "spotify:show:3qaC9qCtUSFh60idYUlSKf"
+            },
+            {
+                "copyrights": [],
+                "description": "Uncommon methods for maximizing health and performance with an emphasis on real-world implementation of Heart Rate Variability and other biomarkers.   From biohacking to quantified self, world class doctors, coaches and athletes cover the latest research (from the lab and field), and the methods and \"tricks\" that get the best results.   Right out of the gate you can expect the President of the American Functional Medicine Association, leading HRV researchers, elite and Olympic-level sport scientists, metabolism hackers, data scientists, rehabilitation specialists, and more.   Follow the show on Twitter: @elitehrv",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/5wcjfEn1GxY8fOhjNYs0FV"
+                },
+                "href": "https://api.spotify.com/v1/shows/5wcjfEn1GxY8fOhjNYs0FV",
+                "html_description": "Uncommon methods for maximizing health and performance with an emphasis on real-world implementation of Heart Rate Variability and other biomarkers. <br/>From biohacking to quantified self, world class doctors, coaches and athletes cover the latest research (from the lab and field), and the methods and &#34;tricks&#34; that get the best results. <br/>Right out of the gate you can expect the President of the American Functional Medicine Association, leading HRV researchers, elite and Olympic-level sport scientists, metabolism hackers, data scientists, rehabilitation specialists, and more. <br/>Follow the show on Twitter: &#64;elitehrv",
+                "id": "5wcjfEn1GxY8fOhjNYs0FV",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a4fbe93288fc763b9be841719",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f4fbe93288fc763b9be841719",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d4fbe93288fc763b9be841719",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en"
+                ],
+                "media_type": "audio",
+                "name": "The Elite HRV Podcast: Heart Rate Variability, Biohacking Health & Performance, Quantified Self",
+                "publisher": "Jason Moore: Systems Designer, Tinkerer, Health and Performance Consultant",
+                "total_episodes": 63,
+                "type": "show",
+                "uri": "spotify:show:5wcjfEn1GxY8fOhjNYs0FV"
+            },
+            {
+                "copyrights": [],
+                "description": "It aims at creating awareness around hackers stealing financial information and how cyber crime continues to evolve, with new threats surfacing every year. They can, in effect, destroy businesses and damage your financial and personal lives — especially if you’re the victim of identity theft. Cyber attacks are an evolving danger to organizations, employees and consumers. They may be designed to access or destroy sensitive data or extort money. At Hidden Files, hope listeners will be able to find tips for a better cyber security. These are real life stories solved by Amit Dubey during the lockdown period.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/7r3ijPPBDnBAlN7iv8m8M2"
+                },
+                "href": "https://api.spotify.com/v1/shows/7r3ijPPBDnBAlN7iv8m8M2",
+                "html_description": "<p>It aims at creating awareness around hackers stealing financial information and how cyber crime continues to evolve, with new threats surfacing every year. They can, in effect, destroy businesses and damage your financial and personal lives — especially if you’re the victim of identity theft. Cyber attacks are an evolving danger to organizations, employees and consumers. They may be designed to access or destroy sensitive data or extort money. At Hidden Files, hope listeners will be able to find tips for a better cyber security. These are real life stories solved by Amit Dubey during the lockdown period.</p>",
+                "id": "7r3ijPPBDnBAlN7iv8m8M2",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a0f8eb5441a70c2265bf06559",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f0f8eb5441a70c2265bf06559",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d0f8eb5441a70c2265bf06559",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "hi"
+                ],
+                "media_type": "audio",
+                "name": "Hidden Files",
+                "publisher": "Red FM",
+                "total_episodes": 100,
+                "type": "show",
+                "uri": "spotify:show:7r3ijPPBDnBAlN7iv8m8M2"
+            },
+            {
+                "copyrights": [],
+                "description": "This is the ad free and bonus episode feed of Darknet Diaries. Explore the dark side of the Internet with host Jack Rhysider as he takes you on a journey through the chilling world of privacy hacks, data breaches, and cyber crime. The masterful criminal hackers who dwell on the dark side show us just how vulnerable we all are.",
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/2N72j63hJ1fH5dyzu7ReLB"
+                },
+                "href": "https://api.spotify.com/v1/shows/2N72j63hJ1fH5dyzu7ReLB",
+                "html_description": "This is the ad free and bonus episode feed of Darknet Diaries. Explore the dark side of the Internet with host Jack Rhysider as he takes you on a journey through the chilling world of privacy hacks, data breaches, and cyber crime. The masterful criminal hackers who dwell on the dark side show us just how vulnerable we all are.",
+                "id": "2N72j63hJ1fH5dyzu7ReLB",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ae7eec8b10d71246f794269af",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fe7eec8b10d71246f794269af",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68de7eec8b10d71246f794269af",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en"
+                ],
+                "media_type": "audio",
+                "name": "Darknet Diaries Plus",
+                "publisher": "Jack Rhysider",
+                "total_episodes": 175,
+                "type": "show",
+                "uri": "spotify:show:2N72j63hJ1fH5dyzu7ReLB"
+            },
+            {
+                "copyrights": [],
+                "description": "In the shadows of the digital world, where anonymity is power and information is currency, battle lines are drawn not with bullets but with code. This show takes listeners deep into the heart of cyberspace’s most high-stakes confrontations — where rogue programmers exploit vulnerabilities, corporations scramble to secure their data empires, and government agencies wage invisible wars across invisible lines. It’s a realm shaped by encryption, espionage, whistleblowers, and wild ambition. From black hat exploits to state-sponsored surveillance, every episode explores the blurred boundaries between ethics and law, privacy and paranoia, control and chaos. This isn’t just about computers — it’s about the future of power itself.  Join as we uncover 11 million untold true stories.  Disclosure Statement: The National Media Archive and affiliated programs use Artificial Intelligence throughout areas of research, production, and editing. These tools are actively embraced as part of our approach to development and workflow. All outputs are subject to human review to ensure they meet our editorial standards. For more information about our use of AI, please visit our website at NationalMediaArchive.com/ai",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/3lnyZdmIFd8kEfN2bY9juE"
+                },
+                "href": "https://api.spotify.com/v1/shows/3lnyZdmIFd8kEfN2bY9juE",
+                "html_description": "In the shadows of the digital world, where anonymity is power and information is currency, battle lines are drawn not with bullets but with code. This show takes listeners deep into the heart of cyberspace’s most high-stakes confrontations — where rogue programmers exploit vulnerabilities, corporations scramble to secure their data empires, and government agencies wage invisible wars across invisible lines. It’s a realm shaped by encryption, espionage, whistleblowers, and wild ambition. From black hat exploits to state-sponsored surveillance, every episode explores the blurred boundaries between ethics and law, privacy and paranoia, control and chaos. This isn’t just about computers — it’s about the future of power itself.<br/>Join as we uncover 11 million untold true stories.<br/>Disclosure Statement: The National Media Archive and affiliated programs use Artificial Intelligence throughout areas of research, production, and editing. These tools are actively embraced as part of our approach to development and workflow. All outputs are subject to human review to ensure they meet our editorial standards. For more information about our use of AI, please visit our website at NationalMediaArchive.com/ai",
+                "id": "3lnyZdmIFd8kEfN2bY9juE",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ae6b1beaaa4ed87b08431937e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fe6b1beaaa4ed87b08431937e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68de6b1beaaa4ed87b08431937e",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en"
+                ],
+                "media_type": "audio",
+                "name": "Hackers: Code & Chaos | National Media Archive",
+                "publisher": "National Media Archive",
+                "total_episodes": 13,
+                "type": "show",
+                "uri": "spotify:show:3lnyZdmIFd8kEfN2bY9juE"
+            }
+        ],
+        "limit": 50,
+        "next": "https://api.spotify.com/v1/search?offset=50&limit=50&query=data%20hackers&type=show&market=BR",
+        "offset": 0,
+        "previous": null,
+        "total": 875
+    }
+}

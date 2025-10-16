@@ -1,0 +1,99 @@
+[2025-10-15 17:21:39,738] {processor.py:153} INFO - Started process (PID=22577) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:21:39,739] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-10-15 17:21:39,739] {logging_mixin.py:115} INFO - [2025-10-15 17:21:39,739] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:21:39,749] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:21:39,810] {logging_mixin.py:115} INFO - [2025-10-15 17:21:39,810] {manager.py:508} INFO - Created Permission View: can delete on DAG:tutorial
+[2025-10-15 17:21:39,819] {logging_mixin.py:115} INFO - [2025-10-15 17:21:39,818] {manager.py:508} INFO - Created Permission View: can read on DAG:tutorial
+[2025-10-15 17:21:39,825] {logging_mixin.py:115} INFO - [2025-10-15 17:21:39,825] {manager.py:508} INFO - Created Permission View: can edit on DAG:tutorial
+[2025-10-15 17:21:39,825] {logging_mixin.py:115} INFO - [2025-10-15 17:21:39,825] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:21:39,832] {logging_mixin.py:115} INFO - [2025-10-15 17:21:39,832] {dag.py:2398} INFO - Creating ORM DAG for tutorial
+[2025-10-15 17:21:39,839] {logging_mixin.py:115} INFO - [2025-10-15 17:21:39,839] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-10-14T20:21:39.839334+00:00, run_after=2025-10-15T20:21:39.839334+00:00
+[2025-10-15 17:21:39,850] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.117 seconds
+[2025-10-15 17:22:15,153] {processor.py:153} INFO - Started process (PID=22966) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:22:15,154] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-10-15 17:22:15,155] {logging_mixin.py:115} INFO - [2025-10-15 17:22:15,154] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:22:15,164] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:22:15,186] {logging_mixin.py:115} INFO - [2025-10-15 17:22:15,186] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:22:15,212] {logging_mixin.py:115} INFO - [2025-10-15 17:22:15,212] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-10-14T20:22:15.211727+00:00, run_after=2025-10-15T20:22:15.211727+00:00
+[2025-10-15 17:22:15,225] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.077 seconds
+[2025-10-15 17:32:26,797] {processor.py:153} INFO - Started process (PID=23600) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:32:26,798] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-10-15 17:32:26,799] {logging_mixin.py:115} INFO - [2025-10-15 17:32:26,799] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:32:26,807] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:32:26,828] {logging_mixin.py:115} INFO - [2025-10-15 17:32:26,828] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:32:26,851] {logging_mixin.py:115} INFO - [2025-10-15 17:32:26,851] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-10-14T20:32:26.850893+00:00, run_after=2025-10-15T20:32:26.850893+00:00
+[2025-10-15 17:32:26,862] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.069 seconds
+[2025-10-15 17:33:01,322] {processor.py:153} INFO - Started process (PID=23958) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:33:01,323] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-10-15 17:33:01,324] {logging_mixin.py:115} INFO - [2025-10-15 17:33:01,324] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:33:01,333] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:33:01,354] {logging_mixin.py:115} INFO - [2025-10-15 17:33:01,354] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:33:01,376] {logging_mixin.py:115} INFO - [2025-10-15 17:33:01,375] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-10-14T20:33:01.375567+00:00, run_after=2025-10-15T20:33:01.375567+00:00
+[2025-10-15 17:33:01,388] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.070 seconds
+[2025-10-15 17:33:35,102] {processor.py:153} INFO - Started process (PID=24118) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:33:35,104] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-10-15 17:33:35,105] {logging_mixin.py:115} INFO - [2025-10-15 17:33:35,105] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:33:35,118] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:33:35,145] {logging_mixin.py:115} INFO - [2025-10-15 17:33:35,145] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:33:35,172] {logging_mixin.py:115} INFO - [2025-10-15 17:33:35,172] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-10-14T20:33:35.171808+00:00, run_after=2025-10-15T20:33:35.171808+00:00
+[2025-10-15 17:33:35,186] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.093 seconds
+[2025-10-15 17:34:07,961] {processor.py:153} INFO - Started process (PID=24175) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:34:07,962] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-10-15 17:34:07,963] {logging_mixin.py:115} INFO - [2025-10-15 17:34:07,963] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:34:07,972] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:34:07,991] {logging_mixin.py:115} INFO - [2025-10-15 17:34:07,991] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:34:08,011] {logging_mixin.py:115} INFO - [2025-10-15 17:34:08,011] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-10-14T20:34:08.010781+00:00, run_after=2025-10-15T20:34:08.010781+00:00
+[2025-10-15 17:34:08,021] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.069 seconds
+[2025-10-15 17:34:41,162] {processor.py:153} INFO - Started process (PID=24233) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:34:41,163] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-10-15 17:34:41,163] {logging_mixin.py:115} INFO - [2025-10-15 17:34:41,163] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:34:41,171] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 17:34:41,190] {logging_mixin.py:115} INFO - [2025-10-15 17:34:41,190] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:34:41,210] {logging_mixin.py:115} INFO - [2025-10-15 17:34:41,210] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-10-14T20:34:41.209771+00:00, run_after=2025-10-15T20:34:41.209771+00:00
+[2025-10-15 17:34:41,220] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds
+[2025-10-15 18:58:37,270] {processor.py:153} INFO - Started process (PID=31164) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 18:58:37,270] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-10-15 18:58:37,271] {logging_mixin.py:115} INFO - [2025-10-15 18:58:37,271] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 18:58:37,280] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 18:58:37,379] {logging_mixin.py:115} INFO - [2025-10-15 18:58:37,379] {manager.py:508} INFO - Created Permission View: can edit on DAG:tutorial
+[2025-10-15 18:58:37,390] {logging_mixin.py:115} INFO - [2025-10-15 18:58:37,389] {manager.py:508} INFO - Created Permission View: can read on DAG:tutorial
+[2025-10-15 18:58:37,399] {logging_mixin.py:115} INFO - [2025-10-15 18:58:37,398] {manager.py:508} INFO - Created Permission View: can delete on DAG:tutorial
+[2025-10-15 18:58:37,399] {logging_mixin.py:115} INFO - [2025-10-15 18:58:37,399] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 18:58:37,409] {logging_mixin.py:115} INFO - [2025-10-15 18:58:37,409] {dag.py:2398} INFO - Creating ORM DAG for tutorial
+[2025-10-15 18:58:37,420] {logging_mixin.py:115} INFO - [2025-10-15 18:58:37,420] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-10-14T21:58:37.419647+00:00, run_after=2025-10-15T21:58:37.419647+00:00
+[2025-10-15 18:58:37,439] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.174 seconds
+[2025-10-15 18:59:12,675] {processor.py:153} INFO - Started process (PID=31304) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 18:59:12,676] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-10-15 18:59:12,676] {logging_mixin.py:115} INFO - [2025-10-15 18:59:12,676] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 18:59:12,686] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 18:59:12,705] {logging_mixin.py:115} INFO - [2025-10-15 18:59:12,705] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 18:59:12,724] {logging_mixin.py:115} INFO - [2025-10-15 18:59:12,724] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-10-14T21:59:12.723898+00:00, run_after=2025-10-15T21:59:12.723898+00:00
+[2025-10-15 18:59:12,734] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.071 seconds
+[2025-10-15 18:59:50,821] {processor.py:153} INFO - Started process (PID=31518) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 18:59:50,822] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-10-15 18:59:50,822] {logging_mixin.py:115} INFO - [2025-10-15 18:59:50,822] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 18:59:50,831] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 18:59:50,850] {logging_mixin.py:115} INFO - [2025-10-15 18:59:50,850] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 18:59:50,871] {logging_mixin.py:115} INFO - [2025-10-15 18:59:50,871] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-10-14T21:59:50.871144+00:00, run_after=2025-10-15T21:59:50.871144+00:00
+[2025-10-15 18:59:50,883] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.066 seconds
+[2025-10-15 19:00:26,234] {processor.py:153} INFO - Started process (PID=31734) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 19:00:26,235] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-10-15 19:00:26,235] {logging_mixin.py:115} INFO - [2025-10-15 19:00:26,235] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 19:00:26,246] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 19:00:26,271] {logging_mixin.py:115} INFO - [2025-10-15 19:00:26,271] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:00:26,297] {logging_mixin.py:115} INFO - [2025-10-15 19:00:26,297] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-10-14T22:00:26.296844+00:00, run_after=2025-10-15T22:00:26.296844+00:00
+[2025-10-15 19:00:26,320] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.092 seconds
+[2025-10-15 19:01:01,508] {processor.py:153} INFO - Started process (PID=32018) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 19:01:01,509] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-10-15 19:01:01,509] {logging_mixin.py:115} INFO - [2025-10-15 19:01:01,509] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 19:01:01,520] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 19:01:01,543] {logging_mixin.py:115} INFO - [2025-10-15 19:01:01,543] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:01:01,564] {logging_mixin.py:115} INFO - [2025-10-15 19:01:01,564] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-10-14T22:01:01.563917+00:00, run_after=2025-10-15T22:01:01.563917+00:00
+[2025-10-15 19:01:01,575] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.071 seconds
+[2025-10-15 19:01:35,893] {processor.py:153} INFO - Started process (PID=32105) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 19:01:35,894] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-10-15 19:01:35,895] {logging_mixin.py:115} INFO - [2025-10-15 19:01:35,895] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 19:01:35,904] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-10-15 19:01:35,928] {logging_mixin.py:115} INFO - [2025-10-15 19:01:35,927] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:01:35,949] {logging_mixin.py:115} INFO - [2025-10-15 19:01:35,949] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2025-10-14T22:01:35.949453+00:00, run_after=2025-10-15T22:01:35.949453+00:00
+[2025-10-15 19:01:35,962] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds

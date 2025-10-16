@@ -1,0 +1,71 @@
+[2025-10-15 17:22:09,781] {processor.py:153} INFO - Started process (PID=22906) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 17:22:09,782] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-10-15 17:22:09,783] {logging_mixin.py:115} INFO - [2025-10-15 17:22:09,783] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 17:22:09,798] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 17:22:09,867] {logging_mixin.py:115} INFO - [2025-10-15 17:22:09,867] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_bash_operator
+[2025-10-15 17:22:09,876] {logging_mixin.py:115} INFO - [2025-10-15 17:22:09,876] {manager.py:508} INFO - Created Permission View: can read on DAG:example_bash_operator
+[2025-10-15 17:22:09,883] {logging_mixin.py:115} INFO - [2025-10-15 17:22:09,883] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_bash_operator
+[2025-10-15 17:22:09,884] {logging_mixin.py:115} INFO - [2025-10-15 17:22:09,883] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:22:09,890] {logging_mixin.py:115} INFO - [2025-10-15 17:22:09,890] {dag.py:2398} INFO - Creating ORM DAG for example_bash_operator
+[2025-10-15 17:22:09,901] {logging_mixin.py:115} INFO - [2025-10-15 17:22:09,901] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 17:22:09,912] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.136 seconds
+[2025-10-15 17:32:55,075] {processor.py:153} INFO - Started process (PID=23920) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 17:32:55,076] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-10-15 17:32:55,076] {logging_mixin.py:115} INFO - [2025-10-15 17:32:55,076] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 17:32:55,092] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 17:32:55,112] {logging_mixin.py:115} INFO - [2025-10-15 17:32:55,112] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:32:55,134] {logging_mixin.py:115} INFO - [2025-10-15 17:32:55,134] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 17:32:55,147] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.077 seconds
+[2025-10-15 17:33:33,792] {processor.py:153} INFO - Started process (PID=24116) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 17:33:33,793] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-10-15 17:33:33,793] {logging_mixin.py:115} INFO - [2025-10-15 17:33:33,793] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 17:33:33,809] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 17:33:33,830] {logging_mixin.py:115} INFO - [2025-10-15 17:33:33,829] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:33:33,850] {logging_mixin.py:115} INFO - [2025-10-15 17:33:33,850] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 17:33:33,863] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.078 seconds
+[2025-10-15 17:34:10,144] {processor.py:153} INFO - Started process (PID=24180) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 17:34:10,145] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-10-15 17:34:10,146] {logging_mixin.py:115} INFO - [2025-10-15 17:34:10,145] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 17:34:10,160] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 17:34:10,179] {logging_mixin.py:115} INFO - [2025-10-15 17:34:10,179] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:34:10,198] {logging_mixin.py:115} INFO - [2025-10-15 17:34:10,198] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 17:34:10,208] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.068 seconds
+[2025-10-15 17:34:44,791] {processor.py:153} INFO - Started process (PID=24239) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 17:34:44,793] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-10-15 17:34:44,795] {logging_mixin.py:115} INFO - [2025-10-15 17:34:44,795] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 17:34:44,815] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 17:34:44,833] {logging_mixin.py:115} INFO - [2025-10-15 17:34:44,833] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:34:44,852] {logging_mixin.py:115} INFO - [2025-10-15 17:34:44,852] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 17:34:44,863] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.083 seconds
+[2025-10-15 18:59:07,317] {processor.py:153} INFO - Started process (PID=31292) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 18:59:07,317] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-10-15 18:59:07,318] {logging_mixin.py:115} INFO - [2025-10-15 18:59:07,318] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 18:59:07,333] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 18:59:07,396] {logging_mixin.py:115} INFO - [2025-10-15 18:59:07,396] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_bash_operator
+[2025-10-15 18:59:07,405] {logging_mixin.py:115} INFO - [2025-10-15 18:59:07,405] {manager.py:508} INFO - Created Permission View: can read on DAG:example_bash_operator
+[2025-10-15 18:59:07,411] {logging_mixin.py:115} INFO - [2025-10-15 18:59:07,411] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_bash_operator
+[2025-10-15 18:59:07,411] {logging_mixin.py:115} INFO - [2025-10-15 18:59:07,411] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 18:59:07,418] {logging_mixin.py:115} INFO - [2025-10-15 18:59:07,418] {dag.py:2398} INFO - Creating ORM DAG for example_bash_operator
+[2025-10-15 18:59:07,427] {logging_mixin.py:115} INFO - [2025-10-15 18:59:07,427] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 18:59:07,441] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.129 seconds
+[2025-10-15 19:00:20,561] {processor.py:153} INFO - Started process (PID=31724) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 19:00:20,562] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-10-15 19:00:20,563] {logging_mixin.py:115} INFO - [2025-10-15 19:00:20,562] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 19:00:20,594] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 19:00:20,639] {logging_mixin.py:115} INFO - [2025-10-15 19:00:20,639] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:00:20,694] {logging_mixin.py:115} INFO - [2025-10-15 19:00:20,694] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 19:00:20,708] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.154 seconds
+[2025-10-15 19:01:02,646] {processor.py:153} INFO - Started process (PID=32051) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 19:01:02,647] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-10-15 19:01:02,647] {logging_mixin.py:115} INFO - [2025-10-15 19:01:02,647] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 19:01:02,662] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 19:01:02,682] {logging_mixin.py:115} INFO - [2025-10-15 19:01:02,682] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:01:02,703] {logging_mixin.py:115} INFO - [2025-10-15 19:01:02,703] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 19:01:02,714] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.073 seconds
+[2025-10-15 19:01:38,168] {processor.py:153} INFO - Started process (PID=32110) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 19:01:38,169] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-10-15 19:01:38,170] {logging_mixin.py:115} INFO - [2025-10-15 19:01:38,170] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 19:01:38,185] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-10-15 19:01:38,205] {logging_mixin.py:115} INFO - [2025-10-15 19:01:38,205] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:01:38,228] {logging_mixin.py:115} INFO - [2025-10-15 19:01:38,228] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 19:01:38,241] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.077 seconds

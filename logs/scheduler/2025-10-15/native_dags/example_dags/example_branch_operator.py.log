@@ -1,0 +1,78 @@
+[2025-10-15 17:22:04,804] {processor.py:153} INFO - Started process (PID=22848) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 17:22:04,804] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-10-15 17:22:04,805] {logging_mixin.py:115} INFO - [2025-10-15 17:22:04,805] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 17:22:04,827] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 17:22:04,908] {logging_mixin.py:115} INFO - [2025-10-15 17:22:04,908] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_branch_operator
+[2025-10-15 17:22:04,920] {logging_mixin.py:115} INFO - [2025-10-15 17:22:04,920] {manager.py:508} INFO - Created Permission View: can read on DAG:example_branch_operator
+[2025-10-15 17:22:04,929] {logging_mixin.py:115} INFO - [2025-10-15 17:22:04,929] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_branch_operator
+[2025-10-15 17:22:04,930] {logging_mixin.py:115} INFO - [2025-10-15 17:22:04,930] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:22:04,938] {logging_mixin.py:115} INFO - [2025-10-15 17:22:04,938] {dag.py:2398} INFO - Creating ORM DAG for example_branch_operator
+[2025-10-15 17:22:04,950] {logging_mixin.py:115} INFO - [2025-10-15 17:22:04,950] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 17:22:04,962] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.164 seconds
+[2025-10-15 17:32:51,878] {processor.py:153} INFO - Started process (PID=23891) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 17:32:51,879] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-10-15 17:32:51,880] {logging_mixin.py:115} INFO - [2025-10-15 17:32:51,879] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 17:32:51,893] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 17:32:51,914] {logging_mixin.py:115} INFO - [2025-10-15 17:32:51,914] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:32:51,936] {logging_mixin.py:115} INFO - [2025-10-15 17:32:51,936] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 17:32:51,948] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.074 seconds
+[2025-10-15 17:33:25,933] {processor.py:153} INFO - Started process (PID=24102) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 17:33:25,934] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-10-15 17:33:25,935] {logging_mixin.py:115} INFO - [2025-10-15 17:33:25,935] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 17:33:25,952] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 17:33:25,975] {logging_mixin.py:115} INFO - [2025-10-15 17:33:25,975] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:33:25,996] {logging_mixin.py:115} INFO - [2025-10-15 17:33:25,996] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 17:33:26,011] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.083 seconds
+[2025-10-15 17:33:59,275] {processor.py:153} INFO - Started process (PID=24160) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 17:33:59,275] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-10-15 17:33:59,276] {logging_mixin.py:115} INFO - [2025-10-15 17:33:59,276] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 17:33:59,288] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 17:33:59,307] {logging_mixin.py:115} INFO - [2025-10-15 17:33:59,307] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:33:59,327] {logging_mixin.py:115} INFO - [2025-10-15 17:33:59,327] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 17:33:59,337] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.067 seconds
+[2025-10-15 17:34:33,173] {processor.py:153} INFO - Started process (PID=24218) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 17:34:33,174] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-10-15 17:34:33,175] {logging_mixin.py:115} INFO - [2025-10-15 17:34:33,175] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 17:34:33,193] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 17:34:33,213] {logging_mixin.py:115} INFO - [2025-10-15 17:34:33,213] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:34:33,233] {logging_mixin.py:115} INFO - [2025-10-15 17:34:33,233] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 17:34:33,244] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.077 seconds
+[2025-10-15 18:59:02,366] {processor.py:153} INFO - Started process (PID=31285) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 18:59:02,367] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-10-15 18:59:02,368] {logging_mixin.py:115} INFO - [2025-10-15 18:59:02,368] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 18:59:02,380] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 18:59:02,443] {logging_mixin.py:115} INFO - [2025-10-15 18:59:02,443] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_branch_operator
+[2025-10-15 18:59:02,451] {logging_mixin.py:115} INFO - [2025-10-15 18:59:02,451] {manager.py:508} INFO - Created Permission View: can read on DAG:example_branch_operator
+[2025-10-15 18:59:02,457] {logging_mixin.py:115} INFO - [2025-10-15 18:59:02,457] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_branch_operator
+[2025-10-15 18:59:02,458] {logging_mixin.py:115} INFO - [2025-10-15 18:59:02,458] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 18:59:02,464] {logging_mixin.py:115} INFO - [2025-10-15 18:59:02,464] {dag.py:2398} INFO - Creating ORM DAG for example_branch_operator
+[2025-10-15 18:59:02,473] {logging_mixin.py:115} INFO - [2025-10-15 18:59:02,473] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 18:59:02,485] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.122 seconds
+[2025-10-15 19:00:16,076] {processor.py:153} INFO - Started process (PID=31716) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 19:00:16,077] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-10-15 19:00:16,078] {logging_mixin.py:115} INFO - [2025-10-15 19:00:16,077] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 19:00:16,094] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 19:00:16,119] {logging_mixin.py:115} INFO - [2025-10-15 19:00:16,119] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:00:16,145] {logging_mixin.py:115} INFO - [2025-10-15 19:00:16,145] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 19:00:16,162] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.091 seconds
+[2025-10-15 19:00:52,433] {processor.py:153} INFO - Started process (PID=31929) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 19:00:52,434] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-10-15 19:00:52,434] {logging_mixin.py:115} INFO - [2025-10-15 19:00:52,434] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 19:00:52,448] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 19:00:52,471] {logging_mixin.py:115} INFO - [2025-10-15 19:00:52,471] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:00:52,495] {logging_mixin.py:115} INFO - [2025-10-15 19:00:52,495] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 19:00:52,510] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.081 seconds
+[2025-10-15 19:01:26,851] {processor.py:153} INFO - Started process (PID=32090) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 19:01:26,852] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-10-15 19:01:26,853] {logging_mixin.py:115} INFO - [2025-10-15 19:01:26,853] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 19:01:26,872] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 19:01:26,902] {logging_mixin.py:115} INFO - [2025-10-15 19:01:26,902] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:01:26,929] {logging_mixin.py:115} INFO - [2025-10-15 19:01:26,929] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 19:01:26,940] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.095 seconds
+[2025-10-15 19:02:00,702] {processor.py:153} INFO - Started process (PID=32250) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 19:02:00,703] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-10-15 19:02:00,703] {logging_mixin.py:115} INFO - [2025-10-15 19:02:00,703] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 19:02:00,722] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-10-15 19:02:00,752] {logging_mixin.py:115} INFO - [2025-10-15 19:02:00,752] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:02:00,789] {logging_mixin.py:115} INFO - [2025-10-15 19:02:00,789] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 19:02:00,811] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.115 seconds

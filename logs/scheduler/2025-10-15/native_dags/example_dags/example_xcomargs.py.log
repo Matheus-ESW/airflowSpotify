@@ -1,0 +1,120 @@
+[2025-10-15 17:21:40,974] {processor.py:153} INFO - Started process (PID=22578) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:21:40,975] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-10-15 17:21:40,976] {logging_mixin.py:115} INFO - [2025-10-15 17:21:40,976] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:21:40,998] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:21:41,152] {logging_mixin.py:115} INFO - [2025-10-15 17:21:41,152] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_xcom_args
+[2025-10-15 17:21:41,164] {logging_mixin.py:115} INFO - [2025-10-15 17:21:41,163] {manager.py:508} INFO - Created Permission View: can read on DAG:example_xcom_args
+[2025-10-15 17:21:41,177] {logging_mixin.py:115} INFO - [2025-10-15 17:21:41,176] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_xcom_args
+[2025-10-15 17:21:41,193] {logging_mixin.py:115} INFO - [2025-10-15 17:21:41,193] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_xcom_args_with_operators
+[2025-10-15 17:21:41,200] {logging_mixin.py:115} INFO - [2025-10-15 17:21:41,199] {manager.py:508} INFO - Created Permission View: can read on DAG:example_xcom_args_with_operators
+[2025-10-15 17:21:41,207] {logging_mixin.py:115} INFO - [2025-10-15 17:21:41,207] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_xcom_args_with_operators
+[2025-10-15 17:21:41,207] {logging_mixin.py:115} INFO - [2025-10-15 17:21:41,207] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 17:21:41,215] {logging_mixin.py:115} INFO - [2025-10-15 17:21:41,214] {dag.py:2398} INFO - Creating ORM DAG for example_xcom_args
+[2025-10-15 17:21:41,215] {logging_mixin.py:115} INFO - [2025-10-15 17:21:41,215] {dag.py:2398} INFO - Creating ORM DAG for example_xcom_args_with_operators
+[2025-10-15 17:21:41,225] {logging_mixin.py:115} INFO - [2025-10-15 17:21:41,225] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-10-15 17:21:41,225] {logging_mixin.py:115} INFO - [2025-10-15 17:21:41,225] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-10-15 17:21:41,237] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.268 seconds
+[2025-10-15 17:22:16,301] {processor.py:153} INFO - Started process (PID=22999) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:22:16,301] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-10-15 17:22:16,302] {logging_mixin.py:115} INFO - [2025-10-15 17:22:16,302] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:22:16,330] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:22:16,380] {logging_mixin.py:115} INFO - [2025-10-15 17:22:16,380] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 17:22:16,393] {logging_mixin.py:115} INFO - [2025-10-15 17:22:16,392] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-10-15 17:22:16,393] {logging_mixin.py:115} INFO - [2025-10-15 17:22:16,393] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-10-15 17:22:16,404] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.109 seconds
+[2025-10-15 17:32:27,953] {processor.py:153} INFO - Started process (PID=23617) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:32:27,954] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-10-15 17:32:27,955] {logging_mixin.py:115} INFO - [2025-10-15 17:32:27,955] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:32:27,993] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:32:28,097] {logging_mixin.py:115} INFO - [2025-10-15 17:32:28,097] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 17:32:28,119] {logging_mixin.py:115} INFO - [2025-10-15 17:32:28,119] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-10-15 17:32:28,120] {logging_mixin.py:115} INFO - [2025-10-15 17:32:28,120] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-10-15 17:32:28,141] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.193 seconds
+[2025-10-15 17:33:02,019] {processor.py:153} INFO - Started process (PID=23959) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:33:02,019] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-10-15 17:33:02,020] {logging_mixin.py:115} INFO - [2025-10-15 17:33:02,020] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:33:02,045] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:33:02,095] {logging_mixin.py:115} INFO - [2025-10-15 17:33:02,095] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 17:33:02,111] {logging_mixin.py:115} INFO - [2025-10-15 17:33:02,111] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-10-15 17:33:02,111] {logging_mixin.py:115} INFO - [2025-10-15 17:33:02,111] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-10-15 17:33:02,123] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.109 seconds
+[2025-10-15 17:33:36,356] {processor.py:153} INFO - Started process (PID=24119) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:33:36,357] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-10-15 17:33:36,358] {logging_mixin.py:115} INFO - [2025-10-15 17:33:36,358] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:33:36,386] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:33:36,431] {logging_mixin.py:115} INFO - [2025-10-15 17:33:36,431] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 17:33:36,445] {logging_mixin.py:115} INFO - [2025-10-15 17:33:36,445] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-10-15 17:33:36,445] {logging_mixin.py:115} INFO - [2025-10-15 17:33:36,445] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-10-15 17:33:36,464] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.115 seconds
+[2025-10-15 17:34:09,085] {processor.py:153} INFO - Started process (PID=24176) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:34:09,086] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-10-15 17:34:09,086] {logging_mixin.py:115} INFO - [2025-10-15 17:34:09,086] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:34:09,107] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:34:09,127] {logging_mixin.py:115} INFO - [2025-10-15 17:34:09,127] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 17:34:09,147] {logging_mixin.py:115} INFO - [2025-10-15 17:34:09,147] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-10-15 17:34:09,147] {logging_mixin.py:115} INFO - [2025-10-15 17:34:09,147] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-10-15 17:34:09,157] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.076 seconds
+[2025-10-15 17:34:42,305] {processor.py:153} INFO - Started process (PID=24234) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:34:42,306] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-10-15 17:34:42,307] {logging_mixin.py:115} INFO - [2025-10-15 17:34:42,307] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:34:42,329] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 17:34:42,376] {logging_mixin.py:115} INFO - [2025-10-15 17:34:42,376] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 17:34:42,389] {logging_mixin.py:115} INFO - [2025-10-15 17:34:42,389] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-10-15 17:34:42,389] {logging_mixin.py:115} INFO - [2025-10-15 17:34:42,389] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-10-15 17:34:42,402] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.101 seconds
+[2025-10-15 18:58:38,506] {processor.py:153} INFO - Started process (PID=31168) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 18:58:38,506] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-10-15 18:58:38,507] {logging_mixin.py:115} INFO - [2025-10-15 18:58:38,507] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 18:58:38,529] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 18:58:38,599] {logging_mixin.py:115} INFO - [2025-10-15 18:58:38,599] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_xcom_args
+[2025-10-15 18:58:38,609] {logging_mixin.py:115} INFO - [2025-10-15 18:58:38,609] {manager.py:508} INFO - Created Permission View: can read on DAG:example_xcom_args
+[2025-10-15 18:58:38,617] {logging_mixin.py:115} INFO - [2025-10-15 18:58:38,617] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_xcom_args
+[2025-10-15 18:58:38,637] {logging_mixin.py:115} INFO - [2025-10-15 18:58:38,637] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_xcom_args_with_operators
+[2025-10-15 18:58:38,644] {logging_mixin.py:115} INFO - [2025-10-15 18:58:38,644] {manager.py:508} INFO - Created Permission View: can read on DAG:example_xcom_args_with_operators
+[2025-10-15 18:58:38,652] {logging_mixin.py:115} INFO - [2025-10-15 18:58:38,652] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_xcom_args_with_operators
+[2025-10-15 18:58:38,653] {logging_mixin.py:115} INFO - [2025-10-15 18:58:38,653] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 18:58:38,661] {logging_mixin.py:115} INFO - [2025-10-15 18:58:38,661] {dag.py:2398} INFO - Creating ORM DAG for example_xcom_args
+[2025-10-15 18:58:38,661] {logging_mixin.py:115} INFO - [2025-10-15 18:58:38,661] {dag.py:2398} INFO - Creating ORM DAG for example_xcom_args_with_operators
+[2025-10-15 18:58:38,670] {logging_mixin.py:115} INFO - [2025-10-15 18:58:38,670] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-10-15 18:58:38,671] {logging_mixin.py:115} INFO - [2025-10-15 18:58:38,671] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-10-15 18:58:38,687] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.185 seconds
+[2025-10-15 18:59:13,800] {processor.py:153} INFO - Started process (PID=31305) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 18:59:13,801] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-10-15 18:59:13,801] {logging_mixin.py:115} INFO - [2025-10-15 18:59:13,801] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 18:59:13,824] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 18:59:13,874] {logging_mixin.py:115} INFO - [2025-10-15 18:59:13,874] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 18:59:13,889] {logging_mixin.py:115} INFO - [2025-10-15 18:59:13,889] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-10-15 18:59:13,889] {logging_mixin.py:115} INFO - [2025-10-15 18:59:13,889] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-10-15 18:59:13,903] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.108 seconds
+[2025-10-15 18:59:51,957] {processor.py:153} INFO - Started process (PID=31522) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 18:59:51,958] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-10-15 18:59:51,959] {logging_mixin.py:115} INFO - [2025-10-15 18:59:51,959] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 18:59:51,982] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 18:59:52,033] {logging_mixin.py:115} INFO - [2025-10-15 18:59:52,033] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 18:59:52,047] {logging_mixin.py:115} INFO - [2025-10-15 18:59:52,047] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-10-15 18:59:52,047] {logging_mixin.py:115} INFO - [2025-10-15 18:59:52,047] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-10-15 18:59:52,060] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.106 seconds
+[2025-10-15 19:00:27,205] {processor.py:153} INFO - Started process (PID=31738) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 19:00:27,206] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-10-15 19:00:27,206] {logging_mixin.py:115} INFO - [2025-10-15 19:00:27,206] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 19:00:27,230] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 19:00:27,282] {logging_mixin.py:115} INFO - [2025-10-15 19:00:27,282] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 19:00:27,296] {logging_mixin.py:115} INFO - [2025-10-15 19:00:27,296] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-10-15 19:00:27,297] {logging_mixin.py:115} INFO - [2025-10-15 19:00:27,297] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-10-15 19:00:27,310] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.109 seconds
+[2025-10-15 19:01:03,310] {processor.py:153} INFO - Started process (PID=32052) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 19:01:03,311] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-10-15 19:01:03,312] {logging_mixin.py:115} INFO - [2025-10-15 19:01:03,312] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 19:01:03,335] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 19:01:03,384] {logging_mixin.py:115} INFO - [2025-10-15 19:01:03,383] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 19:01:03,397] {logging_mixin.py:115} INFO - [2025-10-15 19:01:03,397] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-10-15 19:01:03,397] {logging_mixin.py:115} INFO - [2025-10-15 19:01:03,397] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-10-15 19:01:03,409] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.103 seconds
+[2025-10-15 19:01:37,029] {processor.py:153} INFO - Started process (PID=32109) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 19:01:37,030] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-10-15 19:01:37,031] {logging_mixin.py:115} INFO - [2025-10-15 19:01:37,031] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 19:01:37,055] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-10-15 19:01:37,081] {logging_mixin.py:115} INFO - [2025-10-15 19:01:37,081] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 19:01:37,098] {logging_mixin.py:115} INFO - [2025-10-15 19:01:37,098] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-10-15 19:01:37,099] {logging_mixin.py:115} INFO - [2025-10-15 19:01:37,099] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-10-15 19:01:37,111] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.086 seconds

@@ -1,0 +1,71 @@
+[2025-10-15 17:22:06,053] {processor.py:153} INFO - Started process (PID=22878) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 17:22:06,054] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-10-15 17:22:06,055] {logging_mixin.py:115} INFO - [2025-10-15 17:22:06,055] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 17:22:06,064] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 17:22:06,154] {logging_mixin.py:115} INFO - [2025-10-15 17:22:06,154] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_branch_labels
+[2025-10-15 17:22:06,167] {logging_mixin.py:115} INFO - [2025-10-15 17:22:06,167] {manager.py:508} INFO - Created Permission View: can read on DAG:example_branch_labels
+[2025-10-15 17:22:06,175] {logging_mixin.py:115} INFO - [2025-10-15 17:22:06,175] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_branch_labels
+[2025-10-15 17:22:06,176] {logging_mixin.py:115} INFO - [2025-10-15 17:22:06,176] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:22:06,185] {logging_mixin.py:115} INFO - [2025-10-15 17:22:06,185] {dag.py:2398} INFO - Creating ORM DAG for example_branch_labels
+[2025-10-15 17:22:06,195] {logging_mixin.py:115} INFO - [2025-10-15 17:22:06,195] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 17:22:06,208] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.160 seconds
+[2025-10-15 17:32:52,015] {processor.py:153} INFO - Started process (PID=23892) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 17:32:52,015] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-10-15 17:32:52,016] {logging_mixin.py:115} INFO - [2025-10-15 17:32:52,016] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 17:32:52,024] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 17:32:52,044] {logging_mixin.py:115} INFO - [2025-10-15 17:32:52,044] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:32:52,066] {logging_mixin.py:115} INFO - [2025-10-15 17:32:52,066] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 17:32:52,076] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.066 seconds
+[2025-10-15 17:33:27,104] {processor.py:153} INFO - Started process (PID=24103) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 17:33:27,105] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-10-15 17:33:27,105] {logging_mixin.py:115} INFO - [2025-10-15 17:33:27,105] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 17:33:27,121] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 17:33:27,140] {logging_mixin.py:115} INFO - [2025-10-15 17:33:27,140] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:33:27,160] {logging_mixin.py:115} INFO - [2025-10-15 17:33:27,160] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 17:33:27,170] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.110 seconds
+[2025-10-15 17:33:59,868] {processor.py:153} INFO - Started process (PID=24161) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 17:33:59,869] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-10-15 17:33:59,870] {logging_mixin.py:115} INFO - [2025-10-15 17:33:59,870] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 17:33:59,880] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 17:33:59,904] {logging_mixin.py:115} INFO - [2025-10-15 17:33:59,904] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:33:59,924] {logging_mixin.py:115} INFO - [2025-10-15 17:33:59,924] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 17:33:59,934] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.073 seconds
+[2025-10-15 17:34:33,366] {processor.py:153} INFO - Started process (PID=24219) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 17:34:33,367] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-10-15 17:34:33,368] {logging_mixin.py:115} INFO - [2025-10-15 17:34:33,367] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 17:34:33,375] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 17:34:33,396] {logging_mixin.py:115} INFO - [2025-10-15 17:34:33,396] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:34:33,418] {logging_mixin.py:115} INFO - [2025-10-15 17:34:33,418] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 17:34:33,430] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.068 seconds
+[2025-10-15 18:59:03,610] {processor.py:153} INFO - Started process (PID=31286) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 18:59:03,611] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-10-15 18:59:03,611] {logging_mixin.py:115} INFO - [2025-10-15 18:59:03,611] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 18:59:03,619] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 18:59:03,741] {logging_mixin.py:115} INFO - [2025-10-15 18:59:03,741] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_branch_labels
+[2025-10-15 18:59:03,749] {logging_mixin.py:115} INFO - [2025-10-15 18:59:03,749] {manager.py:508} INFO - Created Permission View: can read on DAG:example_branch_labels
+[2025-10-15 18:59:03,755] {logging_mixin.py:115} INFO - [2025-10-15 18:59:03,755] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_branch_labels
+[2025-10-15 18:59:03,755] {logging_mixin.py:115} INFO - [2025-10-15 18:59:03,755] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 18:59:03,763] {logging_mixin.py:115} INFO - [2025-10-15 18:59:03,762] {dag.py:2398} INFO - Creating ORM DAG for example_branch_labels
+[2025-10-15 18:59:03,772] {logging_mixin.py:115} INFO - [2025-10-15 18:59:03,771] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 18:59:03,782] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.176 seconds
+[2025-10-15 19:00:16,885] {processor.py:153} INFO - Started process (PID=31717) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 19:00:16,885] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-10-15 19:00:16,887] {logging_mixin.py:115} INFO - [2025-10-15 19:00:16,886] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 19:00:16,895] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 19:00:16,918] {logging_mixin.py:115} INFO - [2025-10-15 19:00:16,918] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:00:16,940] {logging_mixin.py:115} INFO - [2025-10-15 19:00:16,940] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 19:00:16,952] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.072 seconds
+[2025-10-15 19:00:53,016] {processor.py:153} INFO - Started process (PID=31933) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 19:00:53,017] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-10-15 19:00:53,018] {logging_mixin.py:115} INFO - [2025-10-15 19:00:53,017] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 19:00:53,026] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 19:00:53,046] {logging_mixin.py:115} INFO - [2025-10-15 19:00:53,046] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:00:53,068] {logging_mixin.py:115} INFO - [2025-10-15 19:00:53,068] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 19:00:53,080] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.068 seconds
+[2025-10-15 19:01:28,098] {processor.py:153} INFO - Started process (PID=32094) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 19:01:28,098] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-10-15 19:01:28,099] {logging_mixin.py:115} INFO - [2025-10-15 19:01:28,099] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 19:01:28,108] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-10-15 19:01:28,129] {logging_mixin.py:115} INFO - [2025-10-15 19:01:28,129] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:01:28,154] {logging_mixin.py:115} INFO - [2025-10-15 19:01:28,154] {dag.py:2927} INFO - Setting next_dagrun for example_branch_labels to 2025-10-14T00:00:00+00:00, run_after=2025-10-15T00:00:00+00:00
+[2025-10-15 19:01:28,167] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_labels.py took 0.074 seconds

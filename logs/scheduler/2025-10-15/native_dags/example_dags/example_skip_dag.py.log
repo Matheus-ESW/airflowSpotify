@@ -1,0 +1,85 @@
+[2025-10-15 17:21:50,238] {processor.py:153} INFO - Started process (PID=22698) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 17:21:50,239] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-10-15 17:21:50,240] {logging_mixin.py:115} INFO - [2025-10-15 17:21:50,239] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 17:21:50,247] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 17:21:50,315] {logging_mixin.py:115} INFO - [2025-10-15 17:21:50,314] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2025-10-15 17:21:50,324] {logging_mixin.py:115} INFO - [2025-10-15 17:21:50,324] {manager.py:508} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2025-10-15 17:21:50,332] {logging_mixin.py:115} INFO - [2025-10-15 17:21:50,332] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2025-10-15 17:21:50,332] {logging_mixin.py:115} INFO - [2025-10-15 17:21:50,332] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:21:50,340] {logging_mixin.py:115} INFO - [2025-10-15 17:21:50,340] {dag.py:2398} INFO - Creating ORM DAG for example_skip_dag
+[2025-10-15 17:21:50,348] {logging_mixin.py:115} INFO - [2025-10-15 17:21:50,347] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2025-10-14T20:21:50.347654+00:00, run_after=2025-10-15T20:21:50.347654+00:00
+[2025-10-15 17:21:50,363] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.129 seconds
+[2025-10-15 17:32:37,080] {processor.py:153} INFO - Started process (PID=23732) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 17:32:37,081] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-10-15 17:32:37,081] {logging_mixin.py:115} INFO - [2025-10-15 17:32:37,081] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 17:32:37,090] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 17:32:37,116] {logging_mixin.py:115} INFO - [2025-10-15 17:32:37,116] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:32:37,144] {logging_mixin.py:115} INFO - [2025-10-15 17:32:37,144] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2025-10-14T20:32:37.143688+00:00, run_after=2025-10-15T20:32:37.143688+00:00
+[2025-10-15 17:32:37,167] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.092 seconds
+[2025-10-15 17:33:11,766] {processor.py:153} INFO - Started process (PID=24028) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 17:33:11,767] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-10-15 17:33:11,767] {logging_mixin.py:115} INFO - [2025-10-15 17:33:11,767] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 17:33:11,774] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 17:33:11,795] {logging_mixin.py:115} INFO - [2025-10-15 17:33:11,795] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:33:11,820] {logging_mixin.py:115} INFO - [2025-10-15 17:33:11,820] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2025-10-14T20:33:11.819805+00:00, run_after=2025-10-15T20:33:11.819805+00:00
+[2025-10-15 17:33:11,833] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2025-10-15 17:33:44,234] {processor.py:153} INFO - Started process (PID=24134) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 17:33:44,235] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-10-15 17:33:44,236] {logging_mixin.py:115} INFO - [2025-10-15 17:33:44,236] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 17:33:44,246] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 17:33:44,275] {logging_mixin.py:115} INFO - [2025-10-15 17:33:44,275] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:33:44,305] {logging_mixin.py:115} INFO - [2025-10-15 17:33:44,305] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2025-10-14T20:33:44.304790+00:00, run_after=2025-10-15T20:33:44.304790+00:00
+[2025-10-15 17:33:44,318] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.089 seconds
+[2025-10-15 17:34:20,106] {processor.py:153} INFO - Started process (PID=24195) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 17:34:20,107] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-10-15 17:34:20,109] {logging_mixin.py:115} INFO - [2025-10-15 17:34:20,109] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 17:34:20,120] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 17:34:20,148] {logging_mixin.py:115} INFO - [2025-10-15 17:34:20,148] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:34:20,169] {logging_mixin.py:115} INFO - [2025-10-15 17:34:20,169] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2025-10-14T20:34:20.168852+00:00, run_after=2025-10-15T20:34:20.168852+00:00
+[2025-10-15 17:34:20,180] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.084 seconds
+[2025-10-15 18:58:47,877] {processor.py:153} INFO - Started process (PID=31241) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 18:58:47,878] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-10-15 18:58:47,879] {logging_mixin.py:115} INFO - [2025-10-15 18:58:47,879] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 18:58:47,885] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 18:58:47,959] {logging_mixin.py:115} INFO - [2025-10-15 18:58:47,958] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2025-10-15 18:58:47,969] {logging_mixin.py:115} INFO - [2025-10-15 18:58:47,968] {manager.py:508} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2025-10-15 18:58:47,978] {logging_mixin.py:115} INFO - [2025-10-15 18:58:47,978] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2025-10-15 18:58:47,978] {logging_mixin.py:115} INFO - [2025-10-15 18:58:47,978] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 18:58:47,986] {logging_mixin.py:115} INFO - [2025-10-15 18:58:47,986] {dag.py:2398} INFO - Creating ORM DAG for example_skip_dag
+[2025-10-15 18:58:47,995] {logging_mixin.py:115} INFO - [2025-10-15 18:58:47,995] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2025-10-14T21:58:47.995527+00:00, run_after=2025-10-15T21:58:47.995527+00:00
+[2025-10-15 18:58:48,013] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.140 seconds
+[2025-10-15 18:59:21,648] {processor.py:153} INFO - Started process (PID=31320) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 18:59:21,650] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-10-15 18:59:21,650] {logging_mixin.py:115} INFO - [2025-10-15 18:59:21,650] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 18:59:21,658] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 18:59:21,681] {logging_mixin.py:115} INFO - [2025-10-15 18:59:21,681] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 18:59:21,703] {logging_mixin.py:115} INFO - [2025-10-15 18:59:21,703] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2025-10-14T21:59:21.702816+00:00, run_after=2025-10-15T21:59:21.702816+00:00
+[2025-10-15 18:59:21,716] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2025-10-15 19:00:01,109] {processor.py:153} INFO - Started process (PID=31616) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 19:00:01,110] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-10-15 19:00:01,112] {logging_mixin.py:115} INFO - [2025-10-15 19:00:01,111] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 19:00:01,123] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 19:00:01,153] {logging_mixin.py:115} INFO - [2025-10-15 19:00:01,153] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:00:01,183] {logging_mixin.py:115} INFO - [2025-10-15 19:00:01,183] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2025-10-14T22:00:01.182703+00:00, run_after=2025-10-15T22:00:01.182703+00:00
+[2025-10-15 19:00:01,198] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.100 seconds
+[2025-10-15 19:00:36,485] {processor.py:153} INFO - Started process (PID=31753) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 19:00:36,487] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-10-15 19:00:36,488] {logging_mixin.py:115} INFO - [2025-10-15 19:00:36,488] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 19:00:36,496] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 19:00:36,522] {logging_mixin.py:115} INFO - [2025-10-15 19:00:36,522] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:00:36,553] {logging_mixin.py:115} INFO - [2025-10-15 19:00:36,553] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2025-10-14T22:00:36.552999+00:00, run_after=2025-10-15T22:00:36.552999+00:00
+[2025-10-15 19:00:36,570] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.090 seconds
+[2025-10-15 19:01:13,329] {processor.py:153} INFO - Started process (PID=32067) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 19:01:13,331] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-10-15 19:01:13,331] {logging_mixin.py:115} INFO - [2025-10-15 19:01:13,331] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 19:01:13,338] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 19:01:13,361] {logging_mixin.py:115} INFO - [2025-10-15 19:01:13,361] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:01:13,384] {logging_mixin.py:115} INFO - [2025-10-15 19:01:13,384] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2025-10-14T22:01:13.383556+00:00, run_after=2025-10-15T22:01:13.383556+00:00
+[2025-10-15 19:01:13,398] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.073 seconds
+[2025-10-15 19:01:46,945] {processor.py:153} INFO - Started process (PID=32125) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 19:01:46,945] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-10-15 19:01:46,946] {logging_mixin.py:115} INFO - [2025-10-15 19:01:46,946] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 19:01:46,953] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-10-15 19:01:46,971] {logging_mixin.py:115} INFO - [2025-10-15 19:01:46,970] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:01:46,990] {logging_mixin.py:115} INFO - [2025-10-15 19:01:46,990] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2025-10-14T22:01:46.990192+00:00, run_after=2025-10-15T22:01:46.990192+00:00
+[2025-10-15 19:01:47,001] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.061 seconds

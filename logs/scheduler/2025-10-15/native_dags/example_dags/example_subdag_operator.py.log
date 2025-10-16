@@ -1,0 +1,188 @@
+[2025-10-15 17:21:48,458] {processor.py:153} INFO - Started process (PID=22666) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 17:21:48,459] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-15 17:21:48,460] {logging_mixin.py:115} INFO - [2025-10-15 17:21:48,459] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 17:21:48,488] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 17:21:48,551] {logging_mixin.py:115} INFO - [2025-10-15 17:21:48,551] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_subdag_operator
+[2025-10-15 17:21:48,560] {logging_mixin.py:115} INFO - [2025-10-15 17:21:48,560] {manager.py:508} INFO - Created Permission View: can read on DAG:example_subdag_operator
+[2025-10-15 17:21:48,566] {logging_mixin.py:115} INFO - [2025-10-15 17:21:48,566] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_subdag_operator
+[2025-10-15 17:21:48,566] {logging_mixin.py:115} INFO - [2025-10-15 17:21:48,566] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-10-15 17:21:48,573] {logging_mixin.py:115} INFO - [2025-10-15 17:21:48,573] {dag.py:2398} INFO - Creating ORM DAG for example_subdag_operator.section-2
+[2025-10-15 17:21:48,573] {logging_mixin.py:115} INFO - [2025-10-15 17:21:48,573] {dag.py:2398} INFO - Creating ORM DAG for example_subdag_operator.section-1
+[2025-10-15 17:21:48,574] {logging_mixin.py:115} INFO - [2025-10-15 17:21:48,574] {dag.py:2398} INFO - Creating ORM DAG for example_subdag_operator
+[2025-10-15 17:21:48,581] {logging_mixin.py:115} INFO - [2025-10-15 17:21:48,581] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-10-15 17:21:48,581] {logging_mixin.py:115} INFO - [2025-10-15 17:21:48,581] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 17:21:48,582] {logging_mixin.py:115} INFO - [2025-10-15 17:21:48,582] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 17:21:48,587] {logging_mixin.py:115} INFO - [2025-10-15 17:21:48,587] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 17:21:48,591] {logging_mixin.py:115} INFO - [2025-10-15 17:21:48,591] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 17:21:48,591] {logging_mixin.py:115} INFO - [2025-10-15 17:21:48,591] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 17:21:48,598] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py took 0.147 seconds
+[2025-10-15 17:32:35,505] {processor.py:153} INFO - Started process (PID=23707) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 17:32:35,506] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-15 17:32:35,508] {logging_mixin.py:115} INFO - [2025-10-15 17:32:35,507] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 17:32:35,541] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 17:32:35,573] {logging_mixin.py:115} INFO - [2025-10-15 17:32:35,573] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-10-15 17:32:35,601] {logging_mixin.py:115} INFO - [2025-10-15 17:32:35,601] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-10-15 17:32:35,601] {logging_mixin.py:115} INFO - [2025-10-15 17:32:35,601] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 17:32:35,602] {logging_mixin.py:115} INFO - [2025-10-15 17:32:35,602] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 17:32:35,619] {logging_mixin.py:115} INFO - [2025-10-15 17:32:35,619] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 17:32:35,623] {logging_mixin.py:115} INFO - [2025-10-15 17:32:35,622] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 17:32:35,623] {logging_mixin.py:115} INFO - [2025-10-15 17:32:35,623] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 17:32:35,626] {processor.py:164} ERROR - Got an exception! Propagating...
+Traceback (most recent call last):
+  File "/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 928, in _commit_impl
+    self.engine.dialect.do_commit(self.connection)
+  File "/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/sqlalchemy/engine/default.py", line 669, in do_commit
+    dbapi_connection.commit()
+sqlite3.OperationalError: disk I/O error
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/dag_processing/processor.py", line 155, in _run_file_processor
+    result: Tuple[int, int] = dag_file_processor.process_file(
+  File "/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/utils/session.py", line 71, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/dag_processing/processor.py", line 660, in process_file
+    dagbag.sync_to_db()
+  File "/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/utils/session.py", line 71, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/usr/lib/python3.8/contextlib.py", line 120, in __exit__
+    next(self.gen)
+  File "/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/utils/session.py", line 33, in create_session
+    session.commit()
+  File "/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 1423, in commit
+    self._transaction.commit(_to_root=self.future)
+  File "/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 836, in commit
+    trans.commit()
+  File "/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 2265, in commit
+    self._do_commit()
+  File "/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 2440, in _do_commit
+    self._connection_commit_impl()
+  File "/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 2411, in _connection_commit_impl
+    self.connection._commit_impl()
+  File "/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 930, in _commit_impl
+    self._handle_dbapi_exception(e, None, None, None, None)
+  File "/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1929, in _handle_dbapi_exception
+    util.raise_(
+  File "/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 928, in _commit_impl
+    self.engine.dialect.do_commit(self.connection)
+  File "/root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/sqlalchemy/engine/default.py", line 669, in do_commit
+    dbapi_connection.commit()
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) disk I/O error
+(Background on this error at: http://sqlalche.me/e/14/e3q8)
+[2025-10-15 17:33:09,358] {processor.py:153} INFO - Started process (PID=23994) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 17:33:09,358] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-15 17:33:09,359] {logging_mixin.py:115} INFO - [2025-10-15 17:33:09,359] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 17:33:09,385] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 17:33:09,409] {logging_mixin.py:115} INFO - [2025-10-15 17:33:09,409] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-10-15 17:33:09,429] {logging_mixin.py:115} INFO - [2025-10-15 17:33:09,429] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-10-15 17:33:09,429] {logging_mixin.py:115} INFO - [2025-10-15 17:33:09,429] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 17:33:09,429] {logging_mixin.py:115} INFO - [2025-10-15 17:33:09,429] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 17:33:09,434] {logging_mixin.py:115} INFO - [2025-10-15 17:33:09,434] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 17:33:09,437] {logging_mixin.py:115} INFO - [2025-10-15 17:33:09,437] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 17:33:09,437] {logging_mixin.py:115} INFO - [2025-10-15 17:33:09,437] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 17:33:09,444] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py took 0.090 seconds
+[2025-10-15 17:33:42,784] {processor.py:153} INFO - Started process (PID=24132) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 17:33:42,785] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-15 17:33:42,786] {logging_mixin.py:115} INFO - [2025-10-15 17:33:42,785] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 17:33:42,812] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 17:33:42,835] {logging_mixin.py:115} INFO - [2025-10-15 17:33:42,835] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-10-15 17:33:42,854] {logging_mixin.py:115} INFO - [2025-10-15 17:33:42,854] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-10-15 17:33:42,854] {logging_mixin.py:115} INFO - [2025-10-15 17:33:42,854] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 17:33:42,854] {logging_mixin.py:115} INFO - [2025-10-15 17:33:42,854] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 17:33:42,860] {logging_mixin.py:115} INFO - [2025-10-15 17:33:42,860] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 17:33:42,863] {logging_mixin.py:115} INFO - [2025-10-15 17:33:42,863] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 17:33:42,863] {logging_mixin.py:115} INFO - [2025-10-15 17:33:42,863] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 17:33:42,873] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py took 0.093 seconds
+[2025-10-15 17:34:17,712] {processor.py:153} INFO - Started process (PID=24190) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 17:34:17,712] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-15 17:34:17,713] {logging_mixin.py:115} INFO - [2025-10-15 17:34:17,713] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 17:34:17,742] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 17:34:17,767] {logging_mixin.py:115} INFO - [2025-10-15 17:34:17,767] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-10-15 17:34:17,789] {logging_mixin.py:115} INFO - [2025-10-15 17:34:17,789] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-10-15 17:34:17,790] {logging_mixin.py:115} INFO - [2025-10-15 17:34:17,789] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 17:34:17,790] {logging_mixin.py:115} INFO - [2025-10-15 17:34:17,790] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 17:34:17,797] {logging_mixin.py:115} INFO - [2025-10-15 17:34:17,797] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 17:34:17,801] {logging_mixin.py:115} INFO - [2025-10-15 17:34:17,801] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 17:34:17,801] {logging_mixin.py:115} INFO - [2025-10-15 17:34:17,801] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 17:34:17,809] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py took 0.102 seconds
+[2025-10-15 18:58:46,027] {processor.py:153} INFO - Started process (PID=31217) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 18:58:46,028] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-15 18:58:46,029] {logging_mixin.py:115} INFO - [2025-10-15 18:58:46,029] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 18:58:46,067] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 18:58:46,133] {logging_mixin.py:115} INFO - [2025-10-15 18:58:46,133] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_subdag_operator
+[2025-10-15 18:58:46,140] {logging_mixin.py:115} INFO - [2025-10-15 18:58:46,140] {manager.py:508} INFO - Created Permission View: can read on DAG:example_subdag_operator
+[2025-10-15 18:58:46,147] {logging_mixin.py:115} INFO - [2025-10-15 18:58:46,147] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_subdag_operator
+[2025-10-15 18:58:46,148] {logging_mixin.py:115} INFO - [2025-10-15 18:58:46,148] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-10-15 18:58:46,156] {logging_mixin.py:115} INFO - [2025-10-15 18:58:46,156] {dag.py:2398} INFO - Creating ORM DAG for example_subdag_operator.section-2
+[2025-10-15 18:58:46,156] {logging_mixin.py:115} INFO - [2025-10-15 18:58:46,156] {dag.py:2398} INFO - Creating ORM DAG for example_subdag_operator
+[2025-10-15 18:58:46,156] {logging_mixin.py:115} INFO - [2025-10-15 18:58:46,156] {dag.py:2398} INFO - Creating ORM DAG for example_subdag_operator.section-1
+[2025-10-15 18:58:46,165] {logging_mixin.py:115} INFO - [2025-10-15 18:58:46,165] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-10-15 18:58:46,166] {logging_mixin.py:115} INFO - [2025-10-15 18:58:46,166] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 18:58:46,166] {logging_mixin.py:115} INFO - [2025-10-15 18:58:46,166] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 18:58:46,173] {logging_mixin.py:115} INFO - [2025-10-15 18:58:46,173] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 18:58:46,177] {logging_mixin.py:115} INFO - [2025-10-15 18:58:46,177] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 18:58:46,177] {logging_mixin.py:115} INFO - [2025-10-15 18:58:46,177] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 18:58:46,185] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.165 seconds
+[2025-10-15 18:59:20,280] {processor.py:153} INFO - Started process (PID=31315) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 18:59:20,281] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-15 18:59:20,281] {logging_mixin.py:115} INFO - [2025-10-15 18:59:20,281] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 18:59:20,307] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 18:59:20,328] {logging_mixin.py:115} INFO - [2025-10-15 18:59:20,328] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-10-15 18:59:20,347] {logging_mixin.py:115} INFO - [2025-10-15 18:59:20,346] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-10-15 18:59:20,347] {logging_mixin.py:115} INFO - [2025-10-15 18:59:20,347] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 18:59:20,347] {logging_mixin.py:115} INFO - [2025-10-15 18:59:20,347] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 18:59:20,352] {logging_mixin.py:115} INFO - [2025-10-15 18:59:20,351] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 18:59:20,354] {logging_mixin.py:115} INFO - [2025-10-15 18:59:20,354] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 18:59:20,355] {logging_mixin.py:115} INFO - [2025-10-15 18:59:20,355] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 18:59:20,362] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.086 seconds
+[2025-10-15 18:59:59,509] {processor.py:153} INFO - Started process (PID=31587) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 18:59:59,512] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-15 18:59:59,513] {logging_mixin.py:115} INFO - [2025-10-15 18:59:59,513] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 18:59:59,562] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 18:59:59,629] {logging_mixin.py:115} INFO - [2025-10-15 18:59:59,629] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-10-15 18:59:59,682] {logging_mixin.py:115} INFO - [2025-10-15 18:59:59,681] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-10-15 18:59:59,682] {logging_mixin.py:115} INFO - [2025-10-15 18:59:59,682] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 18:59:59,683] {logging_mixin.py:115} INFO - [2025-10-15 18:59:59,683] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 18:59:59,698] {logging_mixin.py:115} INFO - [2025-10-15 18:59:59,698] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 18:59:59,707] {logging_mixin.py:115} INFO - [2025-10-15 18:59:59,707] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 18:59:59,708] {logging_mixin.py:115} INFO - [2025-10-15 18:59:59,708] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 18:59:59,726] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.227 seconds
+[2025-10-15 19:00:34,771] {processor.py:153} INFO - Started process (PID=31748) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 19:00:34,772] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-15 19:00:34,773] {logging_mixin.py:115} INFO - [2025-10-15 19:00:34,773] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 19:00:34,801] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 19:00:34,826] {logging_mixin.py:115} INFO - [2025-10-15 19:00:34,826] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-10-15 19:00:34,847] {logging_mixin.py:115} INFO - [2025-10-15 19:00:34,847] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-10-15 19:00:34,847] {logging_mixin.py:115} INFO - [2025-10-15 19:00:34,847] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 19:00:34,847] {logging_mixin.py:115} INFO - [2025-10-15 19:00:34,847] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 19:00:34,853] {logging_mixin.py:115} INFO - [2025-10-15 19:00:34,853] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 19:00:34,857] {logging_mixin.py:115} INFO - [2025-10-15 19:00:34,856] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 19:00:34,857] {logging_mixin.py:115} INFO - [2025-10-15 19:00:34,857] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 19:00:34,865] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.098 seconds
+[2025-10-15 19:01:10,948] {processor.py:153} INFO - Started process (PID=32065) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 19:01:10,949] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-15 19:01:10,949] {logging_mixin.py:115} INFO - [2025-10-15 19:01:10,949] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 19:01:10,976] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 19:01:11,000] {logging_mixin.py:115} INFO - [2025-10-15 19:01:11,000] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-10-15 19:01:11,020] {logging_mixin.py:115} INFO - [2025-10-15 19:01:11,020] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-10-15 19:01:11,020] {logging_mixin.py:115} INFO - [2025-10-15 19:01:11,020] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 19:01:11,020] {logging_mixin.py:115} INFO - [2025-10-15 19:01:11,020] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 19:01:11,025] {logging_mixin.py:115} INFO - [2025-10-15 19:01:11,025] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 19:01:11,029] {logging_mixin.py:115} INFO - [2025-10-15 19:01:11,029] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 19:01:11,029] {logging_mixin.py:115} INFO - [2025-10-15 19:01:11,029] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 19:01:11,036] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.093 seconds
+[2025-10-15 19:01:45,041] {processor.py:153} INFO - Started process (PID=32120) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 19:01:45,042] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-10-15 19:01:45,042] {logging_mixin.py:115} INFO - [2025-10-15 19:01:45,042] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 19:01:45,080] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-10-15 19:01:45,108] {logging_mixin.py:115} INFO - [2025-10-15 19:01:45,108] {dag.py:2379} INFO - Sync 3 DAGs
+[2025-10-15 19:01:45,131] {logging_mixin.py:115} INFO - [2025-10-15 19:01:45,131] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-10-15 19:01:45,132] {logging_mixin.py:115} INFO - [2025-10-15 19:01:45,132] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 19:01:45,132] {logging_mixin.py:115} INFO - [2025-10-15 19:01:45,132] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 19:01:45,139] {logging_mixin.py:115} INFO - [2025-10-15 19:01:45,139] {dag.py:2379} INFO - Sync 2 DAGs
+[2025-10-15 19:01:45,143] {logging_mixin.py:115} INFO - [2025-10-15 19:01:45,143] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-10-15 19:01:45,143] {logging_mixin.py:115} INFO - [2025-10-15 19:01:45,143] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-10-15 19:01:45,152] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.115 seconds

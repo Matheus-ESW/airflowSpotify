@@ -1,0 +1,96 @@
+[2025-10-15 17:21:52,720] {processor.py:153} INFO - Started process (PID=22703) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 17:21:52,721] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-10-15 17:21:52,722] {logging_mixin.py:115} INFO - [2025-10-15 17:21:52,722] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 17:21:52,743] {logging_mixin.py:115} INFO - [2025-10-15 17:21:52,743] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-10-15 17:21:52,744] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 17:21:52,805] {logging_mixin.py:115} INFO - [2025-10-15 17:21:52,805] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_python_operator
+[2025-10-15 17:21:52,814] {logging_mixin.py:115} INFO - [2025-10-15 17:21:52,814] {manager.py:508} INFO - Created Permission View: can read on DAG:example_python_operator
+[2025-10-15 17:21:52,820] {logging_mixin.py:115} INFO - [2025-10-15 17:21:52,820] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_python_operator
+[2025-10-15 17:21:52,821] {logging_mixin.py:115} INFO - [2025-10-15 17:21:52,821] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:21:52,828] {logging_mixin.py:115} INFO - [2025-10-15 17:21:52,828] {dag.py:2398} INFO - Creating ORM DAG for example_python_operator
+[2025-10-15 17:21:52,835] {logging_mixin.py:115} INFO - [2025-10-15 17:21:52,835] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-10-15 17:21:52,849] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.133 seconds
+[2025-10-15 17:32:39,368] {processor.py:153} INFO - Started process (PID=23767) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 17:32:39,369] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-10-15 17:32:39,369] {logging_mixin.py:115} INFO - [2025-10-15 17:32:39,369] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 17:32:39,391] {logging_mixin.py:115} INFO - [2025-10-15 17:32:39,391] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-10-15 17:32:39,392] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 17:32:39,411] {logging_mixin.py:115} INFO - [2025-10-15 17:32:39,411] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:32:39,430] {logging_mixin.py:115} INFO - [2025-10-15 17:32:39,430] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-10-15 17:32:39,443] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.081 seconds
+[2025-10-15 17:33:13,361] {processor.py:153} INFO - Started process (PID=24037) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 17:33:13,362] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-10-15 17:33:13,362] {logging_mixin.py:115} INFO - [2025-10-15 17:33:13,362] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 17:33:13,385] {logging_mixin.py:115} INFO - [2025-10-15 17:33:13,385] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-10-15 17:33:13,386] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 17:33:13,405] {logging_mixin.py:115} INFO - [2025-10-15 17:33:13,405] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:33:13,426] {logging_mixin.py:115} INFO - [2025-10-15 17:33:13,426] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-10-15 17:33:13,438] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.081 seconds
+[2025-10-15 17:33:46,519] {processor.py:153} INFO - Started process (PID=24139) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 17:33:46,519] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-10-15 17:33:46,520] {logging_mixin.py:115} INFO - [2025-10-15 17:33:46,520] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 17:33:46,540] {logging_mixin.py:115} INFO - [2025-10-15 17:33:46,540] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-10-15 17:33:46,541] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 17:33:46,559] {logging_mixin.py:115} INFO - [2025-10-15 17:33:46,559] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:33:46,577] {logging_mixin.py:115} INFO - [2025-10-15 17:33:46,577] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-10-15 17:33:46,588] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.073 seconds
+[2025-10-15 17:34:21,722] {processor.py:153} INFO - Started process (PID=24197) to work on /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 17:34:21,722] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-10-15 17:34:21,723] {logging_mixin.py:115} INFO - [2025-10-15 17:34:21,723] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 17:34:21,745] {logging_mixin.py:115} INFO - [2025-10-15 17:34:21,745] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-10-15 17:34:21,745] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 17:34:21,764] {logging_mixin.py:115} INFO - [2025-10-15 17:34:21,763] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 17:34:21,782] {logging_mixin.py:115} INFO - [2025-10-15 17:34:21,782] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-10-15 17:34:21,793] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.076 seconds
+[2025-10-15 18:58:50,366] {processor.py:153} INFO - Started process (PID=31264) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 18:58:50,367] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-10-15 18:58:50,368] {logging_mixin.py:115} INFO - [2025-10-15 18:58:50,368] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 18:58:50,395] {logging_mixin.py:115} INFO - [2025-10-15 18:58:50,395] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-10-15 18:58:50,396] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 18:58:50,458] {logging_mixin.py:115} INFO - [2025-10-15 18:58:50,458] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_python_operator
+[2025-10-15 18:58:50,466] {logging_mixin.py:115} INFO - [2025-10-15 18:58:50,466] {manager.py:508} INFO - Created Permission View: can read on DAG:example_python_operator
+[2025-10-15 18:58:50,473] {logging_mixin.py:115} INFO - [2025-10-15 18:58:50,473] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_python_operator
+[2025-10-15 18:58:50,474] {logging_mixin.py:115} INFO - [2025-10-15 18:58:50,473] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 18:58:50,481] {logging_mixin.py:115} INFO - [2025-10-15 18:58:50,481] {dag.py:2398} INFO - Creating ORM DAG for example_python_operator
+[2025-10-15 18:58:50,488] {logging_mixin.py:115} INFO - [2025-10-15 18:58:50,488] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-10-15 18:58:50,500] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.141 seconds
+[2025-10-15 18:59:23,043] {processor.py:153} INFO - Started process (PID=31322) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 18:59:23,044] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-10-15 18:59:23,044] {logging_mixin.py:115} INFO - [2025-10-15 18:59:23,044] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 18:59:23,064] {logging_mixin.py:115} INFO - [2025-10-15 18:59:23,064] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-10-15 18:59:23,064] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 18:59:23,086] {logging_mixin.py:115} INFO - [2025-10-15 18:59:23,086] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 18:59:23,101] {logging_mixin.py:115} INFO - [2025-10-15 18:59:23,101] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-10-15 18:59:23,134] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.095 seconds
+[2025-10-15 19:00:03,478] {processor.py:153} INFO - Started process (PID=31642) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 19:00:03,479] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-10-15 19:00:03,479] {logging_mixin.py:115} INFO - [2025-10-15 19:00:03,479] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 19:00:03,520] {logging_mixin.py:115} INFO - [2025-10-15 19:00:03,520] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-10-15 19:00:03,520] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 19:00:03,551] {logging_mixin.py:115} INFO - [2025-10-15 19:00:03,551] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:00:03,577] {logging_mixin.py:115} INFO - [2025-10-15 19:00:03,576] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-10-15 19:00:03,601] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.129 seconds
+[2025-10-15 19:00:38,903] {processor.py:153} INFO - Started process (PID=31755) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 19:00:38,903] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-10-15 19:00:38,904] {logging_mixin.py:115} INFO - [2025-10-15 19:00:38,904] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 19:00:38,937] {logging_mixin.py:115} INFO - [2025-10-15 19:00:38,937] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-10-15 19:00:38,938] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 19:00:38,970] {logging_mixin.py:115} INFO - [2025-10-15 19:00:38,970] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:00:38,998] {logging_mixin.py:115} INFO - [2025-10-15 19:00:38,997] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-10-15 19:00:39,013] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.117 seconds
+[2025-10-15 19:01:15,081] {processor.py:153} INFO - Started process (PID=32072) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 19:01:15,082] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-10-15 19:01:15,083] {logging_mixin.py:115} INFO - [2025-10-15 19:01:15,083] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 19:01:15,110] {logging_mixin.py:115} INFO - [2025-10-15 19:01:15,110] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-10-15 19:01:15,110] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 19:01:15,138] {logging_mixin.py:115} INFO - [2025-10-15 19:01:15,138] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:01:15,158] {logging_mixin.py:115} INFO - [2025-10-15 19:01:15,158] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-10-15 19:01:15,174] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.097 seconds
+[2025-10-15 19:01:48,413] {processor.py:153} INFO - Started process (PID=32127) to work on /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 19:01:48,415] {processor.py:641} INFO - Processing file /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-10-15 19:01:48,416] {logging_mixin.py:115} INFO - [2025-10-15 19:01:48,416] {dagbag.py:507} INFO - Filling up the DagBag from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 19:01:48,451] {logging_mixin.py:115} INFO - [2025-10-15 19:01:48,451] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-10-15 19:01:48,452] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2025-10-15 19:01:48,485] {logging_mixin.py:115} INFO - [2025-10-15 19:01:48,485] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-10-15 19:01:48,510] {logging_mixin.py:115} INFO - [2025-10-15 19:01:48,510] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-10-15 19:01:48,525] {processor.py:161} INFO - Processing /root/Projects/airflowSpotify/venv/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.128 seconds
