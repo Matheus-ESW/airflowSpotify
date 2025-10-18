@@ -36,7 +36,7 @@
                 "media_type": "mixed",
                 "name": "Data Hackers",
                 "publisher": "Data Hackers",
-                "total_episodes": 205,
+                "total_episodes": 206,
                 "type": "show",
                 "uri": "spotify:show:1oMIHOXsrLFENAeM743g93"
             },
@@ -77,44 +77,6 @@
                 "total_episodes": 56,
                 "type": "show",
                 "uri": "spotify:show:5k0Ei0MSg5BuiHshr43aSg"
-            },
-            {
-                "copyrights": [],
-                "description": "O podcast indispensável para quem quer se manter em dia com o que está acontecendo no universo da inteligência artificial. O IA Sob Controle traz notícias, dicas de ferramentas e discussões sobre as principais tendências do mundo da IA, além de entrevistas com profissionais e pessoas pesquisadoras que estão definindo o futuro da tecnologia mais promissora e empolgante das últimas décadas.",
-                "explicit": false,
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/show/5xLCMHJ6eGWzdu8JaIDkuP"
-                },
-                "href": "https://api.spotify.com/v1/shows/5xLCMHJ6eGWzdu8JaIDkuP",
-                "html_description": "O podcast indispensável para quem quer se manter em dia com o que está acontecendo no universo da inteligência artificial. O IA Sob Controle traz notícias, dicas de ferramentas e discussões sobre as principais tendências do mundo da IA, além de entrevistas com profissionais e pessoas pesquisadoras que estão definindo o futuro da tecnologia mais promissora e empolgante das últimas décadas.",
-                "id": "5xLCMHJ6eGWzdu8JaIDkuP",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab6765630000ba8adb9ed859813ef9c37cec5caf",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67656300005f1fdb9ed859813ef9c37cec5caf",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab6765630000f68ddb9ed859813ef9c37cec5caf",
-                        "width": 64
-                    }
-                ],
-                "is_externally_hosted": false,
-                "languages": [
-                    "pt"
-                ],
-                "media_type": "audio",
-                "name": "IA Sob Controle - Inteligência Artificial",
-                "publisher": "Alura - Hipsters Network",
-                "total_episodes": 191,
-                "type": "show",
-                "uri": "spotify:show:5xLCMHJ6eGWzdu8JaIDkuP"
             },
             {
                 "copyrights": [],
@@ -270,28 +232,28 @@
             },
             {
                 "copyrights": [],
-                "description": "Descubra a inteligência artificial que move o mundo. Trazemos as principais notícias, análises e dicas de uso em episódios leves e dinâmicos, com conversas sobre tendências que já estão transformando negócios, saúde, educação e entretenimento. Além disso, conversamos com especialistas e pioneiros que mostram como a IA está sendo aplicada na prática no Brasil e no mundo. Tudo com humor, clareza e uma didática que cabe na sua rotina. Junte-se a nós e torne-se protagonista do futuro.",
+                "description": "Uma conversa com líderes e fundadores de startups e empresas inovadoras.",
                 "explicit": false,
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/show/2FHimuESqvjBL4x8AKur2b"
+                    "spotify": "https://open.spotify.com/show/5qFSRB3x4SP9xZgr4my7fO"
                 },
-                "href": "https://api.spotify.com/v1/shows/2FHimuESqvjBL4x8AKur2b",
-                "html_description": "Descubra a inteligência artificial que move o mundo. Trazemos as principais notícias, análises e dicas de uso em episódios leves e dinâmicos, com conversas sobre tendências que já estão transformando negócios, saúde, educação e entretenimento. Além disso, conversamos com especialistas e pioneiros que mostram como a IA está sendo aplicada na prática no Brasil e no mundo. Tudo com humor, clareza e uma didática que cabe na sua rotina. Junte-se a nós e torne-se protagonista do futuro.",
-                "id": "2FHimuESqvjBL4x8AKur2b",
+                "href": "https://api.spotify.com/v1/shows/5qFSRB3x4SP9xZgr4my7fO",
+                "html_description": "Uma conversa com líderes e fundadores de startups e empresas inovadoras.",
+                "id": "5qFSRB3x4SP9xZgr4my7fO",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab6765630000ba8aa2f538cd720349443a4380ba",
+                        "url": "https://i.scdn.co/image/ab6765630000ba8af993fa824dac4962f4dd61c8",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67656300005f1fa2f538cd720349443a4380ba",
+                        "url": "https://i.scdn.co/image/ab67656300005f1ff993fa824dac4962f4dd61c8",
                         "width": 300
                     },
                     {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab6765630000f68da2f538cd720349443a4380ba",
+                        "url": "https://i.scdn.co/image/ab6765630000f68df993fa824dac4962f4dd61c8",
                         "width": 64
                     }
                 ],
@@ -299,12 +261,12 @@
                 "languages": [
                     "pt-BR"
                 ],
-                "media_type": "mixed",
-                "name": "IA Todo Dia – Inteligência Artificial Descomplicada: notícias e quadros que expandem sua visão",
-                "publisher": "Diego Sommer",
-                "total_episodes": 218,
+                "media_type": "audio",
+                "name": "Like a Boss",
+                "publisher": "Alura",
+                "total_episodes": 105,
                 "type": "show",
-                "uri": "spotify:show:2FHimuESqvjBL4x8AKur2b"
+                "uri": "spotify:show:5qFSRB3x4SP9xZgr4my7fO"
             },
             {
                 "copyrights": [],
@@ -422,6 +384,44 @@
             },
             {
                 "copyrights": [],
+                "description": "Descubra a inteligência artificial que move o mundo. Trazemos as principais notícias, análises e dicas de uso em episódios leves e dinâmicos, com conversas sobre tendências que já estão transformando negócios, saúde, educação e entretenimento. Além disso, conversamos com especialistas e pioneiros que mostram como a IA está sendo aplicada na prática no Brasil e no mundo. Tudo com humor, clareza e uma didática que cabe na sua rotina. Junte-se a nós e torne-se protagonista do futuro.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/2FHimuESqvjBL4x8AKur2b"
+                },
+                "href": "https://api.spotify.com/v1/shows/2FHimuESqvjBL4x8AKur2b",
+                "html_description": "Descubra a inteligência artificial que move o mundo. Trazemos as principais notícias, análises e dicas de uso em episódios leves e dinâmicos, com conversas sobre tendências que já estão transformando negócios, saúde, educação e entretenimento. Além disso, conversamos com especialistas e pioneiros que mostram como a IA está sendo aplicada na prática no Brasil e no mundo. Tudo com humor, clareza e uma didática que cabe na sua rotina. Junte-se a nós e torne-se protagonista do futuro.",
+                "id": "2FHimuESqvjBL4x8AKur2b",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8aa2f538cd720349443a4380ba",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fa2f538cd720349443a4380ba",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68da2f538cd720349443a4380ba",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt-BR"
+                ],
+                "media_type": "mixed",
+                "name": "IA Todo Dia – Inteligência Artificial Descomplicada: notícias e quadros que expandem sua visão",
+                "publisher": "Diego Sommer",
+                "total_episodes": 219,
+                "type": "show",
+                "uri": "spotify:show:2FHimuESqvjBL4x8AKur2b"
+            },
+            {
+                "copyrights": [],
                 "description": "Podcast de cibersegurança produzido pela Tempest com episódios diários, publicados logo pela manhã com aquilo que foi mais relevante nas últimas vinte e quatro horas em termos de novos ataques, vulnerabilidade ou ameaças.  Tudo em menos de dez minutos e traduzido para uma linguagem fácil, produzido para que você possa ajustar o curso do seu dia de modo a tomar as melhores decisões de cibersegurança para sua empresa.",
                 "explicit": false,
                 "external_urls": {
@@ -454,7 +454,7 @@
                 "media_type": "audio",
                 "name": "Cyber Morning Call",
                 "publisher": "Tempest Security Intelligence",
-                "total_episodes": 888,
+                "total_episodes": 889,
                 "type": "show",
                 "uri": "spotify:show:3b1pfnrXte2nTaYpcQbB2I"
             },
@@ -530,47 +530,9 @@
                 "media_type": "mixed",
                 "name": "Hoje no TecMundo Podcast",
                 "publisher": "Hoje no TecMundo - Podcast",
-                "total_episodes": 1214,
+                "total_episodes": 1215,
                 "type": "show",
                 "uri": "spotify:show:2GfMFAmQseZ1fOtiLQyZ39"
-            },
-            {
-                "copyrights": [],
-                "description": "Bate papo sobre Inteligência Artificial para pessoas comuns abordando notícias, ferramentas e todas as formas que a Inteligência Artificial vai mudar nossa vida.",
-                "explicit": false,
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/show/3lyrnNKGPqdVgmsBUPxvmf"
-                },
-                "href": "https://api.spotify.com/v1/shows/3lyrnNKGPqdVgmsBUPxvmf",
-                "html_description": "Bate papo sobre Inteligência Artificial para pessoas comuns abordando notícias, ferramentas e todas as formas que a Inteligência Artificial vai mudar nossa vida.",
-                "id": "3lyrnNKGPqdVgmsBUPxvmf",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab6765630000ba8a37c4ce83b7347323b1dcca5f",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67656300005f1f37c4ce83b7347323b1dcca5f",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab6765630000f68d37c4ce83b7347323b1dcca5f",
-                        "width": 64
-                    }
-                ],
-                "is_externally_hosted": false,
-                "languages": [
-                    "pt-BR"
-                ],
-                "media_type": "mixed",
-                "name": "Papo de IA - Inteligência Artificial",
-                "publisher": "Danilo Gato Medeiros",
-                "total_episodes": 104,
-                "type": "show",
-                "uri": "spotify:show:3lyrnNKGPqdVgmsBUPxvmf"
             },
             {
                 "copyrights": [],
@@ -682,7 +644,7 @@
                 "media_type": "audio",
                 "name": "CBN Tecnologia - Techtudo",
                 "publisher": "CBN",
-                "total_episodes": 102,
+                "total_episodes": 103,
                 "type": "show",
                 "uri": "spotify:show:3RbHv1Fd3af8s90AO9xljy"
             },
@@ -764,6 +726,44 @@
             },
             {
                 "copyrights": [],
+                "description": "O podcast indispensável para quem quer se manter em dia com o que está acontecendo no universo da inteligência artificial. O IA Sob Controle traz notícias, dicas de ferramentas e discussões sobre as principais tendências do mundo da IA, além de entrevistas com profissionais e pessoas pesquisadoras que estão definindo o futuro da tecnologia mais promissora e empolgante das últimas décadas.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/5xLCMHJ6eGWzdu8JaIDkuP"
+                },
+                "href": "https://api.spotify.com/v1/shows/5xLCMHJ6eGWzdu8JaIDkuP",
+                "html_description": "O podcast indispensável para quem quer se manter em dia com o que está acontecendo no universo da inteligência artificial. O IA Sob Controle traz notícias, dicas de ferramentas e discussões sobre as principais tendências do mundo da IA, além de entrevistas com profissionais e pessoas pesquisadoras que estão definindo o futuro da tecnologia mais promissora e empolgante das últimas décadas.",
+                "id": "5xLCMHJ6eGWzdu8JaIDkuP",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8adb9ed859813ef9c37cec5caf",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fdb9ed859813ef9c37cec5caf",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68ddb9ed859813ef9c37cec5caf",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt"
+                ],
+                "media_type": "audio",
+                "name": "IA Sob Controle - Inteligência Artificial",
+                "publisher": "Alura - Hipsters Network",
+                "total_episodes": 192,
+                "type": "show",
+                "uri": "spotify:show:5xLCMHJ6eGWzdu8JaIDkuP"
+            },
+            {
+                "copyrights": [],
                 "description": "O Podcast Canaltech é um resumo das notícias de tecnologia, para começar o seu dia. De terça a sábado, a partir das 7h nos seus tocadores de podcasts.",
                 "explicit": false,
                 "external_urls": {
@@ -802,155 +802,41 @@
             },
             {
                 "copyrights": [],
-                "description": "Explore o fascinante mundo da Ciência de Dados com o nosso podcast envolvente e informativo. Descubra as últimas tendências, técnicas avançadas e estudos de caso que estão moldando o cenário da análise de dados. Junte-se a nós enquanto mergulhamos nas complexidades da análise e ciência de dados, aprendizado de máquina, visualização e muito mais. Seja você um entusiasta curioso ou um profissional experiente, nosso canal é o seu guia essencial para desvendar os segredos da Ciência de Dados. Inscreva-se agora e embarque nessa jornada intelectual!",
-                "explicit": false,
+                "description": "Data Skeptic is your source for a perspective of scientific skepticism on topics in statistics, machine learning, big data, artificial intelligence, and data science. Our weekly podcast and blog bring you stories and tutorials to help understand our data-driven world.",
+                "explicit": true,
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/show/3XbIBG6Ch5ZKYWWlLmQRFw"
+                    "spotify": "https://open.spotify.com/show/1BZN7H3ikovSejhwQTzNm4"
                 },
-                "href": "https://api.spotify.com/v1/shows/3XbIBG6Ch5ZKYWWlLmQRFw",
-                "html_description": "Explore o fascinante mundo da Ciência de Dados com o nosso podcast envolvente e informativo. Descubra as últimas tendências, técnicas avançadas e estudos de caso que estão moldando o cenário da análise de dados. Junte-se a nós enquanto mergulhamos nas complexidades da análise e ciência de dados, aprendizado de máquina, visualização e muito mais. Seja você um entusiasta curioso ou um profissional experiente, nosso canal é o seu guia essencial para desvendar os segredos da Ciência de Dados. Inscreva-se agora e embarque nessa jornada intelectual!",
-                "id": "3XbIBG6Ch5ZKYWWlLmQRFw",
+                "href": "https://api.spotify.com/v1/shows/1BZN7H3ikovSejhwQTzNm4",
+                "html_description": "Data Skeptic is your source for a perspective of scientific skepticism on topics in statistics, machine learning, big data, artificial intelligence, and data science. Our weekly podcast and blog bring you stories and tutorials to help understand our data-driven world.",
+                "id": "1BZN7H3ikovSejhwQTzNm4",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab6765630000ba8ac6692b6dabeeaa564782f1c6",
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a2e312df484c4b50c03addd9b",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67656300005f1fc6692b6dabeeaa564782f1c6",
+                        "url": "https://i.scdn.co/image/ab67656300005f1f2e312df484c4b50c03addd9b",
                         "width": 300
                     },
                     {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab6765630000f68dc6692b6dabeeaa564782f1c6",
+                        "url": "https://i.scdn.co/image/ab6765630000f68d2e312df484c4b50c03addd9b",
                         "width": 64
                     }
                 ],
                 "is_externally_hosted": false,
                 "languages": [
-                    "pt"
+                    "en"
                 ],
                 "media_type": "audio",
-                "name": "Ciencia de Dados Brasil",
-                "publisher": "Caio Felicio da Cunha",
-                "total_episodes": 39,
+                "name": "Data Skeptic",
+                "publisher": "Kyle Polich",
+                "total_episodes": 585,
                 "type": "show",
-                "uri": "spotify:show:3XbIBG6Ch5ZKYWWlLmQRFw"
-            },
-            {
-                "copyrights": [],
-                "description": "Os comentários, entrevistas e reportagens sobre a vida digital na CBN.",
-                "explicit": false,
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/show/36fAENA2LHDy6rZ0l1z5Ce"
-                },
-                "href": "https://api.spotify.com/v1/shows/36fAENA2LHDy6rZ0l1z5Ce",
-                "html_description": "Os comentários, entrevistas e reportagens sobre a vida digital na CBN.",
-                "id": "36fAENA2LHDy6rZ0l1z5Ce",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab6765630000ba8a26fdfae8088daead0a820e38",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67656300005f1f26fdfae8088daead0a820e38",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab6765630000f68d26fdfae8088daead0a820e38",
-                        "width": 64
-                    }
-                ],
-                "is_externally_hosted": false,
-                "languages": [
-                    "pt"
-                ],
-                "media_type": "audio",
-                "name": "Tecnologia",
-                "publisher": "CBN",
-                "total_episodes": 186,
-                "type": "show",
-                "uri": "spotify:show:36fAENA2LHDy6rZ0l1z5Ce"
-            },
-            {
-                "copyrights": [],
-                "description": "Note: The TDS podcast's current run has ended.   Researchers and business leaders at the forefront of the field unpack the most pressing questions around data science and AI.",
-                "explicit": false,
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/show/63diy2DtpHzQfeNVxAPZgU"
-                },
-                "href": "https://api.spotify.com/v1/shows/63diy2DtpHzQfeNVxAPZgU",
-                "html_description": "Note: The TDS podcast&#39;s current run has ended. <br/>Researchers and business leaders at the forefront of the field unpack the most pressing questions around data science and AI.",
-                "id": "63diy2DtpHzQfeNVxAPZgU",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab6765630000ba8a18dabc3d34415645052250fe",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67656300005f1f18dabc3d34415645052250fe",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab6765630000f68d18dabc3d34415645052250fe",
-                        "width": 64
-                    }
-                ],
-                "is_externally_hosted": false,
-                "languages": [
-                    "en-US"
-                ],
-                "media_type": "audio",
-                "name": "Towards Data Science",
-                "publisher": "The TDS team ",
-                "total_episodes": 130,
-                "type": "show",
-                "uri": "spotify:show:63diy2DtpHzQfeNVxAPZgU"
-            },
-            {
-                "copyrights": [],
-                "description": "Toda quarta-feira no Dev Sem Fronteiras você escuta histórias de devs que saíram do Brasil para trabalhar em outros países. Descubra como funcionam os processos de imigração, os testes das empresas, como é se adaptar no exterior, custo de vida de diferentes países, como é fazer amizades e, é claro, os perrengues dos brasileiros na gringa.",
-                "explicit": false,
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/show/3WsvUbTh7M1Rsw6lOGwYtk"
-                },
-                "href": "https://api.spotify.com/v1/shows/3WsvUbTh7M1Rsw6lOGwYtk",
-                "html_description": "Toda quarta-feira no Dev Sem Fronteiras você escuta histórias de devs que saíram do Brasil para trabalhar em outros países. Descubra como funcionam os processos de imigração, os testes das empresas, como é se adaptar no exterior, custo de vida de diferentes países, como é fazer amizades e, é claro, os perrengues dos brasileiros na gringa.",
-                "id": "3WsvUbTh7M1Rsw6lOGwYtk",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab6765630000ba8af971716039c1218048ae0130",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67656300005f1ff971716039c1218048ae0130",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab6765630000f68df971716039c1218048ae0130",
-                        "width": 64
-                    }
-                ],
-                "is_externally_hosted": false,
-                "languages": [
-                    "pt-BR"
-                ],
-                "media_type": "audio",
-                "name": "Dev Sem Fronteiras",
-                "publisher": "Alura - Hipsters Network",
-                "total_episodes": 213,
-                "type": "show",
-                "uri": "spotify:show:3WsvUbTh7M1Rsw6lOGwYtk"
+                "uri": "spotify:show:1BZN7H3ikovSejhwQTzNm4"
             },
             {
                 "copyrights": [],
@@ -992,28 +878,28 @@
             },
             {
                 "copyrights": [],
-                "description": "Os gêmeos Ricardo e Roberto Dias, programadores há mais de 15 anos, discutem de forma descontraída as dúvidas mais comuns (ou polêmicas) de programadores iniciantes.",
+                "description": "Bate papo sobre Inteligência Artificial para pessoas comuns abordando notícias, ferramentas e todas as formas que a Inteligência Artificial vai mudar nossa vida.",
                 "explicit": false,
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/show/2kCrTjsGn431qiGpl9quAl"
+                    "spotify": "https://open.spotify.com/show/3lyrnNKGPqdVgmsBUPxvmf"
                 },
-                "href": "https://api.spotify.com/v1/shows/2kCrTjsGn431qiGpl9quAl",
-                "html_description": "Os gêmeos Ricardo e Roberto Dias, programadores há mais de 15 anos, discutem de forma descontraída as dúvidas mais comuns (ou polêmicas) de programadores iniciantes.",
-                "id": "2kCrTjsGn431qiGpl9quAl",
+                "href": "https://api.spotify.com/v1/shows/3lyrnNKGPqdVgmsBUPxvmf",
+                "html_description": "Bate papo sobre Inteligência Artificial para pessoas comuns abordando notícias, ferramentas e todas as formas que a Inteligência Artificial vai mudar nossa vida.",
+                "id": "3lyrnNKGPqdVgmsBUPxvmf",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab6765630000ba8afe3af07f857372d9079cdd65",
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a37c4ce83b7347323b1dcca5f",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67656300005f1ffe3af07f857372d9079cdd65",
+                        "url": "https://i.scdn.co/image/ab67656300005f1f37c4ce83b7347323b1dcca5f",
                         "width": 300
                     },
                     {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab6765630000f68dfe3af07f857372d9079cdd65",
+                        "url": "https://i.scdn.co/image/ab6765630000f68d37c4ce83b7347323b1dcca5f",
                         "width": 64
                     }
                 ],
@@ -1022,49 +908,49 @@
                     "pt-BR"
                 ],
                 "media_type": "mixed",
-                "name": "Podcast Dev em Dobro",
-                "publisher": "Dev em Dobro - Ricardo e Roberto Dias",
-                "total_episodes": 142,
+                "name": "Papo de IA - Inteligência Artificial",
+                "publisher": "Danilo Gato Medeiros",
+                "total_episodes": 104,
                 "type": "show",
-                "uri": "spotify:show:2kCrTjsGn431qiGpl9quAl"
+                "uri": "spotify:show:3lyrnNKGPqdVgmsBUPxvmf"
             },
             {
                 "copyrights": [],
-                "description": "Resumos dos capítulos do livro Engenharia de Software Moderna, gerados por IA. Conteúdo recomendado principalmente para estudantes e iniciantes na área.",
+                "description": "Os comentários, entrevistas e reportagens sobre a vida digital na CBN.",
                 "explicit": false,
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/show/4yEKBtRMbtwLtgXP8Gq0Fa"
+                    "spotify": "https://open.spotify.com/show/36fAENA2LHDy6rZ0l1z5Ce"
                 },
-                "href": "https://api.spotify.com/v1/shows/4yEKBtRMbtwLtgXP8Gq0Fa",
-                "html_description": "Resumos dos capítulos do livro Engenharia de Software Moderna, gerados por IA. Conteúdo recomendado principalmente para estudantes e iniciantes na área.",
-                "id": "4yEKBtRMbtwLtgXP8Gq0Fa",
+                "href": "https://api.spotify.com/v1/shows/36fAENA2LHDy6rZ0l1z5Ce",
+                "html_description": "Os comentários, entrevistas e reportagens sobre a vida digital na CBN.",
+                "id": "36fAENA2LHDy6rZ0l1z5Ce",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab6765630000ba8ae775556a82518453e4149a51",
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a26fdfae8088daead0a820e38",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67656300005f1fe775556a82518453e4149a51",
+                        "url": "https://i.scdn.co/image/ab67656300005f1f26fdfae8088daead0a820e38",
                         "width": 300
                     },
                     {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab6765630000f68de775556a82518453e4149a51",
+                        "url": "https://i.scdn.co/image/ab6765630000f68d26fdfae8088daead0a820e38",
                         "width": 64
                     }
                 ],
                 "is_externally_hosted": false,
                 "languages": [
-                    "pt-BR"
+                    "pt"
                 ],
                 "media_type": "audio",
-                "name": "Engenharia de Software Moderna",
-                "publisher": "engsoftmoderna.info",
-                "total_episodes": 84,
+                "name": "Tecnologia",
+                "publisher": "CBN",
+                "total_episodes": 188,
                 "type": "show",
-                "uri": "spotify:show:4yEKBtRMbtwLtgXP8Gq0Fa"
+                "uri": "spotify:show:36fAENA2LHDy6rZ0l1z5Ce"
             },
             {
                 "copyrights": [],
@@ -1220,6 +1106,82 @@
             },
             {
                 "copyrights": [],
+                "description": "Ferramentas digitais e novidades do mundo tecnológico.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/6YdK60YMpc6miHuXIURtrc"
+                },
+                "href": "https://api.spotify.com/v1/shows/6YdK60YMpc6miHuXIURtrc",
+                "html_description": "Ferramentas digitais e novidades do mundo tecnológico.",
+                "id": "6YdK60YMpc6miHuXIURtrc",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a6df19ac04ceb155f1eb9c06f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1f6df19ac04ceb155f1eb9c06f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68d6df19ac04ceb155f1eb9c06f",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt"
+                ],
+                "media_type": "audio",
+                "name": "Pedro Doria - Vida Digital CBN",
+                "publisher": "CBN",
+                "total_episodes": 46,
+                "type": "show",
+                "uri": "spotify:show:6YdK60YMpc6miHuXIURtrc"
+            },
+            {
+                "copyrights": [],
+                "description": "Toda quarta-feira no Dev Sem Fronteiras você escuta histórias de devs que saíram do Brasil para trabalhar em outros países. Descubra como funcionam os processos de imigração, os testes das empresas, como é se adaptar no exterior, custo de vida de diferentes países, como é fazer amizades e, é claro, os perrengues dos brasileiros na gringa.",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/3WsvUbTh7M1Rsw6lOGwYtk"
+                },
+                "href": "https://api.spotify.com/v1/shows/3WsvUbTh7M1Rsw6lOGwYtk",
+                "html_description": "Toda quarta-feira no Dev Sem Fronteiras você escuta histórias de devs que saíram do Brasil para trabalhar em outros países. Descubra como funcionam os processos de imigração, os testes das empresas, como é se adaptar no exterior, custo de vida de diferentes países, como é fazer amizades e, é claro, os perrengues dos brasileiros na gringa.",
+                "id": "3WsvUbTh7M1Rsw6lOGwYtk",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8af971716039c1218048ae0130",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1ff971716039c1218048ae0130",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68df971716039c1218048ae0130",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt-BR"
+                ],
+                "media_type": "audio",
+                "name": "Dev Sem Fronteiras",
+                "publisher": "Alura - Hipsters Network",
+                "total_episodes": 214,
+                "type": "show",
+                "uri": "spotify:show:3WsvUbTh7M1Rsw6lOGwYtk"
+            },
+            {
+                "copyrights": [],
                 "description": "Cyber risk resilience for executives. Hackers are winning and lawmakers are taking action with new cyber risk mandates. In an increasingly internet delivered world, new cyberlaws and regulations with steep sanctions have been levied against leaders unable to prove their reasonable governance of the data privacy and cybersecurity problems. With cyber threats evolving at an alarming pace, cyber risk awareness and governance is needed as compliance alone is no longer enough for all businesses. Gone are the days of dry, technical jargon. At Navigating Cyber Risk, we understand the importance of making cybersecurity governance relevant to the executive suite and the board, as they can be held personally responsible for when hackers succeed. Our podcast combines expert insights with captivating storytelling, ensuring each episode is both educational and entertaining. From intriguing case studies and methods to monetize cyber risks to deep dives into emerging technologies and governance regul...",
                 "explicit": false,
                 "external_urls": {
@@ -1258,41 +1220,79 @@
             },
             {
                 "copyrights": [],
-                "description": "American companies, whole towns, have been eviscerated by Chinese cyberattacks. But their stories remain untold, even as the stakes get higher and the targets more reckless.  To Catch a Thief is a first-of-its-kind, documentary look at China’s rise to cyber supremacy. This podcast charts the evolution of China’s state-sponsored hackers, from their beginnings as “the most polite, mediocre hackers in cyberspace” to the “apex predator” that now haunts America’s critical infrastructure.   Host Nicole Perlroth, bestselling author and former lead cybersecurity and digital espionage reporter for The New York Times, interviews those who were victimized, and instrumental in tracking, Chinese cyberattacks as the threat morphed from trade secret theft, to blanket surveillance, to pre-positioning in America’s critical infrastructure. For what purpose? To Catch a Thief interrogates the motives behind it all.  This audio documentary is produced by Rubrik, the leading data security company that delivers cyber resilience for businesses around the world.",
+                "description": "Os gêmeos Ricardo e Roberto Dias, programadores há mais de 15 anos, discutem de forma descontraída as dúvidas mais comuns (ou polêmicas) de programadores iniciantes.",
                 "explicit": false,
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/show/1xFnf1ReS81p79TtR7f6vj"
+                    "spotify": "https://open.spotify.com/show/2kCrTjsGn431qiGpl9quAl"
                 },
-                "href": "https://api.spotify.com/v1/shows/1xFnf1ReS81p79TtR7f6vj",
-                "html_description": "<p>American companies, whole towns, have been eviscerated by Chinese cyberattacks. But their stories remain untold, even as the stakes get higher and the targets more reckless.</p><p><br /></p><p>To Catch a Thief is a first-of-its-kind, documentary look at China’s rise to cyber supremacy. This podcast charts the evolution of China’s state-sponsored hackers, from their beginnings as “the most polite, mediocre hackers in cyberspace” to the “apex predator” that now haunts America’s critical infrastructure. </p><p><br /></p><p>Host Nicole Perlroth, bestselling author and former lead cybersecurity and digital espionage reporter for The New York Times, interviews those who were victimized, and instrumental in tracking, Chinese cyberattacks as the threat morphed from trade secret theft, to blanket surveillance, to pre-positioning in America’s critical infrastructure. For what purpose? To Catch a Thief interrogates the motives behind it all.</p><p><br /></p><p>This audio documentary is produced by <a href=\"https://www.rubrik.com/\" rel=\"nofollow\">Rubrik</a>, the leading data security company that delivers cyber resilience for businesses around the world.</p>",
-                "id": "1xFnf1ReS81p79TtR7f6vj",
+                "href": "https://api.spotify.com/v1/shows/2kCrTjsGn431qiGpl9quAl",
+                "html_description": "Os gêmeos Ricardo e Roberto Dias, programadores há mais de 15 anos, discutem de forma descontraída as dúvidas mais comuns (ou polêmicas) de programadores iniciantes.",
+                "id": "2kCrTjsGn431qiGpl9quAl",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab6765630000ba8a0b834582cc049f33b0199f18",
+                        "url": "https://i.scdn.co/image/ab6765630000ba8afe3af07f857372d9079cdd65",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67656300005f1f0b834582cc049f33b0199f18",
+                        "url": "https://i.scdn.co/image/ab67656300005f1ffe3af07f857372d9079cdd65",
                         "width": 300
                     },
                     {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab6765630000f68d0b834582cc049f33b0199f18",
+                        "url": "https://i.scdn.co/image/ab6765630000f68dfe3af07f857372d9079cdd65",
                         "width": 64
                     }
                 ],
                 "is_externally_hosted": false,
                 "languages": [
-                    "en"
+                    "pt-BR"
                 ],
                 "media_type": "mixed",
-                "name": "To Catch a Thief: China’s Rise to Cyber Supremacy",
-                "publisher": "Rubrik | Nicole Perlroth | Pod People",
-                "total_episodes": 11,
+                "name": "Podcast Dev em Dobro",
+                "publisher": "Dev em Dobro - Ricardo e Roberto Dias",
+                "total_episodes": 142,
                 "type": "show",
-                "uri": "spotify:show:1xFnf1ReS81p79TtR7f6vj"
+                "uri": "spotify:show:2kCrTjsGn431qiGpl9quAl"
+            },
+            {
+                "copyrights": [],
+                "description": "Bom dia Tech! Tudo bem? Sejam bem-vindos ao seu podcast diário, de segunda a sexta, com as principais notícias de tecnologia do momento!",
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/5rpatrW6OKU2gj6jCNKkO6"
+                },
+                "href": "https://api.spotify.com/v1/shows/5rpatrW6OKU2gj6jCNKkO6",
+                "html_description": "Bom dia Tech! Tudo bem?<br/>Sejam bem-vindos ao seu podcast diário, de segunda a sexta, com as principais notícias de tecnologia do momento!",
+                "id": "5rpatrW6OKU2gj6jCNKkO6",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8aaf662190c2a00d9945757722",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1faf662190c2a00d9945757722",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68daf662190c2a00d9945757722",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "pt"
+                ],
+                "media_type": "mixed",
+                "name": "Bom dia Tech",
+                "publisher": "Arthur Givigir",
+                "total_episodes": 577,
+                "type": "show",
+                "uri": "spotify:show:5rpatrW6OKU2gj6jCNKkO6"
             },
             {
                 "copyrights": [],
@@ -1334,41 +1334,79 @@
             },
             {
                 "copyrights": [],
-                "description": "Als journalist Eline Ronner op zoek gaat naar haar gestolen bitcoin, raakt ze via blockchainanalyse verstrikt in een witwasweb. Van het Kremlin tot het Witte Huis, iedereen lijkt te jagen op de miljardenbuit. Het verhaal In 2014 raakt Eline Ronner een paar bitcoins kwijt die ze heeft gestald bij MtGox, de eerste grote beurs waarop je in cryptovaluta kunt handelen. Helaas blijkt MtGox het slachtoffer van misschien wel de grootste en de beste bitcoin-roof aller tijden. Uit blockchain-analyse blijkt dat hackers MtGox volledig hebben leeggeroofd. In totaal is er voor tientallen miljarden euro’s uit de virtuele kluis van de beurs verdwenen. MtGox is slachtoffer van misschien wel de grootste en beste bitcoin roof aller tijden. De daders zijn nooit gepakt. In de podcast serie 'De Koude Crypto-oorlog' volgt Eline door middel van blockchain analyse het spoor van de gestolen bitcoins uit de virtuele kluis van MtGox. Dit verhaal begint als een ordinaire cybercrime. Een diefstal. Een oude zaak. Inmiddels meer dan tien jaar geleden. Maar, wat als een diefstal begint, ontwikkelt zich tot een geopolitieke thriller die doet denken aan de Koude Oorlog. Het is een verhaal over gestolen bitcoins en een oorlog die niemand zag, tot nu. Abonneer je op De Koude Crypto-oorlog en mis niets. Wat is Blockchain analyseBlockchain analyse heeft een grote rol gespeeld in de research voor deze podcast. Een blockchain is in feite een gedistribueerd grootboeksysteem dat bestaat uit blokken met goedgekeurde transacties. Deze technologie wordt vaak gebruikt in cryptovaluta zoals Bitcoin. Iedere bitcoin transactie wordt vastgelegd in de blockchain. Je ziet bijvoorbeeld dat op een bepaald tijdstip adres A, 1 bitcoin heeft gestuurd naar adres B. Iedereen kan daarin grasduinen. Met blockchain analyse kunnen onderzoekers gegevens uit de blockchain halen en deze analyseren om informatie te krijgen en te duiden over transacties. Over Eline Ronner:Eline Ronner is bedrijfskundige en zelfstandig podcastmaker. Bovendien is zij als eindredacteur inhoudelijk verantwoordelijk voor de podcastserie ‘Het Nieuwe Geld’ over de toekomst van ons geldstelsel en de financiële sector. Voorheen werkte Eline bij BNR als eindredacteur podcast. Daarvoor was zij consultant en freelance journalist bij onder meer Business Insider, Omroep WNL en Management Team. Altijd multimediaal maar met een sterke focus op economie en zakelijk nieuws.  Mede tot stand gekomen via het Fonds Bijzondere Journalistieke ProjectenDe Koude Crypto-oorlog is tot stand gekomen met steun van het Fonds Bijzondere Journalistieke Projecten. Voor deze podcast heeft Eline ruim een jaar lang onderzoek gedaan. Zowel online, als offline. Eline heeft gesproken met tientallen bronnen, boeken gelezen, juridische documenten doorgespit en -deels geautomatiseerd- het net afgestruind. Haar datasets passen inmiddels niet meer in Excel. Dit alles heeft als basis gediend voor de inhoud van deze podcast.  ",
+                "description": "American companies, whole towns, have been eviscerated by Chinese cyberattacks. But their stories remain untold, even as the stakes get higher and the targets more reckless.  To Catch a Thief is a first-of-its-kind, documentary look at China’s rise to cyber supremacy. This podcast charts the evolution of China’s state-sponsored hackers, from their beginnings as “the most polite, mediocre hackers in cyberspace” to the “apex predator” that now haunts America’s critical infrastructure.   Host Nicole Perlroth, bestselling author and former lead cybersecurity and digital espionage reporter for The New York Times, interviews those who were victimized, and instrumental in tracking, Chinese cyberattacks as the threat morphed from trade secret theft, to blanket surveillance, to pre-positioning in America’s critical infrastructure. For what purpose? To Catch a Thief interrogates the motives behind it all.  This audio documentary is produced by Rubrik, the leading data security company that delivers cyber resilience for businesses around the world.",
                 "explicit": false,
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/show/6UtYPSqhYuGoU6KVV8ZbAY"
+                    "spotify": "https://open.spotify.com/show/1xFnf1ReS81p79TtR7f6vj"
                 },
-                "href": "https://api.spotify.com/v1/shows/6UtYPSqhYuGoU6KVV8ZbAY",
-                "html_description": "<p>Als journalist Eline Ronner op zoek gaat naar haar gestolen bitcoin, raakt ze via blockchainanalyse verstrikt in een witwasweb. Van het Kremlin tot het Witte Huis, iedereen lijkt te jagen op de miljardenbuit.</p><br/><p>Het verhaal</p><br/><p>In 2014 raakt Eline Ronner een paar bitcoins kwijt die ze heeft gestald bij MtGox, de eerste grote beurs waarop je in cryptovaluta kunt handelen. Helaas blijkt MtGox het slachtoffer van misschien wel de grootste en de beste bitcoin-roof aller tijden.</p><br/><p>Uit blockchain-analyse blijkt dat hackers MtGox volledig hebben leeggeroofd. In totaal is er voor tientallen miljarden euro’s uit de virtuele kluis van de beurs verdwenen.</p><br/><p>MtGox is slachtoffer van misschien wel de grootste en beste bitcoin roof aller tijden. De daders zijn nooit gepakt. In de podcast serie &#39;De Koude Crypto-oorlog&#39; volgt Eline door middel van blockchain analyse het spoor van de gestolen bitcoins uit de virtuele kluis van MtGox.</p><br/><p>Dit verhaal begint als een ordinaire cybercrime. Een diefstal. Een oude zaak. Inmiddels meer dan tien jaar geleden. Maar, wat als een diefstal begint, ontwikkelt zich tot een geopolitieke thriller die doet denken aan de Koude Oorlog. Het is een verhaal over gestolen bitcoins en een oorlog die niemand zag, tot nu. Abonneer je op De Koude Crypto-oorlog en mis niets.</p><br/><p>Wat is Blockchain analyse<br />Blockchain analyse heeft een grote rol gespeeld in de research voor deze podcast.</p><br/><p>Een blockchain is in feite een gedistribueerd grootboeksysteem dat bestaat uit blokken met goedgekeurde transacties. Deze technologie wordt vaak gebruikt in cryptovaluta zoals Bitcoin.</p><br/><p>Iedere bitcoin transactie wordt vastgelegd in de blockchain. Je ziet bijvoorbeeld dat op een bepaald tijdstip adres A, 1 bitcoin heeft gestuurd naar adres B. Iedereen kan daarin grasduinen. Met blockchain analyse kunnen onderzoekers gegevens uit de blockchain halen en deze analyseren om informatie te krijgen en te duiden over transacties.</p><br/><p>Over Eline Ronner:<br />Eline Ronner is bedrijfskundige en zelfstandig podcastmaker. Bovendien is zij als eindredacteur inhoudelijk verantwoordelijk voor de podcastserie ‘Het Nieuwe Geld’ over de toekomst van ons geldstelsel en de financiële sector. Voorheen werkte Eline bij BNR als eindredacteur podcast. Daarvoor was zij consultant en freelance journalist bij onder meer Business Insider, Omroep WNL en Management Team. Altijd multimediaal maar met een sterke focus op economie en zakelijk nieuws. </p><br/><p>Mede tot stand gekomen via het Fonds Bijzondere Journalistieke Projecten<br />De Koude Crypto-oorlog is tot stand gekomen met steun van het Fonds Bijzondere Journalistieke Projecten. Voor deze podcast heeft Eline ruim een jaar lang onderzoek gedaan. Zowel online, als offline. Eline heeft gesproken met tientallen bronnen, boeken gelezen, juridische documenten doorgespit en -deels geautomatiseerd- het net afgestruind. Haar datasets passen inmiddels niet meer in Excel. Dit alles heeft als basis gediend voor de inhoud van deze podcast.</p><br/><p> </p>",
-                "id": "6UtYPSqhYuGoU6KVV8ZbAY",
+                "href": "https://api.spotify.com/v1/shows/1xFnf1ReS81p79TtR7f6vj",
+                "html_description": "<p>American companies, whole towns, have been eviscerated by Chinese cyberattacks. But their stories remain untold, even as the stakes get higher and the targets more reckless.</p><p><br /></p><p>To Catch a Thief is a first-of-its-kind, documentary look at China’s rise to cyber supremacy. This podcast charts the evolution of China’s state-sponsored hackers, from their beginnings as “the most polite, mediocre hackers in cyberspace” to the “apex predator” that now haunts America’s critical infrastructure. </p><p><br /></p><p>Host Nicole Perlroth, bestselling author and former lead cybersecurity and digital espionage reporter for The New York Times, interviews those who were victimized, and instrumental in tracking, Chinese cyberattacks as the threat morphed from trade secret theft, to blanket surveillance, to pre-positioning in America’s critical infrastructure. For what purpose? To Catch a Thief interrogates the motives behind it all.</p><p><br /></p><p>This audio documentary is produced by <a href=\"https://www.rubrik.com/\" rel=\"nofollow\">Rubrik</a>, the leading data security company that delivers cyber resilience for businesses around the world.</p>",
+                "id": "1xFnf1ReS81p79TtR7f6vj",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab6765630000ba8a5b7632301d61bf5fb6fa9de2",
+                        "url": "https://i.scdn.co/image/ab6765630000ba8a0b834582cc049f33b0199f18",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67656300005f1f5b7632301d61bf5fb6fa9de2",
+                        "url": "https://i.scdn.co/image/ab67656300005f1f0b834582cc049f33b0199f18",
                         "width": 300
                     },
                     {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab6765630000f68d5b7632301d61bf5fb6fa9de2",
+                        "url": "https://i.scdn.co/image/ab6765630000f68d0b834582cc049f33b0199f18",
                         "width": 64
                     }
                 ],
                 "is_externally_hosted": false,
                 "languages": [
-                    "nl-NL"
+                    "en"
                 ],
-                "media_type": "audio",
-                "name": "De koude crypto-oorlog",
-                "publisher": "BNR Nieuwsradio",
-                "total_episodes": 15,
+                "media_type": "mixed",
+                "name": "To Catch a Thief: China’s Rise to Cyber Supremacy",
+                "publisher": "Rubrik | Nicole Perlroth | Pod People",
+                "total_episodes": 11,
                 "type": "show",
-                "uri": "spotify:show:6UtYPSqhYuGoU6KVV8ZbAY"
+                "uri": "spotify:show:1xFnf1ReS81p79TtR7f6vj"
+            },
+            {
+                "copyrights": [],
+                "description": "Bienvenue dans Data Pop, le podcast qui hacke l’info cybersécurité pour la rendre croustillante ! Chaque semaine, on décortique les attaques, failles et coups de génie des hackers, sans jargon plombant. Au menu : anecdotes de pentesters, news zero-day, détours pop culture et tips pour rester safe en ligne. Un shot d’adrénaline numérique servi avec humour, énergie et son sampling 8-bit. Branche tes écouteurs, abonne-toi, et transforme chaque alerte rouge en bonne dose de fun instructif ! Des guests surprise, quiz éclair et débrief pour briller au bureau.",
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/2QAoIKwZK9IgBQZ036EvTQ"
+                },
+                "href": "https://api.spotify.com/v1/shows/2QAoIKwZK9IgBQZ036EvTQ",
+                "html_description": "Bienvenue dans Data Pop, le podcast qui hacke l’info cybersécurité pour la rendre croustillante ! Chaque semaine, on décortique les attaques, failles et coups de génie des hackers, sans jargon plombant. Au menu : anecdotes de pentesters, news zero-day, détours pop culture et tips pour rester safe en ligne. Un shot d’adrénaline numérique servi avec humour, énergie et son sampling 8-bit. Branche tes écouteurs, abonne-toi, et transforme chaque alerte rouge en bonne dose de fun instructif ! Des guests surprise, quiz éclair et débrief pour briller au bureau.",
+                "id": "2QAoIKwZK9IgBQZ036EvTQ",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8acfc7cdc356b0f79fe0f69fd2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fcfc7cdc356b0f79fe0f69fd2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68dcfc7cdc356b0f79fe0f69fd2",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "fr"
+                ],
+                "media_type": "mixed",
+                "name": "DATA POP",
+                "publisher": "Clara_lrc5",
+                "total_episodes": 1,
+                "type": "show",
+                "uri": "spotify:show:2QAoIKwZK9IgBQZ036EvTQ"
             },
             {
                 "copyrights": [],
@@ -1486,44 +1524,6 @@
             },
             {
                 "copyrights": [],
-                "description": "Bienvenue dans Data Pop, le podcast qui hacke l’info cybersécurité pour la rendre croustillante ! Chaque semaine, on décortique les attaques, failles et coups de génie des hackers, sans jargon plombant. Au menu : anecdotes de pentesters, news zero-day, détours pop culture et tips pour rester safe en ligne. Un shot d’adrénaline numérique servi avec humour, énergie et son sampling 8-bit. Branche tes écouteurs, abonne-toi, et transforme chaque alerte rouge en bonne dose de fun instructif ! Des guests surprise, quiz éclair et débrief pour briller au bureau.",
-                "explicit": true,
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/show/2QAoIKwZK9IgBQZ036EvTQ"
-                },
-                "href": "https://api.spotify.com/v1/shows/2QAoIKwZK9IgBQZ036EvTQ",
-                "html_description": "Bienvenue dans Data Pop, le podcast qui hacke l’info cybersécurité pour la rendre croustillante ! Chaque semaine, on décortique les attaques, failles et coups de génie des hackers, sans jargon plombant. Au menu : anecdotes de pentesters, news zero-day, détours pop culture et tips pour rester safe en ligne. Un shot d’adrénaline numérique servi avec humour, énergie et son sampling 8-bit. Branche tes écouteurs, abonne-toi, et transforme chaque alerte rouge en bonne dose de fun instructif ! Des guests surprise, quiz éclair et débrief pour briller au bureau.",
-                "id": "2QAoIKwZK9IgBQZ036EvTQ",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab6765630000ba8acfc7cdc356b0f79fe0f69fd2",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67656300005f1fcfc7cdc356b0f79fe0f69fd2",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab6765630000f68dcfc7cdc356b0f79fe0f69fd2",
-                        "width": 64
-                    }
-                ],
-                "is_externally_hosted": false,
-                "languages": [
-                    "fr"
-                ],
-                "media_type": "mixed",
-                "name": "DATA POP",
-                "publisher": "Clara_lrc5",
-                "total_episodes": 1,
-                "type": "show",
-                "uri": "spotify:show:2QAoIKwZK9IgBQZ036EvTQ"
-            },
-            {
-                "copyrights": [],
                 "description": "Welcome to Ethical Data, Explained, where we delve into the world of data and data collection.  In our podcast, we aim to debunk common myths surrounding web scraping and answer burning questions like: Is web scraping legal? Is it ethical to use proxies for data collection? Why do companies scrape data? etc. We invite tech entrepreneurs, data security experts, lawmakers, and hackers to look at data and public data collection from various points of view to unlock safe and ethical web scraping for businesses.  Join us as we chat with experts about data, web scraping, proxies, ethics, and security.",
                 "explicit": false,
                 "external_urls": {
@@ -1597,6 +1597,44 @@
                 "total_episodes": 1,
                 "type": "show",
                 "uri": "spotify:show:2veFhfzXzawPeo7bGJ7e66"
+            },
+            {
+                "copyrights": [],
+                "description": "This is the ad free and bonus episode feed of Darknet Diaries. Explore the dark side of the Internet with host Jack Rhysider as he takes you on a journey through the chilling world of privacy hacks, data breaches, and cyber crime. The masterful criminal hackers who dwell on the dark side show us just how vulnerable we all are.",
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/show/2N72j63hJ1fH5dyzu7ReLB"
+                },
+                "href": "https://api.spotify.com/v1/shows/2N72j63hJ1fH5dyzu7ReLB",
+                "html_description": "This is the ad free and bonus episode feed of Darknet Diaries. Explore the dark side of the Internet with host Jack Rhysider as he takes you on a journey through the chilling world of privacy hacks, data breaches, and cyber crime. The masterful criminal hackers who dwell on the dark side show us just how vulnerable we all are.",
+                "id": "2N72j63hJ1fH5dyzu7ReLB",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6765630000ba8ae7eec8b10d71246f794269af",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67656300005f1fe7eec8b10d71246f794269af",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab6765630000f68de7eec8b10d71246f794269af",
+                        "width": 64
+                    }
+                ],
+                "is_externally_hosted": false,
+                "languages": [
+                    "en"
+                ],
+                "media_type": "audio",
+                "name": "Darknet Diaries Plus",
+                "publisher": "Jack Rhysider",
+                "total_episodes": 175,
+                "type": "show",
+                "uri": "spotify:show:2N72j63hJ1fH5dyzu7ReLB"
             },
             {
                 "copyrights": [],
@@ -1828,44 +1866,6 @@
             },
             {
                 "copyrights": [],
-                "description": "This is the ad free and bonus episode feed of Darknet Diaries. Explore the dark side of the Internet with host Jack Rhysider as he takes you on a journey through the chilling world of privacy hacks, data breaches, and cyber crime. The masterful criminal hackers who dwell on the dark side show us just how vulnerable we all are.",
-                "explicit": true,
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/show/2N72j63hJ1fH5dyzu7ReLB"
-                },
-                "href": "https://api.spotify.com/v1/shows/2N72j63hJ1fH5dyzu7ReLB",
-                "html_description": "This is the ad free and bonus episode feed of Darknet Diaries. Explore the dark side of the Internet with host Jack Rhysider as he takes you on a journey through the chilling world of privacy hacks, data breaches, and cyber crime. The masterful criminal hackers who dwell on the dark side show us just how vulnerable we all are.",
-                "id": "2N72j63hJ1fH5dyzu7ReLB",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab6765630000ba8ae7eec8b10d71246f794269af",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67656300005f1fe7eec8b10d71246f794269af",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab6765630000f68de7eec8b10d71246f794269af",
-                        "width": 64
-                    }
-                ],
-                "is_externally_hosted": false,
-                "languages": [
-                    "en"
-                ],
-                "media_type": "audio",
-                "name": "Darknet Diaries Plus",
-                "publisher": "Jack Rhysider",
-                "total_episodes": 175,
-                "type": "show",
-                "uri": "spotify:show:2N72j63hJ1fH5dyzu7ReLB"
-            },
-            {
-                "copyrights": [],
                 "description": "In the shadows of the digital world, where anonymity is power and information is currency, battle lines are drawn not with bullets but with code. This show takes listeners deep into the heart of cyberspace’s most high-stakes confrontations — where rogue programmers exploit vulnerabilities, corporations scramble to secure their data empires, and government agencies wage invisible wars across invisible lines. It’s a realm shaped by encryption, espionage, whistleblowers, and wild ambition. From black hat exploits to state-sponsored surveillance, every episode explores the blurred boundaries between ethics and law, privacy and paranoia, control and chaos. This isn’t just about computers — it’s about the future of power itself.  Join as we uncover 11 million untold true stories.  Disclosure Statement: The National Media Archive and affiliated programs use Artificial Intelligence throughout areas of research, production, and editing. These tools are actively embraced as part of our approach to development and workflow. All outputs are subject to human review to ensure they meet our editorial standards. For more information about our use of AI, please visit our website at NationalMediaArchive.com/ai",
                 "explicit": false,
                 "external_urls": {
@@ -1907,6 +1907,6 @@
         "next": "https://api.spotify.com/v1/search?offset=50&limit=50&query=data%20hackers&type=show&market=BR",
         "offset": 0,
         "previous": null,
-        "total": 875
+        "total": 873
     }
 }

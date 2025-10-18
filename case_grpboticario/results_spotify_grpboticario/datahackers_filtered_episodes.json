@@ -1,0 +1,502 @@
+[
+    {
+        "description": "A inteligência de dados está remodelando indústrias inteiras, e o jornalismo é um dos exemplos mais fascinantes dessa transformação!Neste episódio, contamos como a EPTV, uma das maiores afiliadas da Rede Globo, está reinventando a forma de produzir notícia com a criação de um Núcleo de Jornalismo de Dados em parceria com a Snowflake. Um projeto que combina tecnologia, inteligência artificial e análise de dados para transformar informações públicas em reportagens mais precisas, ágeis e relevantes.Exploramos como essa estrutura nasceu, os desafios de implementar uma cultura orientada a dados e o papel da Snowflake na automatização do acesso a informações, integração de fontes e uso de IA contextual para antecipar tendências e apoiar decisões editoriais.Se você quer entender como dados e IA estão moldando o futuro do jornalismo e inspirando novas formas de contar histórias, esse episódio é para você!Lembrando que você pode encontrar todos os podcasts da comunidade Data Hackers no Spotify, iTunes, Google Podcast, Castbox e muitas outras plataformas.Convidados:Marcelo Manzano - Gerente do time de Solutions Engineering na Snowflake BrasilBruno Woth - Gerente de Dados e Desenvolvimento na EPTVNossa Bancada Data Hackers:Monique Femme — Head of Community Management na Data HackersGabriel Lages — Co-founder da Data Hackers e Data & Analytics Sr. Director na Hotmart.Referências:GRUPO EP - Empresas PioneirasSnowflake",
+        "duration_ms": 2883187,
+        "explicit": false,
+        "id": "3zAVaMwDAdCOB0sm27V6BA",
+        "language": "pt-BR",
+        "name": "Jornalismo de Dados: Como a EPTV usa Snowflake para inovar o jornalismo - Data Hackers Podcast #116",
+        "release_date": "2025-10-17",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Matérias/assuntos comentados:Demais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 518582,
+        "explicit": false,
+        "id": "1fGu94qcDeg8zNtduxGerJ",
+        "language": "pt-BR",
+        "name": "Apple pivota o Vision Pro e aposta em óculos com IA; O fim da Web tradicional e Google é o principal agente de transformação - Data Hackers News #95:",
+        "release_date": "2025-10-15",
+        "type": "episode"
+    },
+    {
+        "description": "Como a Inteligência Artificial se materializa em produtos e experiências reais para clientes?Neste episódio, conversamos com as lideranças por trás da Inteligência Itaú, a iniciativa que está transformando a forma como o banco integra IA em suas operações e no SuperApp Itaú.Falamos sobre como nasceu essa jornada, desde as primeiras experimentações com IA generativa até o lançamento de soluções que marcaram um ponto de virada na forma de entregar conveniência e personalização ao cliente. Além disso, também exploramos a arquitetura multiagente que sustenta a Inteligência Itaú e as novas frentes em expansão.Lembrando que você pode encontrar todos os podcasts da comunidade Data Hackers no Spotify, iTunes, Google Podcast, Castbox e muitas outras plataformas.Convidados:Cadu Mazzei - CTOGiovanna Braccialli - CIOAlina Pavan - CIONossa Bancada Data Hackers:Paulo Vasconcellos — Co-founder da Data Hackers e Principal Data Scientist na Hotmart.Monique Femme — Head of Community Management na Data HackersReferências:Lançamento da primeira solução Pix no WhatsApp;Lançamento da Inteligência de Investimentos;Lançamento da Itaú EMPs, voltada para clientes PJ;Episódio 102 Data Hackers;Publicação Deep fake com MTI;Saiba mais sobre o Meetup Itaú Data.",
+        "duration_ms": 2781231,
+        "explicit": false,
+        "id": "0lz3fgndDGa7xxOxX0WqIc",
+        "language": "pt-BR",
+        "name": "Como o Itaú Utilizou Multiagentes para Desenvolver a Inteligência Itaú - Data Hackers Podcast #115",
+        "release_date": "2025-10-10",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Matérias/assuntos comentados:Demais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 411951,
+        "explicit": false,
+        "id": "5MYFgVaCI6zHvuovmoZ9QS",
+        "language": "pt-BR",
+        "name": "Hollywood pressiona OpenAI por uso do Sora 2 em vídeos com direitos autorais; Elon Musk quer criar primeiro game totalmente por AI até 2026 - Data Hackers News #94 ",
+        "release_date": "2025-10-09",
+        "type": "episode"
+    },
+    {
+        "description": "Você já pensou em como a Inteligência Artificial generativa está transformando o jeito que grandes empresas criam produtos digitais?Neste episódio, conversamos com o time do Grupo Boticário para entender como a companhia está unindo tecnologia e inovação para transformar o futuro da beleza. Exploramos como a GenAI vem impulsionando o desenvolvimento de produtos digitais e potencializando o trabalho de analistas, times de produto e engenharia com ferramentas.Falamos sobre os bastidores da Semana de IA GB, os aprendizados que ela trouxe para o negócio e como a GenAI está ajudando os times a ganharem eficiência e profundidade nas análises.Se você quer entender como uma das maiores empresas de beleza do país está moldando sua cultura de produto e engenharia para o futuro, esse episódio é para você!Lembrando que você pode encontrar todos os podcasts da comunidade Data Hackers no Spotify, iTunes, Google Podcast, Castbox e muitas outras plataformas.Convidados:Bruno Fuzetti Penso - Gerente Sênior de PlataformaThayana Borba - Gerente Sênior de Produtos DigitaisJoão Alves De Oliveira Neto - Gerente Sênior Produtos de DadosNossa Bancada Data Hackers:Paulo Vasconcellos — Co-founder da Data Hackers e Principal Data Scientist na Hotmart.Monique Femme — Head of Community Management na Data HackersCanais do Grupo Boticário:LinkedIn do GBPágina de vagas do GBInstagram do GBReferências:Plataforma de Desenvolvimento (Alquimia)https://github.com/customer-stories/grupoboticariohttps://medium.com/gbtech/plataforma-do-desenvolvimento-grupo-botic%C3%A1rio-61b1aaddbc9bhttps://medium.com/gbtech/opentelemetry-na-nova-plataforma-de-integra%C3%A7%C3%A3o-350e744b6a5fhttps://aws.amazon.com/pt/solutions/case-studies/grupo-boticario-summit/",
+        "duration_ms": 3259637,
+        "explicit": false,
+        "id": "5EFhEvCltCzgDxpR7D01RV",
+        "language": "pt-BR",
+        "name": "Como o Grupo Boticário está criando produtos digitais com GenAI - Podcast Data Hackers #114",
+        "release_date": "2025-10-03",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Matérias/assuntos comentados:Demais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 401449,
+        "explicit": false,
+        "id": "2lyhr6kCoiMj9lroCoG1D3",
+        "language": "pt-BR",
+        "name": "OpenAI no lançamento do ChatGPT Pulse; Trump assina decreto que abre caminho para a venda do TikTok nos EUA - Data Hackers News #93",
+        "release_date": "2025-10-02",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo Vasconcellos Demais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 1168822,
+        "explicit": false,
+        "id": "21QQl7RneekE4O4VLKFXBm",
+        "language": "pt-BR",
+        "name": "⁠Airpods Pro 3 com tradução simultâne a via IA ; xAI demite 500 pessoas responsáveis por treinar Grok - Data Hackers News #92",
+        "release_date": "2025-09-17",
+        "type": "episode"
+    },
+    {
+        "description": "Você já parou para pensar quais viéses seu algoritmo pode carregar e como isso impacta suas análises?Neste episódio, conversamos com Andressa Freires, fundadora da diversiData e Data Science Specialist, sobre como as perspectivas dos desenvolvedores de AIs e modelos podem transpassar no conteúdo criado por essas tecnologias. Além disso, discutimos como a falta de diversidade pode impactar as ferramentas que são amplamente utilizadas pelo mundo e as consequências desse movimento.Lembrando que você pode encontrar todos os podcasts da comunidade Data Hackers no Spotify, iTunes, Google Podcast, Castbox e muitas outras plataformas.Nossa Bancada Data Hackers:Paulo Vasconcellos — Co-founder da Data Hackers e Principal Data Scientist na Hotmart.Monique Femme — Head of Community Management na Data HackersReferências:https://mitsloanreview.com.br/quebrando-correntes-e-liderando-com-proposito/https://linktr.ee/diversidatahttps://www.amazon.com/Unmasking-AI-Mission-Protect-Machines/dp/0593241835https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815",
+        "duration_ms": 3782504,
+        "explicit": false,
+        "id": "6I6B8NxZr9UNMvx4bTh8E8",
+        "language": "pt-BR",
+        "name": "Viéses algorítmicos e Responsible AI- Data Hackers Podcast #113 ",
+        "release_date": "2025-09-05",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo Vasconcellos ⁠Matérias/assuntos comentados:Evento Mettup ItaúDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 975046,
+        "explicit": false,
+        "id": "1GpqF1btUOptHovQjbHArp",
+        "language": "pt-BR",
+        "name": "⁠Salesforce demite 4 mil pessoas para substituir por IA ; IA pode ser manipulada sendo elogiada ou ameaçada - Data Hackers News #91",
+        "release_date": "2025-09-03",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Matérias/assuntos comentados:Evento Mettup ItaúMatéria NetflixMatéria CEO da AWSDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 1053701,
+        "explicit": false,
+        "id": "4QucehSmbjehIR92hid4r4",
+        "language": "pt-BR",
+        "name": "Netflix define regras para uso de IA generativa em produções; Trocar júnior por IA é “burrice”, diz CEO da AWS - Data Hackers News #90",
+        "release_date": "2025-08-27",
+        "type": "episode"
+    },
+    {
+        "description": "Como é manter a operação de um dos maiores ecossistemas de mídia da América Latina com uma estratégia de cultura de dados que gera valor de forma responsável?Neste episódio, conversamos com Leonardo Blunk, Felipe Alvarenga e Vicente Cosel Fiebig, da Globo, sobre os aprendizados e reflexões que marcaram a Semana do Uso Consciente de Dados e IA.O evento reuniu as áreas de Governança de Dados e IA, Segurança da Informação, Privacidade e Proteção de Dados em torno de um propósito comum: refletir, aprender e evoluir juntos.Durante a conversa, os convidados falaram sobre o papel das áreas na construção de uma abordagem mais responsável e colaborativa para o uso de dados e inteligência artificial, além dos desafios que surgem com o avanço da IA generativa. Uma jornada que tem, no centro de tudo, as pessoas.Lembrando que você pode encontrar todos os podcasts da comunidade Data Hackers no Spotify, iTunes, Google Podcast, Castbox e muitas outras plataformas.Nossa Bancada Data Hackers:Paulo Vasconcellos — Co-founder da Data Hackers e Principal Data Scientist na Hotmart.Monique Femme — Head of Community Management na Data HackersReferências:● Globo Ads● Documentário Air France● Oportunidades na Globo",
+        "duration_ms": 3382517,
+        "explicit": false,
+        "id": "2Cnhin6hqKGy6clW726fdI",
+        "language": "pt-BR",
+        "name": "A Jornada de uso Consciente de Dados e IA da Globo- Data Hackers Podcast #112",
+        "release_date": "2025-08-22",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Acesse os links:⁠Inscrições do Data Hackers Challenge 2025⁠⁠Live Zoho: Decisões Baseadas em Dados: Aplicando Machine Learning com o Zoho AnalyticsConheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Matérias/assuntos comentados:Live finalistas do Data Hackers Challenge 2025 (Concorra a prêmios);Evento Mettup ItaúMateria da MetaMatéria Sam AltmanDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 1447027,
+        "explicit": false,
+        "id": "78DzVLeNOcX2szDmD8tfaN",
+        "language": "pt-BR",
+        "name": "Meta autorizou IA a manter conversas inadequadas com crianças; Sam Altman diz que \"sim\", a IA está em uma bolha - Data Hackers News #89",
+        "release_date": "2025-08-20",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Acesse os links:⁠Inscrições do Data Hackers Challenge 2025⁠⁠Live Zoho: Decisões Baseadas em Dados: Aplicando Machine Learning com o Zoho AnalyticsConheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Matérias/assuntos comentados:Live finalistas do Data Hackers Challenge 2025;Evento Mettup ItaúMatéria lançamento ChatGpt5;Matéria Elon Musk libera Grok grátis nos EUA. Demais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 560561,
+        "explicit": false,
+        "id": "3EsFK6i8aKhO1K54ht9RgC",
+        "language": "pt-BR",
+        "name": "ChatGPT-5 decepciona no lançamento, mas OpenAI reativa ChatGpt-4 de volta; Elon Musk libera Grok grátis nos EUA e sugere VPN para usuários de outros países - Data Hackers News #88",
+        "release_date": "2025-08-13",
+        "type": "episode"
+    },
+    {
+        "description": "Problemas antigos. Novas Ferramentas.Neste episódio, vamos mostrar como você pode utilizar a Inteligência Artificial Generativa (GenAI) para te auxiliar na análise dados não-estruturados e aumentar sua produtividade. Reunimos Felipe Fiamozzini e Lara Marinelli, especialistas da Bain & Company que vivem o dia a dia da área, para explorar os desafios que existiam antes da chegada da GenAI, os métodos e frameworks recomendados e como o ciclo da análise de dados está sendo adaptado com essas novas tecnologias.Também discutimos o papel das lideranças nesse cenário de transformação e damos dicas práticas para quem está começando na área de dados e quer desenvolver habilidades em GenAI.Vem com a gente entender como extrair valor de dados não-estruturados com o apoio da GenAI!Lembrando que você pode encontrar todos os podcasts da comunidade Data Hackers no Spotify, iTunes, Google Podcast, Castbox e muitas outras plataformas.Convidados:Felipe Fiamozzini - Sócio na Bain Company focado em dados e IALara Marinelli - Gerente de Machine Learning EngineeringNossa Bancada Data Hackers:Paulo Vasconcellos — Co-founder da Data Hackers e Principal Data Scientist na Hotmart.Gabriel Lages - Co-founder da Data Hackers e Data & Analytics Sr. Director na Hotmart.",
+        "duration_ms": 3565348,
+        "explicit": false,
+        "id": "7796jf42S1OY9dJ5PFPYbB",
+        "language": "pt-BR",
+        "name": "Inteligência Artificial generativa na análise de dados não-estruturados - Data Hackers Podcast #111",
+        "release_date": "2025-08-08",
+        "type": "episode"
+    },
+    {
+        "description": "Que os dados são protagonistas das decisões mais estratégicas das empresas você já sabe. Mas como isso acontece, na prática?Neste episódio, reunimos as lideranças do board do AI & Data Leaders 2025 — um dos eventos mais relevantes do país para decisores em inteligência artificial e dados — para explorar como essas tecnologias estão redefinindo estratégias e moldando o futuro dos negócios.Falamos sobre as tendências que já estão moldando o mercado, as principais apostas para os próximos anos e o que as empresas mais competitivas estão fazendo para usar dados e IA como ativos estratégicos.Se você quer entender para onde estamos indo e como se preparar para esse futuro esse episódio é um guia indispensável!Lembrando que você pode encontrar todos os podcasts da comunidade Data Hackers no Spotify, iTunes, Google Podcast, Castbox e muitas outras plataformas.Convidados:Fabricio Santos  - Founder do AI Data LeadersRosane Ricciardi - CDAO at Amil GroupSergio Gaiotto - Diretor de Dados e IA na Claro e Professor no Lab Data da FIADaniel Serman - Diretor de Dados na TIMNossa Bancada Data Hackers:Paulo Vasconcellos — Co-founder da Data Hackers e Principal Data Scientist na Hotmart.Monique Femme — Head of Community Management na Data HackersReferências:IA & DATA LEADERS: https://aidataleaders.com.br/?gad_source=1&gad_campaignid=22742814867&gbraid=0AAAAA_bGvNGjtQef03VsUhQBa5xSalprn&gclid=CjwKCAjwy7HEBhBJEiwA5hQNohjG-9yXfW6GtmCQjSLc4ocrL-ibMfQDzjHeSySSvuKjxg-5Y7ylNxoCxi8QAvD_BwE",
+        "duration_ms": 3877459,
+        "explicit": false,
+        "id": "5zmqtMPS0vBZQQlZbNWa5B",
+        "language": "pt-BR",
+        "name": "Dados & Inteligência Artificial: Insights do AI & Data Leaders 2025 - Data Hackers Podcast #110",
+        "release_date": "2025-08-04",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Acesse os links: ⁠Inscrições do Data Hackers Challenge 2025⁠⁠Live Zoho: Decisões Baseadas em Dados: Aplicando Machine Learning com o Zoho AnalyticsConheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo Vasconcellos⁠Matérias/assuntos comentados:Demais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 1040038,
+        "explicit": false,
+        "id": "32H6OhsSAGdqEIeQvPUyTD",
+        "language": "pt-BR",
+        "name": "Microsoft Edge ganha IA que ajuda usuário em tarefas na internet; ⁠OpenAI lança “ChatGPT Agent” - Data Hackers News #87",
+        "release_date": "2025-07-30",
+        "type": "episode"
+    },
+    {
+        "description": "Se você está começando na área de dados ou pensando em mudar sua forma de atuar já deve ter se perguntado: e se eu fizesse “freelas”?Neste episódio, Leon Solon, Host e instrutor no Let's Data com mais de 20 anos de experiência em dados, veio compartilhar sua experiência como freelancer e dar dicas para você que tem interesse em saber mais sobre. Falamos sobre como o trabalho freelance pode ser uma porta de entrada poderosa para ganhar experiência, aplicar o que você aprende nos cursos e, até mesmo, atuar com projetos internacionais.Você vai ouvir dicas valiosas sobre como se destacar nas plataformas, quais são os erros mais comuns de quem está começando e por que o freelancing pode ser uma oportunidade de crescimento real mesmo para quem ainda está nos primeiros passos na área.Um episódio para abrir a cabeça e já dar o próximo passo.Lembrando que você pode encontrar todos os podcasts da comunidade Data Hackers no Spotify, iTunes, Google Podcast, Castbox e muitas outras plataformas.Nossa Bancada Data Hackers:Paulo Vasconcellos — Co-founder da Data Hackers e Principal Data Scientist na Hotmart.Monique Femme — Head of Community Management na Data HackersReferências:Curso Let's Data: https://youtube.com/playlist?list=PLn_z5E4dh_LgWmEGn2lcdOp5TDKw6nkde&si=i3ZdtqDqcL83X8jaParticipe do Challenge: https://forms.gle/z27YnZe2KWai8Uup6Plataforma Workana: https://www.workana.com/pt",
+        "duration_ms": 3270608,
+        "explicit": false,
+        "id": "2yGIOCIeUdu03Pl59F2iKr",
+        "language": "pt-BR",
+        "name": "Como trabalhar de Freelance na área de Dados - Data Hackers Podcast #109",
+        "release_date": "2025-07-25",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:Inscrições do Data Hackers Challenge 2025Live Zoho: Decisões Baseadas em Dados: Aplicando Machine Learning com o Zoho AnalyticsConheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo VasconcellosDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 907546,
+        "explicit": false,
+        "id": "2a1nGGASdH5OGekIUDsSSh",
+        "language": "pt-BR",
+        "name": "Netflix admite uso de IA generativa em série de ficção científica para reduzir custos; Usuários do ChatGPT enviam 2,5 bilhões de prompts por dia - Data Hackers News 86 ",
+        "release_date": "2025-07-23",
+        "type": "episode"
+    },
+    {
+        "description": "Se você trabalha com dados, já percebeu: o jogo mudou. A inteligência artificial está cada vez mais presente no dia a dia de quem analisa, modela e entrega valor a partir de dados. Mas, no meio de tantas mudanças, o que realmente faz um analista se destacar nesse novo cenário?Nesse episódio, os fundadores do Data Hackers Gabriel Lages e Paulo Vasconcelos reuniram dicas práticas e valiosas para quem quer ir além dos dashboards e entregar impacto real. Falamos sobre a importância de saber qual pergunta de negócio você está tentando responder, como adaptar seu entregável à audiência certa e por que investir tempo em follow-ups curtos pode ser mais poderoso do que semanas de silêncio.Esse é um episódio para ouvir com o caderno aberto e já aplicar na próxima entrega.Lembrando que você pode encontrar todos os podcasts da comunidade Data Hackers no Spotify, iTunes, Google Podcasts, Castbox e muitas outras plataformas.Nossos Participantes:Gabriel Lages - Data HackersPaulo Vasconcellos - Data HackersLinks importantes:Site do Challenge: https://www.stateofdata.com.br/challengeTrilha de aulas com o Leon: https://www.youtube.com/playlist?list=PLGXJcftiTYHRoTn6TjC025ly8pNOmUTLaKaggle do Challenge: https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-20242025/Regulamento do Challenge: https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-20242025/discussion/587296",
+        "duration_ms": 2472202,
+        "explicit": false,
+        "id": "6PaAOH8QBqGibi3aMvx5QT",
+        "language": "pt-BR",
+        "name": "Dicas práticas para analistas de dados se destacarem na era da Inteligência Artificial - Data Hackers Podcast #108",
+        "release_date": "2025-07-18",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:Inscrições do Data Hackers Challenge 2025Live de Bain: Estratégias de GenAI para análise de dados não-estruturadosConheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo VasconcellosDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 1244368,
+        "explicit": false,
+        "id": "4RWbIEbspRbjJVrlVkwj6o",
+        "language": "pt-BR",
+        "name": "⁠Claude vai criar e editar seus design no Canva; OpenAI atrasa lançamento de seu novo modelo aberto - Data Hackers News #85",
+        "release_date": "2025-07-16",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:Inscrições do Data Hackers Challenge 2025Live de Bain: Estratégias de GenAI para análise de dados não-estruturadosConheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo VasconcellosDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 1114775,
+        "explicit": false,
+        "id": "0PxY9a0Kb6ve68Gv0g9mbl",
+        "language": "pt-BR",
+        "name": "Microsoft anuncia demissão de 9 mil funcionários e cancelamento de games; Ataque hacker ao Banco Central pode ter desviado até R$ 800 milhões de reais - Data Hackers News #84",
+        "release_date": "2025-07-09",
+        "type": "episode"
+    },
+    {
+        "description": "Como é manter o motor de dados de uma dos maiores grupos de varejo do Brasil rodando sem parar — enquanto se experimenta tecnologias de IA Generativa que poucas empresas do mundo ousaram colocar em produção?Neste episódio especial, convidamos Lucas Eduardo Wichinevsky, Rodrigo Lucchesi e Marcelle Araujo Chiriboga Carvalho do Grupo Boticário, para abrir a caixa-preta da Engenharia de Machine Learning.Lembrando que você pode encontrar todos os podcasts da comunidade Data Hackers no Spotify, iTunes, Google Podcast, Castbox e muitas outras plataformas.Falamos no episódio:Marcelle Chiriboga - Gerente de Data Science de Lojas e Franquias no Grupo BoticárioLucas Eduardo Wichinevsky  - Gerente de Data Science de Tech Corporate  no Grupo BoticárioRodrigo Lucchesi -  Gerente de Data Science de Demanda e RGM no  no Grupo BoticárioNossa Bancada — Data Hackers:Monique Femme — Head of Community Management na Data HackersPaulo Vasconcellos — Co-founder da Data Hackers e Principal Data Scientist na Hotmart",
+        "duration_ms": 2735908,
+        "explicit": false,
+        "id": "3rtC6G21dr6fnBJkON0rB8",
+        "language": "pt-BR",
+        "name": "Machine Learning Engineering na Era da GenAI - Data Hackers Podcast #107",
+        "release_date": "2025-07-04",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:Inscrições do Data Hackers Challenge 2025Live de AberturaConheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Demais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 677955,
+        "explicit": false,
+        "id": "26OH6fciisxq54nagfBprx",
+        "language": "pt-BR",
+        "name": "Zuckerberg anuncia seu laboratório de superinteligencia; ⁠Apple está considerando usar Anthropic e OpenAI na Siri - Data Hackers News #83",
+        "release_date": "2025-07-02",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Links mencionados:⁠Breaking Data Hackers - com a SnowflakeConheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo VasconcellosDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 951928,
+        "explicit": false,
+        "id": "16BnXyqvcl1HSwRsnncYFp",
+        "language": "pt-BR",
+        "name": "Apple está considerando comprar a Perplexity; Avatar de AI vende 7 milhões de dólares em 6 horas  - Data Hackers News #82",
+        "release_date": "2025-06-25",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Links mencionados:Breaking Data Hackers - com a Snowflake Vagas no BeesDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 416783,
+        "explicit": false,
+        "id": "4Q8ZphUHTR4xoVjnSANbUm",
+        "language": "pt-BR",
+        "name": "⁠Mattel faz parceria com OpenAI para criar brinquedos com IA; Meta compra Scale AI para trazer CEO - Data Hackers News #81",
+        "release_date": "2025-06-18",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo VasconcellosDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 598857,
+        "explicit": false,
+        "id": "06PsbewNePnNsIrPsRaXQg",
+        "language": "pt-BR",
+        "name": "Veo 3: Novo modelo do Google cria videos ultrarrealistas com voz e som; Apple lança Apple Intelligence e iOS 26 na WWDC 2025 - Data Hackers News #80",
+        "release_date": "2025-06-11",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo VasconcellosDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 483239,
+        "explicit": false,
+        "id": "2eBYm6wdnIgG1AUhR15ZQG",
+        "language": "pt-BR",
+        "name": "Startup de IA falsa usou 700 indianos para criar código; DeepSeek lança nova atualização de modelo - Data Hackers News #79",
+        "release_date": "2025-06-04",
+        "type": "episode"
+    },
+    {
+        "description": "Nos últimos tempos, se você é dev, tech lead ou faz parte de algum squad de desenvolvimento, é impossível não ter sido impactado pela enxurrada de ferramentas de IA voltadas para desenvolvimento de software. Mas… o que de fato mudou na prática? Será que a AI está mesmo revolucionando o jeito de programar — ou estamos só vivendo mais a hype do Vibe Coding ?Nesse episódio, chamamos Caio Gomes - Chief AI Officer & Chief Data Officer @ Magalu e Wallysson Nunes - Staff Frontend Engineer @ Hotmartpra discutir tudo sobre como a inteligência artificial está moldando o presente e o futuro da engenharia de software.Lembrando que você pode encontrar todos os podcasts da comunidade Data Hackers no Spotify, iTunes, Google Podcast, Castbox e muitas outras plataformas.Falamos no episódio:Caio Gomes - Chief AI Officer & Chief Data Officer @ MagaluWallysson Nunes - Staff Frontend Engineer @ HotmartNossa Bancada — Data Hackers:Gabriel Lages - Data Hackers Paulo Vasconcellos - Data HackersReferências:🛠️ Ferramenta de Crawler → Firecrawl🛠️ Ferramenta de Crawler → Jina AI🤖 Ferramenta de Agentes de AI → Manus👨‍🏫 Criador do termo Vibe Coding → Andrej Karpathy🔥 Lovable → Site Oficial🔥 Cursor → Site Oficial🔥 Windsurf → Site Oficial🔥 GitHub Copilot → Site Oficial💀 Stack Overflow está praticamente morto — Pragmatic Engineer🔓 Hacker mostra como quebrou os 10 maiores sites feitos no Lovable em 47 minutos",
+        "duration_ms": 3892558,
+        "explicit": false,
+        "id": "7q820PiLvfhUrgmVjuEjrz",
+        "language": "pt-BR",
+        "name": "Vibe Coding & AI em Engenharia de Software - Data Hackers Podcast #105",
+        "release_date": "2025-05-30",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo VasconcellosDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 907755,
+        "explicit": false,
+        "id": "6aNNfB6A0ZquFCGOGozZt0",
+        "language": "pt-BR",
+        "name": "As novidades do Google I/O; OpenAI compra startup de designer do iPhone e iPod por US$ 6,5 bi - Data Hackers News #78",
+        "release_date": "2025-05-28",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Inscreva-se na Segunda Edição do BEES : Arte de Transformar dados em Experiência;Veja as vagas do BEES;Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo VasconcellosDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 796029,
+        "explicit": false,
+        "id": "7hoAzCYFqSnlkXJoJz9NP6",
+        "language": "pt-BR",
+        "name": "NotebookLM agora em versão para mobile; Microsoft anuncia plataforma de IA para acelerar descobertas científicas - Data Hackers News #77",
+        "release_date": "2025-05-21",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo VasconcellosDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠- Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠- ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠- ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠- ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠- ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 1095706,
+        "explicit": false,
+        "id": "0it67x0wIY8pfRVHWdo5xV",
+        "language": "pt-BR",
+        "name": "Tudo que rolou no IBM Think ; Meta quer substituir humanos por AI no futuro - Data Hackers News #76",
+        "release_date": "2025-05-14",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo VasconcellosDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 535222,
+        "explicit": false,
+        "id": "5LOwKVg1jfQH3WdrEuztDA",
+        "language": "pt-BR",
+        "name": "OpenAI anuncia funcionalidade de Compras no ChatGPT; Duolingo anuncia que será \"AI-First\" para otimizar trabalho - Data Hackers News #75",
+        "release_date": "2025-04-30",
+        "type": "episode"
+    },
+    {
+        "description": "Neste episódio, batemos um papo sobre os impactos da inteligência artificial na cibersegurança: os riscos e oportunidades que a IA Generativa traz para o setor, a realidade por trás das promessas de soluções inteligentes, e as competências que vão ser indispensáveis para quem quer construir uma carreira sólida nessa área nos próximos anos.Recebemos Claudionor Coelho, referência global em AI e Cybersecurity, com passagem pelo World Economic Forum e atuação em posições executivas dentro e fora do Brasil. Claudionor trouxe uma visão prática e estratégica sobre como a IA está moldando o presente e o futuro da segurança da informação — e se realmente podemos confiar nela como aliada.Lembrando que você pode encontrar todos os podcasts da comunidade Data Hackers no Spotify, iTunes, Google Podcast, Castbox e muitas outras plataformas.Falamos no episódio:Claudionor Coelho —  Chief AI Officer at Zscaler | GenAI Leader and Strategic Executive, Investor | XooglerNossa Bancada — Data Hackers:Monique Femme  — Head of Community Management na Data HackersPaulo Vasconcellos — Co-founder da Data Hackers e Principal Data Scientist na HotmartReferências: ",
+        "duration_ms": 3349577,
+        "explicit": false,
+        "id": "73LzjTrY1KsJQ0T6Tl5sjk",
+        "language": "pt-BR",
+        "name": "Cybersecurity & AI - Data Hackers Podcast #105",
+        "release_date": "2025-04-25",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo VasconcellosDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 826801,
+        "explicit": false,
+        "id": "3SGXBJCj8x8MQfXcF7pPAI",
+        "language": "pt-BR",
+        "name": "Netflix vai utilizar IA para sugerir filme com base no seu humor; Canva agora vai permitir criar código e planilha - Data Hackers News #74",
+        "release_date": "2025-04-16",
+        "type": "episode"
+    },
+    {
+        "description": "Neste episódio, batemos um papo sobre os impactos da inteligência artificial nas carreiras em tecnologia: o aumento de 11,8% nos salários da área, como se destacar nas redes sociais, e o futuro dos empregos com automação e IA.Recebemos Lucas Carvalho (Tech & Innovation Editor no Linkedin), para trocar ideias sobre os principais movimentos do mercado, o papel das comunidades como o Data Hackers na aceleração de carreiras, e dicas práticas pra crescer com consistência nesse novo cenário.Lembrando que você pode encontrar todos os podcasts da comunidade Data Hackers no Spotify, iTunes, Google Podcast, Castbox e muitas outras plataformas.Falamos no episódio:Lucas Carvalho - Tech & Innovation Editor no Linkedinossa Bancada Data Hackers:Monique Femme — Head of Community Management na Data HackersPaulo Vasconcellos - Co-founder da Data Hackers e Principal Data Scientist na Hotmart.Gabriel Lages — Co-founder da Data Hackers e Data & Analytics Sr. Director na Hotmart.",
+        "duration_ms": 3429250,
+        "explicit": false,
+        "id": "5d1rC2g8wL7kkGMgoLX9hR",
+        "language": "pt-BR",
+        "name": "Inteligência artificial e o Mercado de Trabalho no Brasil - Data Hackers Podcast #104",
+        "release_date": "2025-04-14",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Demais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 393090,
+        "explicit": false,
+        "id": "7LUl57hsnjaog6bs8xYxlZ",
+        "language": "pt-BR",
+        "name": "Meta lança Llama 4; Open AÍ vai atrasar o GPT-5 - Data Hackers News #73",
+        "release_date": "2025-04-09",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo VasconcellosDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 1007281,
+        "explicit": false,
+        "id": "2y3GHAhTwi1KJz7gpwuDvt",
+        "language": "pt-BR",
+        "name": "OpenAI está prestes a levantar US$ 40 bi em um financiamento liderado pelo SoftBank ; ChatGPT “derrete” com trend de imagens no estilo Studio Guibli - Data Hackers News #72",
+        "release_date": "2025-04-02",
+        "type": "episode"
+    },
+    {
+        "description": "A pesquisa State of Data Brazil 2025, conduzida pelo Data Hackers em parceria com a Bain & Company, reuniu mais de 5,2 mil profissionais de dados para entender os desafios, tendências e transformações do setor.Esse é o maior mapeamento já realizado sobre o mercado brasileiro de trabalho em dados e inteligência artificial !!Neste episódio, recebemos Felipe Fiamozzini (Expert Partner na Bain & Company) para explorar os principais insights do relatório, como: Salários e evolução das carreiras em dados e IA; Tendências tecnológicas e adoção de GenAI; Impacto dos layoffs e mudanças no modelo de trabalho; e o que esperar do mercado de dados em 2025.Lembrando que você pode encontrar todos os podcasts da comunidade Data Hackers no Spotify, iTunes, Google Podcast, Castbox e muitas outras plataformas.Falamos no episódioFelipe Fiamozzini — Expert Partner na Bain & CompanyNossa Bancada Data Hackers:Monique Femme — Head of Community Management na Data HackersGabriel Lages — Co-founder da Data Hackers e Data & Analytics Sr. Director na Hotmart.Referências:Semana de tecnologia Itaú: https://comunicatech.itau.com.br/semanadatecnologia2025_datahackersBaixe a pesquisa State of Data Brazil 2025: https://www.datahackers.news/p/relatorio2024-2025",
+        "duration_ms": 3746063,
+        "explicit": false,
+        "id": "5bwCPmIbde9Lmen0hHSx64",
+        "language": "pt-BR",
+        "name": "Os insights do State of Data Brazil 2025 - Data Hackers Podcast #103",
+        "release_date": "2025-03-28",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo VasconcellosDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 1009449,
+        "explicit": false,
+        "id": "555b2EdBDXXaVUHm52dOs7",
+        "language": "pt-BR",
+        "name": "Cloudflare cria Labirinto de IA para enganar bots; ⁠China vai obrigar que todo conteúdo de IA será rotulado - Data Hackers News #71",
+        "release_date": "2025-03-26",
+        "type": "episode"
+    },
+    {
+        "description": "Nossos convidados Bárbara Correia Dos Santos, Roberto Frossard e Cadu Mazzei compartilham como o Itaú avançou na utilização de IA ao longo dos últimos anos, e como a tecnologia tem contribuído para a construção de produtos e serviços hiperpersonalizados que atendem as reais necessidades dos clientes.No episódio, você confere como as disciplinas de Responsible IA e Emerging Tech, alinhadas à uma estratégia do negócio de evolução contínua em experiência, podem transformar a forma com que as pessoas interagem com serviços financeiros.Lembrando que você pode encontrar todos os podcasts da comunidade Data Hackers no Spotify, iTunes, Google Podcast, Castbox e muitas outras plataformas.Falamos no episódio:Carlos Eduardo Mazzei — Diretor de Tecnologia no Itaú e líder IABárbara Correia — Coordenadora de Responsable IA em TecnologiaRoberto Frossard — Líder de Tecnologias Emergentes no ItaúNossa Bancada Data Hackers:Paulo Vasconcellos — Co-founder da Data Hackers e Principal Data Scientist na Hotmart.Monique Femme — Head of Community Management na Data HackersReferências:Inscreva-se na Semana de Tecnologia do Itaú: https://comunicatech.itau.com.br/semanadatecnologia2025_datahackersEpisódio Computação Quântica com Samurai (Itaú): Itaú Unibanco é a primeira empresa latino-americana a filiar-se a instituto de IA de Stanford: https://epocanegocios.globo.com/inteligencia-artificial/noticia/2025/02/itau-unibanco-e-a-primeira-empresa-latino-americana-a-filiar-se-a-instituto-de-ia-de-stanford.ghtmlItaú adquire participação na startup de inteligência artificial NeoSpace: https://epocanegocios.globo.com/empresas/startup/noticia/2025/01/itau-adquire-participacao-na-startup-de-inteligencia-artificial-neospace.ghtmlInteligência Itaú: banco lança nova experiência para clientes com IA generativa: https://www.itau.com.br/relacoes-com-investidores/noticias/inteligencia-itau-banco-lanca-nova-experiencia-para-clientes-com-ia-generativa/Itaú lançará Inteligência Itaú, IA generativa para atendimento aos clientes: https://economia.uol.com.br/noticias/estadao-conteudo/2024/11/22/itau-lancara-inteligencia-itau-ia-generativa-para-atendimento-aos-clientes.htm",
+        "duration_ms": 3324917,
+        "explicit": false,
+        "id": "2RBhdhlsaOa7Xd9UG6ZzCG",
+        "language": "pt-BR",
+        "name": "O papel da Inteligência artificial na nova era da experiência no Itaú - Data Hackers Podcast #102",
+        "release_date": "2025-03-21",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo VasconcellosDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 815986,
+        "explicit": false,
+        "id": "6bWJ9f9qAZnsfKeqSHyIoF",
+        "language": "pt-BR",
+        "name": "OpenAI e Google pedem ao governo dos EUA para treinar modelos em conteúdo protegido; Google está pensando em voltar a ter entrevistas presenciais para evitar trapaças com IA - Data Hackers News #70",
+        "release_date": "2025-03-19",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo VasconcellosDemais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Links do Perplexity AI:https://www.datahackers.news/p/perplexity-ai-gratuito-clientes-vivo-tem-direito-a-um-ano-de-assinatura-do-plano-pro-no-perplexityhttps://www.datahackers.news/p/perplexity-ai-o-que-e-como-usar",
+        "duration_ms": 888737,
+        "explicit": false,
+        "id": "5dfS577U6PGY0qDAlTWTSr",
+        "language": "pt-BR",
+        "name": "Apple atrasa atualização de IA da Siri; ⁠Google anuncia modo IA para buscas - Data Hackers News #69",
+        "release_date": "2025-03-12",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:  ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠  Paulo Vasconcellos⁠Matérias/assuntos comentados:  Meta cria IA capaz de ler a mente;   Spotify vai permitir audiobooks narrados por IA Demais canais do Data Hackers:  ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠  ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠  ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠  ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠  ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 899186,
+        "explicit": false,
+        "id": "2PjoddcSQV6Ge1gV1fIlCz",
+        "language": "pt-BR",
+        "name": "Meta cria IA capaz de ler a mente; Spotify vai permitir audiobooks narrados por IA - Data Hackers News #68",
+        "release_date": "2025-02-26",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !**Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:**",
+        "duration_ms": 884218,
+        "explicit": false,
+        "id": "5PbWDaUPn2Sl1ypQNy1xjz",
+        "language": "pt-BR",
+        "name": "OpenAI rejeita oferta de Elon Musk para comprar a empresa; Meta está trabalhando em robôs humanoides",
+        "release_date": "2025-02-19",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !!Aperte o play e ouça agora, o Data Hackers News dessa semana !Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Conheça nossos comentaristas do Data Hackers News:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paulo Vasconcellos⁠Matérias/assuntos comentados:Inscreva-se no evento do ifood.Meta demite quase 4 mil funcionários.Dona do TikTok lança tecnologia que gera vídeos ultrarrealistas.Demais canais do Data Hackers:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+        "duration_ms": 1075931,
+        "explicit": false,
+        "id": "4ejEpgABeQRMBKmYjRO5eL",
+        "language": "pt-BR",
+        "name": "Meta demite quase 4 mil funcionários; Dona do TikTok lança tecnologia que gera vídeos ultrarrealistas - Data Hackers News #66",
+        "release_date": "2025-02-12",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !! Aperte o play e ouça agora, o Data Hackers News dessa semana ! Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:   ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠   Conheça nossos comentaristas do Data Hackers News:   ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠   Paulo Vasconcellos   ⁠Matérias/assuntos comentados:   OpenAI anuncia o3-mini de graça;    DeepSeek se torna o app mais baixado na App Store;    OpenAI lança Deep Research    Demais canais do Data Hackers:    ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠    ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠    ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠    ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠    ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠  ",
+        "duration_ms": 952084,
+        "explicit": false,
+        "id": "2cVWfFy77Zobq3Vfi3IHIm",
+        "language": "pt-BR",
+        "name": "OpenAI anuncia o3-mini de graça; DeepSeek se torna o app mais baixado na App Store; OpenAI lança Deep Research - Data Hackers News #65",
+        "release_date": "2025-02-05",
+        "type": "episode"
+    },
+    {
+        "description": "Mergulhamos no universo dos AI Agents e discutimos por que eles são considerados a próxima revolução em Data & AI. Nossos convidados exploram desde os conceitos básicos até aplicações reais, incluindo como empresas estão criando agentes de forma autônoma e o papel do Langflow — uma plataforma de AI Agents, fundada por um brasileiro, que já é destaque no cenário internacional — nesse ecossistema. Neste episódio do Data Hackers — a maior comunidade de AI e Data Science do Brasil - cconheçam Mikaeri Ohana - Head de Dados e IA na CI&T & Content Creator at Explica Mi , e o Gabriel Almeida - Founder & CTO @ Langflow.  Lembrando que você pode encontrar todos os podcasts da comunidade Data Hackers no Spotify, iTunes, Google Podcast, Castbox e muitas outras plataformas. Nossa Bancada Data Hackers:    Paulo Vasconcellos - Co-founder da Data Hackers e Principal Data Scientist na Hotmart.       Monique Femme — Head of Community Management na Data Hackers       Gabriel Lages  — Co-founder da Data Hackers e Data & Analytics Sr. Director na Hotmart.    Referências:     Participe do Evento do ifood:  https://lu.ma/si2mn42p   Blog Data Hackers - Langflow: Conheça uma plataforma de AI Agents fundada por um Brasileiro que já é destaque no cenário internacional: https://www.datahackers.news/p/langflow-conheca-uma-plataforma-de-ai-agents-fundada-por-um-brasileiro   Langflow: https://www.langflow.org/pt/   Site da DataStax:      Blog Data Hackers - CrewAI : https://www.datahackers.news/p/crew-ai-a-startup-brasileira-que-esta-dominando-o-mercado-de-ai-agents ",
+        "duration_ms": 4262400,
+        "explicit": false,
+        "id": "5bu38Cco9XmfuBUpBoZB9W",
+        "language": "pt-BR",
+        "name": "AI Agents & Langflow - Data Hackers Podcast #101",
+        "release_date": "2025-01-31",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !! Aperte o play e ouça agora, o Data Hackers News dessa semana ! Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:   ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠   Conheça nossos comentaristas do Data Hackers News:   ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠    Paulo Vasconcellos   ⁠Matérias/assuntos comentados:    Após Efeito DeepSeek, as ações da Nvidia desabam;     OpenAI anuncia Operator: uma IA que usa o browser para fazer tarefas.   Demais canais do Data Hackers:    ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠    ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠    ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠    ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠    ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠   ",
+        "duration_ms": 1126295,
+        "explicit": false,
+        "id": "1TGzLgmOMJo43MZdsG0tUp",
+        "language": "pt-BR",
+        "name": "Após Efeito DeepSeek, ações da Nvidia desabam; OpenAI anuncia Operator: uma IA que usa o browser para fazer tarefas - Data Hackers News #64",
+        "release_date": "2025-01-29",
+        "type": "episode"
+    },
+    {
+        "description": "Está no ar, o Data Hackers News !! Os assuntos mais quentes da semana, com as principais notícias da área de Dados, IA e Tecnologia, que você também encontra na nossa Newsletter semanal, agora no Podcast do Data Hackers !! Aperte o play e ouça agora, o Data Hackers News dessa semana ! Para saber tudo sobre o que está acontecendo na área de dados, se inscreva na Newsletter semanal:   ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.datahackers.news/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠   Conheça nossos comentaristas do Data Hackers News:   ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Monique Femme⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠   Paulo Vasconcellos   ⁠Matérias/assuntos comentados:   Perplexity AI quer comprar o TikTok;    Google anuncia Gemini para Gmail e Google Docs gratuitamente;     OpenAI anuncia fim de testes do o3 e anuncia o3-mini para as próximas semanas.    Citado no Episódio: As Tendências para Dados e AI em 2025  - Data Hackers Podcast #100   Demais canais do Data Hackers:    ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Site⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠    ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Linkedin⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠    ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠    ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tik Tok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠    ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠You Tube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠   ",
+        "duration_ms": 1229191,
+        "explicit": false,
+        "id": "65wtxRabEW9FOisdEnedFd",
+        "language": "pt-BR",
+        "name": "Perplexity AI quer comprar o TikTok; Google anuncia Gemini para Gmail e Google Docs gratuitamente; OpenAI anuncia fim de testes do o3 e anuncia o3-mini para as próximas semanas - Data Hackers News #63",
+        "release_date": "2025-01-22",
+        "type": "episode"
+    },
+    {
+        "description": "Neste episódio especial, celebramos 100 edições do Podcast Data Hackers que já alcançou 1,1 milhões de plays. E nada melhor que, explora tudo que moldou o universo de dados, olhando para o futuro. Agora, chegou aquele momento do ano em que vamos tentar prever o que será tendência em Dados e AI para o ano de 2025! Será que AI generativas ainda estarão em alta? Será mesmo, que será o fim do SQL, hein? Vem com a gente pra esse papo com nossos Community Managers Mario Filho e Pietro Oliveira, e o nosso mestre dos magos e também Co-fundador Allan Senne. Lembrando que você pode encontrar todos os podcasts da família Data Hackers no Spotify, iTunes, Google Podcast, Castbox e muitas outras plataformas. Caso queira, você também pode ouvir o episódio aqui no post mesmo! Falamos no episódio Nossos convidados:   Mario Filho    Pietro Oliveira    Allan Senne.   Nossa Bancada Data Hackers:    Paulo Vasconcellos — Co-founder da Data Hackers e Principal Data Scientist na Hotmart.    Monique Femme — Head of Community Management na Data Hackers    Gabriel Lages — Co-founder da Data Hackers e Data & Analytics Sr. Director na Hotmart.   ",
+        "duration_ms": 5606635,
+        "explicit": false,
+        "id": "2wk27socd2r9767DbgXvxx",
+        "language": "pt-BR",
+        "name": "As Tendências para Dados e AI em 2025 - Data Hackers Podcast #100",
+        "release_date": "2025-01-20",
+        "type": "episode"
+    }
+]

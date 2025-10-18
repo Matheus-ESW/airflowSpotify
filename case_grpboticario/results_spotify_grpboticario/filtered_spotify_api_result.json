@@ -1,0 +1,252 @@
+[
+    {
+        "description": "Apresentado por Paulo Vasconcellos, Monique Femme e Gabriel Lages, o Data Hackers é o podcast oficial do maior ecossistema de dados e inteligência artificial do Brasil. Toda semana, recebemos líderes e especialistas para explorar as tendências, inovações e desafios que estão moldando o futuro da área de dados, da Inteligência Artificial (AI) e de Tecnologia.  O Data Hackers é o seu radar para entender como a tecnologia está transformando carreiras, negócios e a sociedade. 🔗 Conheça mais em: www.datahackers.com.br",
+        "id": "1oMIHOXsrLFENAeM743g93",
+        "name": "Data Hackers"
+    },
+    {
+        "description": "O primeiro podcast Brasileiro sobre ciência de dados",
+        "id": "5k0Ei0MSg5BuiHshr43aSg",
+        "name": "Pizza de Dados"
+    },
+    {
+        "description": "Discussões acaloradas sobre desenvolvimento de software, startups, programação, IA, UX, gadgets e as últimas tendências em tecnologia.",
+        "id": "2p0Vx75OmfsXktyLBuLuSf",
+        "name": "Hipsters Ponto Tech"
+    },
+    {
+        "description": "Bem-vindo ao Data Circle Podcast, onde a teoria encontra a prática! Aqui colocamos a tecnologia a serviço do negócio e mostramos como inteligência artificial, dados e machine learning estão revolucionando o mundo dos negócios. Fique por dentro das notícias e oportunidades dessa área e embarque nessa jornada, em conjunto com os maiores experts e lideranças do tema, sobre como usar a tecnologia em nosso favor!   Episódios novos toda segunda!",
+        "id": "35FNLoQuXKyme6SsJ9PssZ",
+        "name": "Data Circle Podcast"
+    },
+    {
+        "description": "Portal brasileiro de capacitação online em Big Data, Data Science, Inteligência Artificial e tecnologias relacionadas.",
+        "id": "2yaqJ4H0jc11phvCA60wKn",
+        "name": "Data Science Academy"
+    },
+    {
+        "description": "Podcast oficial da HackerSec - HackerCast",
+        "id": "50tM5AKQynwbT7VxMoDPA2",
+        "name": "HackerCast - HackerSec"
+    },
+    {
+        "description": "Uma conversa com líderes e fundadores de startups e empresas inovadoras.",
+        "id": "5qFSRB3x4SP9xZgr4my7fO",
+        "name": "Like a Boss"
+    },
+    {
+        "description": "Café Debug é um podcast dedicado ao universo da ciência e tecnologia. Desde sua fundação em 2017, o programa tem se destacado por trazer especialistas do setor para discutir uma ampla variedade de tópicos, incluindo desenvolvimento de software, ferramentas tecnológicas, conceitos avançados de arquitetura de software, trajetórias profissionais na tecnologia e na ciência, e muito mais. Junte-se a nós para explorar as últimas tendências e inovações que moldam nosso mundo. Apresentado por Jéssica Nathany e Wesley Fratini",
+        "id": "3uqyj3GlhBHp1IJN8KJ1xU",
+        "name": "Café Debug seu podcast de tecnologia"
+    },
+    {
+        "description": "O primeiro Podcast de Cibersegurança do Brasil.  Não é novidade que empresas e dados estão vulneráveis à ataques hackers. Mas com tanta informação, como se proteger de verdade?  A Redbelt Security, uma consultoria especializada em Cibersegurança, convida grandes nomes do mercado para compartilharem a sua experiência nos assuntos mais importantes do momento.  Confira em cada episódio as últimas novidades, conhecimentos e conteúdos relevantes que podem ajudar a sua empresa a dar os próximos passos em direção à Segurança!",
+        "id": "3Poc4tu9lZ3T0Xs5bChC2c",
+        "name": "RedCast | O podcast de Segurança da Informação"
+    },
+    {
+        "description": "O Let's Data traz pessoas inteligentes e interessantes para conversar sobre ciência de dados, inteligência articificial e outras aleatoriedades da vida. Criado e apresentado por Bernardo Lago, Felipe Schiavon e Leon Silva, com o objetivo de divulgar conhecimentos da área de dados aliando dois enfoques: técnico e humano. Os episódios são transmitidos ao vivo pelo nosso canal no YouTube e disponibilizado nas principais plataformas de podcat. Junte-se a nós e venha aprender mais sobre ciência de dados e IA!",
+        "id": "0VsNN95jsJVRS424eCFDlg",
+        "name": "Let's Data"
+    },
+    {
+        "description": "Descubra a inteligência artificial que move o mundo. Trazemos as principais notícias, análises e dicas de uso em episódios leves e dinâmicos, com conversas sobre tendências que já estão transformando negócios, saúde, educação e entretenimento. Além disso, conversamos com especialistas e pioneiros que mostram como a IA está sendo aplicada na prática no Brasil e no mundo. Tudo com humor, clareza e uma didática que cabe na sua rotina. Junte-se a nós e torne-se protagonista do futuro.",
+        "id": "2FHimuESqvjBL4x8AKur2b",
+        "name": "IA Todo Dia – Inteligência Artificial Descomplicada: notícias e quadros que expandem sua visão"
+    },
+    {
+        "description": "Podcast de cibersegurança produzido pela Tempest com episódios diários, publicados logo pela manhã com aquilo que foi mais relevante nas últimas vinte e quatro horas em termos de novos ataques, vulnerabilidade ou ameaças.  Tudo em menos de dez minutos e traduzido para uma linguagem fácil, produzido para que você possa ajustar o curso do seu dia de modo a tomar as melhores decisões de cibersegurança para sua empresa.",
+        "id": "3b1pfnrXte2nTaYpcQbB2I",
+        "name": "Cyber Morning Call"
+    },
+    {
+        "description": "Criado em 2015, o Analytics Talks é um podcast semanal que aborda temas relacionados a Analytics de um jeito divertido, com o intuito de informar e provocar reflexões sobre o mercado de dados e analytics do Brasil.   O Analytics Talks é um programa da Métricas Boss, uma consultoria de Digital Analytics e um blog que reúne o que há de novidades no mercado de dados e métricas.",
+        "id": "4qP97l3OJO9vH37fWhrbB7",
+        "name": "Analytics Talks"
+    },
+    {
+        "description": "O Hoje no TecMundo é o tradicional programa diário do TecMundo no YouTube, trazendo de segunda a sexta (exceto feriados), sempre no fim da tarde, as notícias de destaque no mundo da tecnologia. Agora, disponível em áudio!",
+        "id": "2GfMFAmQseZ1fOtiLQyZ39",
+        "name": "Hoje no TecMundo Podcast"
+    },
+    {
+        "description": "O Compilado é o podcast para te atualizar sobre o mundo da tecnologia e programação com as notícias mais quentes selecionadas pelo casal de programadores Gabriel Fróes e Vanessa Weber.  Eles são os programadores por trás do Código Fonte TV no YouTube (+30 milhões de views). Com mais de 25 anos dedicados a um relacionamento sério com os códigos, o casal descomplica esse mundo tão vasto de forma descontraída e com aquele humor que só os nerds e os CDFs tem! 🤓  🏆 Com apenas 5 meses, Compilado atingiu a 1ª posição na Amazon Music e 2ª no Spotify em Podcasts de Tecnologia!",
+        "id": "7kLgm2CDG4aontuQOluFwb",
+        "name": "Compilado do Código Fonte TV"
+    },
+    {
+        "description": "Tecnologia, negócios e inovação. No Tecnocast conversamos sobre como a tecnologia está mudando a forma como vivemos e nos relacionamos com o mundo ao nosso redor.  O Tecnocast é o podcast de tecnologia do Tecnoblog.",
+        "id": "084hQAwpMi4PcidWPsO2fY",
+        "name": "Tecnocast"
+    },
+    {
+        "description": "As novidades e tendências da tecnologia com uma abordagem simples e clara.",
+        "id": "3RbHv1Fd3af8s90AO9xljy",
+        "name": "CBN Tecnologia - Techtudo"
+    },
+    {
+        "description": "Um podcast sobre inteligência artificial de uma forma simples. Explicando algoritmos e mostrando como ela está presente no nosso dia a dia.",
+        "id": "3yeqOp2pZKdqX5Qa3jY6Jz",
+        "name": "Vida com IA"
+    },
+    {
+        "description": "Bora trocar umas ideias sobre tecnologia?",
+        "id": "1aj1JxbfYePAHp1eliCKya",
+        "name": "Papinho Tech"
+    },
+    {
+        "description": "O podcast indispensável para quem quer se manter em dia com o que está acontecendo no universo da inteligência artificial. O IA Sob Controle traz notícias, dicas de ferramentas e discussões sobre as principais tendências do mundo da IA, além de entrevistas com profissionais e pessoas pesquisadoras que estão definindo o futuro da tecnologia mais promissora e empolgante das últimas décadas.",
+        "id": "5xLCMHJ6eGWzdu8JaIDkuP",
+        "name": "IA Sob Controle - Inteligência Artificial"
+    },
+    {
+        "description": "O Podcast Canaltech é um resumo das notícias de tecnologia, para começar o seu dia. De terça a sábado, a partir das 7h nos seus tocadores de podcasts.",
+        "id": "4N529y6avmcwRFCxezff51",
+        "name": "Podcast Canaltech"
+    },
+    {
+        "description": "Data Skeptic is your source for a perspective of scientific skepticism on topics in statistics, machine learning, big data, artificial intelligence, and data science. Our weekly podcast and blog bring you stories and tutorials to help understand our data-driven world.",
+        "id": "1BZN7H3ikovSejhwQTzNm4",
+        "name": "Data Skeptic"
+    },
+    {
+        "description": "Criado por dois especialistas em inteligência artificial com dados espaciais, João Ataíde e Vitor Zanetti, este podcast tem como propósito explorar os principais desafios, dores e soluções do mercado das tecnologias, com um foco especial nas geotecnologias, SIG, machine learning, robótica, deep learning, sensoriamento remoto, drones, LiDAR, big data e tudo mais que estiver inserido nesse universo fascinante. Junte-se a nós enquanto mergulhamos no mundo das inovações tecnológicas e suas aplicações espaciais.",
+        "id": "3jtf4lXKXRBaDtmMvLk3jF",
+        "name": "Spatial Hackers Podcast"
+    },
+    {
+        "description": "Bate papo sobre Inteligência Artificial para pessoas comuns abordando notícias, ferramentas e todas as formas que a Inteligência Artificial vai mudar nossa vida.",
+        "id": "3lyrnNKGPqdVgmsBUPxvmf",
+        "name": "Papo de IA - Inteligência Artificial"
+    },
+    {
+        "description": "Os comentários, entrevistas e reportagens sobre a vida digital na CBN.",
+        "id": "36fAENA2LHDy6rZ0l1z5Ce",
+        "name": "Tecnologia"
+    },
+    {
+        "description": "Learn from your favorite indie hackers as they share hard-earned lessons and tall tales from their data model journeys!  Brought to you by Xata — the only serverless data platform for PostgreSQL.",
+        "id": "22oAuPTWSH3pYOXu4GvTG0",
+        "name": "Data in the Wild"
+    },
+    {
+        "description": "Alice yearns for something more in life. She has a low-stress job, a steady relationship with her boyfriend, and a nephew she loves looking after, but she can’t shake the feeling that something isn’t quite right. A phone call turns everything upside down, making Alice the perfect target for a cybercrime. From that moment on, her entire existence undergoes a radical transformation and she will never be the same again: deceit, manipulation, identity theft… Alice will have to navigate a high-octane scenario packed with conspiracy theories and AI in her search to understand what type of person she is and unravel the truth behind her seemingly happy world. Unleashed is a fictional audio thriller set in a world where technology has altered the playing field. Discover how every action leaves a trace, every moment generates data, and this invaluable information is a goldmine for hackers. And learn how to protect your digital ID in a world that is increasingly hyperconnected. The Spanish version of Unleashed was named Podcast of the Year for “elevating the genre of audio fiction” and for its “impeccable sound design” at the 2023 Ondas Awards, and Best Branded Podcast at the 2023 Ondas World Podcast Awards.",
+        "id": "1vN4fEtwbmMAx8UZgIAiOb",
+        "name": "Unleashed"
+    },
+    {
+        "description": "🎙️ TRUE CRIME 2.0: THE FUTURE OF CRIMINAL INVESTIGATIONWelcome to True Crime 2.0, where technology, data, and real-life stories collide to unravel the most disturbing crimes of our era. We don’t just recount famous cases—we reinvestigate them with the tools of the future: artificial intelligence, 3D crime scene reconstruction, algorithm-based behavioral profiling, and more.Each episode dives deep into unsolved crimes, serial killings, and dark conspiracies, delivering:🔍 Fresh perspectives – How could modern tech have cracked these cases decades ago?🖥️ Exclusive data – We uncover patterns and connections law enforcement missed.💡 Expert insights – From forensic scientists to ethical hackers, we bring voices that challenge the status quo.Who is this podcast for?True crime addicts tired of the same reheated cases.Tech enthusiasts curious about how AI and big data are revolutionizing investigations.Critical thinkers who love debating theories and exploring \"what if?\" scenarios.True Crime 2.0 isn’t just about crimes—it’s about justice in the 21st century.",
+        "id": "5tAbplXmG1fAaSvIRuzfsH",
+        "name": "TRUE CRIME 2.0"
+    },
+    {
+        "description": "Cyber Security, data breaches, Hackers, Chief Information Security Officers, Talking Cyber Security (formerly 'The Australian CISO') is a podcast for anyone interested in Cyber Security. Hear about data breaches, cyber news, how security personnel 'tick', how to answer questions at an interview, lessons learnt while doing the security role, how security people network, how they succeed etc. Use the email address talkingcybersec@gmail.com to make comments, pose questions or even ask to be on The Australian CISO podcast.The main presenter is Richard Heron. Richard is an experienced CISO and has learnt many tough lessons during the many and varied Security Management roles he has held since 2002. He also holds some security accreditations as well. Richard enjoys AFL, podcasting, e-Biking and charity work.",
+        "id": "38qcndxsBN7TjkuhF2mlZf",
+        "name": "Talking Cyber Security"
+    },
+    {
+        "description": "Ferramentas digitais e novidades do mundo tecnológico.",
+        "id": "6YdK60YMpc6miHuXIURtrc",
+        "name": "Pedro Doria - Vida Digital CBN"
+    },
+    {
+        "description": "Toda quarta-feira no Dev Sem Fronteiras você escuta histórias de devs que saíram do Brasil para trabalhar em outros países. Descubra como funcionam os processos de imigração, os testes das empresas, como é se adaptar no exterior, custo de vida de diferentes países, como é fazer amizades e, é claro, os perrengues dos brasileiros na gringa.",
+        "id": "3WsvUbTh7M1Rsw6lOGwYtk",
+        "name": "Dev Sem Fronteiras"
+    },
+    {
+        "description": "Cyber risk resilience for executives. Hackers are winning and lawmakers are taking action with new cyber risk mandates. In an increasingly internet delivered world, new cyberlaws and regulations with steep sanctions have been levied against leaders unable to prove their reasonable governance of the data privacy and cybersecurity problems. With cyber threats evolving at an alarming pace, cyber risk awareness and governance is needed as compliance alone is no longer enough for all businesses. Gone are the days of dry, technical jargon. At Navigating Cyber Risk, we understand the importance of making cybersecurity governance relevant to the executive suite and the board, as they can be held personally responsible for when hackers succeed. Our podcast combines expert insights with captivating storytelling, ensuring each episode is both educational and entertaining. From intriguing case studies and methods to monetize cyber risks to deep dives into emerging technologies and governance regul...",
+        "id": "0QApApJWYP55em0r1El8dK",
+        "name": "Navigating Cyber Risk"
+    },
+    {
+        "description": "Os gêmeos Ricardo e Roberto Dias, programadores há mais de 15 anos, discutem de forma descontraída as dúvidas mais comuns (ou polêmicas) de programadores iniciantes.",
+        "id": "2kCrTjsGn431qiGpl9quAl",
+        "name": "Podcast Dev em Dobro"
+    },
+    {
+        "description": "Bom dia Tech! Tudo bem? Sejam bem-vindos ao seu podcast diário, de segunda a sexta, com as principais notícias de tecnologia do momento!",
+        "id": "5rpatrW6OKU2gj6jCNKkO6",
+        "name": "Bom dia Tech"
+    },
+    {
+        "description": "This is the podcast for rebels with a cause—where new thinking and technologies - such as AI - disrupts danger, data outsmarts disasters, and innovation rewires the way we protect people and the planet. Hosted by pioneers who think like hackers and act like changemakers, Risk Hacker dives into how technology and rewired risk management solutions are transforming Environmental, Health, and Safety (EHS) from reactive rules into proactive power moves.Because a hacker isn’t just a coder—it’s someone who solves problems by non-standard means. And EHS needs breakthrough approaches.If you're ready to rewrite the rules of risk—you’re in the right place.",
+        "id": "3euaT9Yjp6J437yn1lDUNt",
+        "name": "Risk Hackers - Seeking EHS Breakthrough"
+    },
+    {
+        "description": "American companies, whole towns, have been eviscerated by Chinese cyberattacks. But their stories remain untold, even as the stakes get higher and the targets more reckless.  To Catch a Thief is a first-of-its-kind, documentary look at China’s rise to cyber supremacy. This podcast charts the evolution of China’s state-sponsored hackers, from their beginnings as “the most polite, mediocre hackers in cyberspace” to the “apex predator” that now haunts America’s critical infrastructure.   Host Nicole Perlroth, bestselling author and former lead cybersecurity and digital espionage reporter for The New York Times, interviews those who were victimized, and instrumental in tracking, Chinese cyberattacks as the threat morphed from trade secret theft, to blanket surveillance, to pre-positioning in America’s critical infrastructure. For what purpose? To Catch a Thief interrogates the motives behind it all.  This audio documentary is produced by Rubrik, the leading data security company that delivers cyber resilience for businesses around the world.",
+        "id": "1xFnf1ReS81p79TtR7f6vj",
+        "name": "To Catch a Thief: China’s Rise to Cyber Supremacy"
+    },
+    {
+        "description": "Bienvenue dans Data Pop, le podcast qui hacke l’info cybersécurité pour la rendre croustillante ! Chaque semaine, on décortique les attaques, failles et coups de génie des hackers, sans jargon plombant. Au menu : anecdotes de pentesters, news zero-day, détours pop culture et tips pour rester safe en ligne. Un shot d’adrénaline numérique servi avec humour, énergie et son sampling 8-bit. Branche tes écouteurs, abonne-toi, et transforme chaque alerte rouge en bonne dose de fun instructif ! Des guests surprise, quiz éclair et débrief pour briller au bureau.",
+        "id": "2QAoIKwZK9IgBQZ036EvTQ",
+        "name": "DATA POP"
+    },
+    {
+        "description": "Everyday society depends more on electronics, social media etc, and by doing so they expose their private data to the public eye. Each Saturday, join Hackers Con Calle is a group of Cyber Security professionals dedicated to inform the audience of current trends and a how to protect the digital life.",
+        "id": "7M8pc8E8ElbJ8LMoFi9kFa",
+        "name": "Hackers Con Calle"
+    },
+    {
+        "description": "Hablaremos sobre la Tecnología en los negocios = Inteligencia Artificial, Big Data, Growth Hacking y Startups.",
+        "id": "6MejaxN5q75YD2ckrJkP23",
+        "name": "HACKERS DEL CRECIMIENTO"
+    },
+    {
+        "description": "In the shadows of the digital world, where anonymity is power and information is currency, battle lines are drawn not with bullets but with code. This show takes listeners deep into the heart of cyberspace’s most high-stakes confrontations — where rogue programmers exploit vulnerabilities, corporations scramble to secure their data empires, and government agencies wage invisible wars across invisible lines. It’s a realm shaped by encryption, espionage, whistleblowers, and wild ambition. From black hat exploits to state-sponsored surveillance, every episode explores the blurred boundaries between ethics and law, privacy and paranoia, control and chaos. This isn’t just about computers — it’s about the future of power itself. Join as we uncover 11 million untold true stories. Disclosure Statement: The National Media Archive and affiliated programs use Artificial Intelligence throughout areas of research, production, and editing. These tools are actively embraced as part of our approach to development and workflow. All outputs are subject to human review to ensure they meet our editorial standards. For more information about our use of AI, please visit our website at NationalMediaArchive.com",
+        "id": "1s5RD5PFaPxGW9oLJ3ZFsU",
+        "name": "Hackers: Code and Chaos"
+    },
+    {
+        "description": "Welcome to Ethical Data, Explained, where we delve into the world of data and data collection.  In our podcast, we aim to debunk common myths surrounding web scraping and answer burning questions like: Is web scraping legal? Is it ethical to use proxies for data collection? Why do companies scrape data? etc. We invite tech entrepreneurs, data security experts, lawmakers, and hackers to look at data and public data collection from various points of view to unlock safe and ethical web scraping for businesses.  Join us as we chat with experts about data, web scraping, proxies, ethics, and security.",
+        "id": "0PIVy60KSm5bdIeWBqTT5D",
+        "name": "Ethical Data, Explained"
+    },
+    {
+        "description": "In today’s digital world, your personal data is more valuable than ever — and more vulnerable too. In this episode, we uncover the essential steps you can take to keep your information safe from hackers, scams, and data leaks. From strong passwords and two-factor authentication to privacy settings and safe browsing habits, learn how to build a solid defense around your digital life. Whether you’re an everyday internet user or a tech enthusiast, this guide will help you stay one step ahead of cyber threats and protect what matters most — your data and your privacy.",
+        "id": "2veFhfzXzawPeo7bGJ7e66",
+        "name": "Protect Your data | Essential guide to protect your data"
+    },
+    {
+        "description": "This is the ad free and bonus episode feed of Darknet Diaries. Explore the dark side of the Internet with host Jack Rhysider as he takes you on a journey through the chilling world of privacy hacks, data breaches, and cyber crime. The masterful criminal hackers who dwell on the dark side show us just how vulnerable we all are.",
+        "id": "2N72j63hJ1fH5dyzu7ReLB",
+        "name": "Darknet Diaries Plus"
+    },
+    {
+        "description": "Data/Internet security you name it I'm interested in. Just here to let some steam off or even see if anyone understands me. Has to be someone who knows what I talk about, haha tired of confusing people now. Any Body on my wave level.",
+        "id": "7kU6yrZ33zDGmuCLXepEPK",
+        "name": "It's All About Data/Internet These Days. Hackers Who Are Basically F***ING Thigs Up."
+    },
+    {
+        "description": "This is a podcast series that will hopefully help you learn about the role of hackers, computer programmers, data scientists all all sorts of nerds and magicians who help build our digital societies today. I am your host Paula Bialski, and I am Associate Professor for Digital Sociology at the University of St. Gallen and an affiliate researcher at the Centre for Digital Cultures at Leuphana University in Luneburg Germany.  I am ethnographer of digital cultures, which just means that I like befriending all sorts of technically-savvy nerds, which I’ve done in my research stints in the past.  This podcast was originally created for my Contextual Studies course at St. Gallen University in April 2020. A lot what I will be talking to you throughout this podcast lecture will come from my own two year research project where I hung out among corporate programmers in Berlin who made mapping and navigation software.  This podcast is written and read by Paula Bialski. Production, sound editing, and sound design was done by Heights Beats. Thank you in particular to Chris Kelty and Biella Coleman and our endeavour at hackcur.io for inspiring this podcast, as well as the Leuphana University Luneburg and the University of St. Gallen.",
+        "id": "5NJGLJ0EGqTsNylTSk8xrW",
+        "name": "Programmers, Hackers and Hacks: the people and practices behind our machines"
+    },
+    {
+        "description": "Exploit brokers is dedicated to tech and hacking news commentary, hacking tutorials, and cyber security topics. Exploit brokers brings the knowledge of hacking to you. We review data breaches, malware infections, Botnet events, and other notable hacking events to learn how to better defend against it by getting in the mind of hackers. #cybersecurity #hackingnews #cybersec #whitehat",
+        "id": "3YRafqb2OGxfXgoIPfRbe2",
+        "name": "Exploit Brokers - Tech and Hacking News Commentary"
+    },
+    {
+        "description": "Pardon Maman est un podcast qui fait de la vulgarisation comme on aurait aimé en entendre à la radio, à la télé ou de la part de nos profs il y a des années. Si un sujet t’intrigue on peut le simplifier, mais on peut pas promettre de rester polis. On va creuser des sujets divers et variés pour les présenter de façon factuelle et facile à assimiler, avec aucun veto : des papillons au cinéma français des années 60, en passant par la religion et les hackers. Souvent accompagnés d’invité(e)s, toujours d’un peu de vin !iTunes : https://itunes.apple.com/fr/podcast/pardon-maman/id1234291617Spotify : https://open.spotify.com/show/3qaC9qCtUSFh60idYUlSKfDeezer : http://www.deezer.com/show/54685Youtube : https://www.youtube.com/channel/UCH6doNjB102NpaR7p4MHDewFacebook : https://www.facebook.com/PardonMamanPodcast/Twitter : https://twitter.com/PardonMamanPodInstagram : https://www.instagram.com/pardonmamanpodcast/Le site : http://pardonmaman.frPour avoir des infos sur le podcast :My Podcast Data : https://www.mypodcastdata.com/Crédit générique : Shinjuku Street - Senbei (https://www.facebook.com/mistersenbei/ ) Hébergé par Acast. Visitez acast.com/privacy pour plus d'informations.",
+        "id": "3qaC9qCtUSFh60idYUlSKf",
+        "name": "Pardon Maman"
+    },
+    {
+        "description": "Uncommon methods for maximizing health and performance with an emphasis on real-world implementation of Heart Rate Variability and other biomarkers.   From biohacking to quantified self, world class doctors, coaches and athletes cover the latest research (from the lab and field), and the methods and \"tricks\" that get the best results.   Right out of the gate you can expect the President of the American Functional Medicine Association, leading HRV researchers, elite and Olympic-level sport scientists, metabolism hackers, data scientists, rehabilitation specialists, and more.   Follow the show on Twitter: @elitehrv",
+        "id": "5wcjfEn1GxY8fOhjNYs0FV",
+        "name": "The Elite HRV Podcast: Heart Rate Variability, Biohacking Health & Performance, Quantified Self"
+    },
+    {
+        "description": "It aims at creating awareness around hackers stealing financial information and how cyber crime continues to evolve, with new threats surfacing every year. They can, in effect, destroy businesses and damage your financial and personal lives — especially if you’re the victim of identity theft. Cyber attacks are an evolving danger to organizations, employees and consumers. They may be designed to access or destroy sensitive data or extort money. At Hidden Files, hope listeners will be able to find tips for a better cyber security. These are real life stories solved by Amit Dubey during the lockdown period.",
+        "id": "7r3ijPPBDnBAlN7iv8m8M2",
+        "name": "Hidden Files"
+    },
+    {
+        "description": "In the shadows of the digital world, where anonymity is power and information is currency, battle lines are drawn not with bullets but with code. This show takes listeners deep into the heart of cyberspace’s most high-stakes confrontations — where rogue programmers exploit vulnerabilities, corporations scramble to secure their data empires, and government agencies wage invisible wars across invisible lines. It’s a realm shaped by encryption, espionage, whistleblowers, and wild ambition. From black hat exploits to state-sponsored surveillance, every episode explores the blurred boundaries between ethics and law, privacy and paranoia, control and chaos. This isn’t just about computers — it’s about the future of power itself.  Join as we uncover 11 million untold true stories.  Disclosure Statement: The National Media Archive and affiliated programs use Artificial Intelligence throughout areas of research, production, and editing. These tools are actively embraced as part of our approach to development and workflow. All outputs are subject to human review to ensure they meet our editorial standards. For more information about our use of AI, please visit our website at NationalMediaArchive.com/ai",
+        "id": "3lnyZdmIFd8kEfN2bY9juE",
+        "name": "Hackers: Code & Chaos | National Media Archive"
+    }
+]
